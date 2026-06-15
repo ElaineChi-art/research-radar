@@ -1,7 +1,304 @@
 [
   {
+    "name": "台灣金融／經濟犯罪",
+    "desc": "內線交易・背信・掏空・證券詐欺・洗錢（重金庭領域）",
+    "kind": "tw",
+    "cols": [
+      {
+        "label": "⚖️ 判決・訴訟",
+        "items": [
+          {
+            "title": "「開心鬼」黃百鳴涉股票內線交易 判刑5個月、開罰近190萬│TVBS新聞網 - TVBS新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYem5TQi1rQXc3cmh4eDJ2c3FUZ05FeHlLRHlWUDFtaFdKQzJObmhaNnR3bmxWTzVScW9NQXVJdm1UMkowLTVmWXNwZFVmX1k?oc=5",
+            "date": "2026-06-10",
+            "meta": "TVBS新聞網",
+            "summary": ""
+          },
+          {
+            "title": "80歲「開心鬼」黃百鳴涉內線交易 遭香港法院判刑5個月 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQb2hyQXRmbEEtckNFREVqQ3ZMZEhGQXZncHg5NDh0TjhLYjd6eGExdk9rQkZyNnB0UDJjQUxyZVdJZ0dPSG5rT1NqR1hHU3d2dkwycmx3eUViV19KSXZoVG44REk5SGRlN3lNREctVkFSNWtQMFg3ZHhtMmlLdWtYRGFlc1dBdkFsVlJLTUppZ1p5WVh3M29rd000TDloUHkzeGtMSW5zeVJ3UkdxLVJVbWN1czNMLThxQlNYRk5hQnAwb0RCTUVJdElfbHc1LVpKbkczMERib0dGVlUzd0NMMWFuUnNNbzgtV1hETEd4SVVIbERpdjZITkpwUnFpR3R3MkdFWENXZ1EyeGd2U2UxQ3ZBdmZsVGpoeXF5a2VDREtMUTJlVjZFMVZnMjdpRUZib3BXT0phbjZJa2pBTWRzTDNWWUxxQ1hESzRHYVpfWm12R3VwSlRR?oc=5",
+            "date": "2026-06-09",
+            "meta": "Yahoo新聞",
+            "summary": ""
+          },
+          {
+            "title": "香港電影界名人黃百鳴涉股票內線交易 判刑5個月 - 芋傳媒 TaroNews",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yc2JWaGhIUTVqdHMxc1d3M21hRVQzZ3piQjRqR1FIZGtQbVhQMHl6Zk9pVHktOTlkczYtbWJ3cEhHQ3pXSkFidE9lZzhBOEJy?oc=5",
+            "date": "2026-06-09",
+            "meta": "芋傳媒 TaroNews",
+            "summary": ""
+          },
+          {
+            "title": "香港「開心鬼」黃百鳴涉股票內線交易 遭判刑5個月 - 噓！星聞",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUkNWSnAyWGs2b0hObUdra2RKZFhFamJSVC16V3lvMU5LeHU0a0tjYTFObkdSbXEwT0Q1VXk4dUlZXzZ6NWw2VDFEaVNvOEUwcEtDWXIxUzFsUQ?oc=5",
+            "date": "2026-06-09",
+            "meta": "噓！星聞",
+            "summary": ""
+          },
+          {
+            "title": "涉利用內線交易牟利35萬 華裔分析師被起訴 - 大纪元",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUm9idjM5dHBzdkFHU3ZnSHNBc19MVDM1YTZneHZjYmNhZE1NNFF6WkliaG8wZlhZMGtzVEYwemVabzFTQjlhcTUwYkhkUnY0ZjFseVo4a2g4LWpEY3Ew0gFkQVVfeXFMT3hlcnUySFpsZ3FVR0pzMmgtR3RTNVpNSFQxRDdwY25Va2t3SlA3cXZ0d1c2MVA4T2xzUjFjejNFelVXa3lRYnVSMFlIUnNRYTRUSEM3T1JPRlFZNzhNaEtORzlGaQ?oc=5",
+            "date": "2026-06-06",
+            "meta": "大纪元",
+            "summary": ""
+          },
+          {
+            "title": "黃百鳴涉內線交易 遭判刑五個月！ - 華人今日網",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0ZVhKWGxyTGxkTGhlQ0FEaEVYLWJENnkxc0hPZ2hlaDdyWDEtOWNXSW5nQ2Fidm00ZkxuQUx1eHp4TkdvaVBoOUFWLWZ6aG5aSE94WTF2UHpNUnlNTUdrZU1uaHMzUQ?oc=5",
+            "date": "2026-06-10",
+            "meta": "華人今日網",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "label": "📋 法規・修法",
+        "items": [
+          {
+            "title": "法務部預告修正洗錢防制法 未登記第三方支付洗錢 可判10年刑 - 自由時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNS2lIeml3SVl6YVFYekNEOExMdThNWDVhSmJpaW45TDBoZTNRUXVfRkNJdmZieEJ3ZElUbENSNHQyRUtNLVprT2xIS2NwR0duVTdRSGtFMmFVUjJfbnBz0gFkQVVfeXFMT2xsb1ZSaEpSWUV2b0d6SWk0bktvQ3E5UzVfR2JrelBhOHhPN0VQakpuMlVoWHFaNG8xZ1hUOXhOZjBncXdycW9zWFo5NEptZ0lFSC1QczF4Nzhwd01uMXRPLXZIeQ?oc=5",
+            "date": "2026-06-08",
+            "meta": "自由時報",
+            "summary": ""
+          },
+          {
+            "title": "洗錢防制法修法推手、主任檢察官林彥均率隊破獲太子集團案 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQTlIUnkyZlZqTGREbGsxVDZ3eXdFWEI3ak9RVmJoMWNPaUhYLXlMZWNZdG9idnVETjk3SXBWaHQ5MnpaaFZNVGNqamlFZGg00gFWQVVfeXFMTXZMdWZCVG1yaWRlaC10R3FBQWtqbEFDUkh1c3NJSzNueURfUjdkbVhQcms1a0otS0VCTFpKNnpuTGhPU2hkcUhfMGhOVmo2NFNvbXc0T3c?oc=5",
+            "date": "2026-03-04",
+            "meta": "UDN",
+            "summary": ""
+          },
+          {
+            "title": "2026基層員工月薪沒6.3萬等加薪？全台「薪水條款」新規全解析 - 城市學",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nYUFkQ0JuaS04Q1JwUWFrd0NWSExpWjZVNkFWQVdSbkZYTDhzM1dGMEt1ODRrY3Z6b3AxQXNieHJRMkhXMzU3VWFXNC0xaXc?oc=5",
+            "date": "2026-01-06",
+            "meta": "城市學",
+            "summary": ""
+          },
+          {
+            "title": "神州金融｜人行：推進人民銀行法、金融穩定法等立法修法 - 香港經濟日報HKET",
+            "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNQllLZ3F1MVBxVElnNC1DLTdhdmloNEh0N0o5N25LQXZlNzFqRG1qUFhaRms0N0FHelRxU0NRc1FtS1JueVB2Q0s5SkhFRGNWdXg5UllWVHpVelZGNTVhTXJzZ0tZbm1ubktNZVo4QWlwaXo2MHh6S2FBc1pqR2pFTExNdjQxUUNSZlFyLXlJc1B3SFdtRXVDUEMyUUdTSUxmTHVMbjdZVXFnUk9PXzV4Rmp5TmFvNzN4QlhYRXRUVy1GZFR5Zno1WFBpSlhySmNFbGV1QmpHSDE2ZGdOSmF1Y3N0SlNMTERMYk5rRnAyUWVDMXdSLWJtZUd1eFhwczdrbHhLR2dLWG55c1hqcHdWMkhiZzJjRnhob2lUVWY5WEhuSFpkN01WNFJYeTgxdUZVZnFiV3BIX1Qwc0t6UUJMVVhXTGVUU293V0xVclM2UzE2ckRBWTlrN3V4V3o3TXpHSHJuSldWcnFHNmJZTEpYZ19pRWhpMEhPekdvQm1YZ0laajRnc0xqa0JB?oc=5",
+            "date": "2026-03-19",
+            "meta": "香港經濟日報HKET",
+            "summary": ""
+          },
+          {
+            "title": "立院審銀行法部分條文修正草案 彭金隆列席備詢 (圖) - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxObkc2dGx5TUxVeG94ZXl2ZWZISGlHZlg4S2pwTGs3TWs1eWhudVlhNEZzWWYyS3BqbHN4OGwzbW0wdk9QYm1RMGhBc3NkcDR4eTdsY3VnZ183dW1YRmVIbl9YUXBRQjdfYWhjU3Y1b25Na3FhLUZ1WEZhUWExVUdmSkJLM0hfbG9NYTBFNXZ1dzA3U1NmRV9WandvZS1qc3ZSU3c5emRjck9abVVjYXBmS1VPZXNxa1VEZm9JLXlEVmVibkdFakxjd1dIeVhKa3hCRHVXV3lyMkwzRnRtVGRQU01zRU41V0RRak83TEo1R25DbEFrSTJVeGVUMW43NGUwcDJzTmN1X3pyZnVfT1ZXWUpZNV9sbTV0QV9qVkdmNEhPdWVfVkNBcWxXOG5YSDhjb0dvLXhWRWxzQU5rYV9ySGRxc0ZKbDVxVVpNWm5CQnRPTGRnTHoySGVISDdBQQ?oc=5",
+            "date": "2025-12-02",
+            "meta": "Yahoo新聞",
+            "summary": ""
+          },
+          {
+            "title": "《證交法》修正草案三讀通過 上市櫃公司盈餘需分派基層 - 公視新聞網PNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BWUhwWFREQVQwNjJ0WUJYTGVFQUlUaGhNN3dSVEpNMHdBNlZSdnRDYS0xTHFWSHRqekJiYnEzTVRIQkQ4S3lLanJ0aXV3WVE?oc=5",
+            "date": "2024-07-16",
+            "meta": "公視新聞網PNN",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "label": "📰 動態・評析",
+        "items": [
+          {
+            "title": "瑞士打擊金融犯罪卡關 檢察總長嘆：過時法規成拖延利器 - 民視新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yd2dUY1JzTTZhaTM4eGJELXd2d09XVHBsZEV2TDBrOVZXYVI3MHdEajhwYnpoMl9DTENRMTVfd0cxLUVZcE1aeXBzUGQxUnUyTWtscjNhcDJnSXUzY2xUXw?oc=5",
+            "date": "2026-06-15",
+            "meta": "民視新聞網",
+            "summary": ""
+          },
+          {
+            "title": "中國首位爆紅女星遭槍決 陪睡官員、涉重大經濟犯罪 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZE1BczVZXzBKaVBpa0kyYVpfTnRUTGVFaDBlbGFmV2pqOExpdWlURmJPcnlUWHpidzdWM3lmMlNSbnhpVkJMbTFfWGhSbkF0cmJTTktFRnFrdDJSSDJEcTc3WXRlbWhCQUE5dlJhQUJsYkNpSVJOUFdHV2QxQkxmRWdneWJCYXV4bEc5M2VlV284WDN4d2NaT1RhYWpmQ0dMWDVmamR5ZzBQWlVxZ3NOc1BOXzRJWjJtaXl5czJ3dW5CQ3dmYXhQejBndm5vQWFmQzNNUnY2UXQ5bV9VN1Z4THo5QUxtS0ZiTkNFY2VkOE9CR0lubUZVd2stQm1sM1lQRV9ySUhxNlh2OWNieFVKcHc1dWZMekZpS09FbGlRbTFLSTZaaWpuZ2FXeU9aSnhKZnR6RHFqd1NJcmxPUXg3RHprSGhwSGJ4TVJickVEdnlBbDRfdkdaVWxPQkxxQQ?oc=5",
+            "date": "2026-05-01",
+            "meta": "Yahoo新聞",
+            "summary": ""
+          },
+          {
+            "title": "經濟犯罪防制處公告：為強化民眾反詐騙意識，法務部函轉內政部更新反詐宣導影片下載連結「https://pse.is/94vqqj」，請各外勤單位同仁先以外網方式連結至該Google雲端硬碟下載，並積極運用各式管道、場所或公共空間以協助推播所附影片檔案，以強化防詐騙宣導效 - mjib.gov.tw",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0eHduQkd0dzk2dXNVajVvb09qT0RiRXBKR1hJbW9NTzF2akhuRzhmV01KeXduZ1ZfS2hjZ0ozRGZnbkI5OEFseU05QXFGUkNEOVoxQU9n?oc=5",
+            "date": "2026-06-08",
+            "meta": "mjib.gov.tw",
+            "summary": ""
+          },
+          {
+            "title": "屏東檢警攜手全面掃蕩地下金融犯罪 營造幸福城市 - 台灣新聞雲",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41WkZLVk9PblpGMGNhSnd6WGVUeEdmVks1UW4tYUYwd1o1T2ZxVFRQUVFtZDVVWXFRZF96WDVIanFpTXZEcTJN?oc=5",
+            "date": "2026-06-01",
+            "meta": "台灣新聞雲",
+            "summary": ""
+          },
+          {
+            "title": "屏東檢警選前全面掃蕩地下金融犯罪 營造幸福城市 - 報新聞",
+            "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOOXpmd1VvMmV4eERmUlN0OXQ0eE11bnhmU0JLSVhyR0NxYlVaWnVTT1ZKdVZwdEpCNVVOaGZVR3ZmZk1nU0lmQzhiNU1CRWRLd25mazhWQmJTMVI1Sm1ZQlV0SjZvdU9xZU5KN1VPd2s2RDBId1JqUEZ0Tk5kMnVqYnREdE9VUGUyaG10N0k0TG0wQUdCSE5MNkliNVhXaFlIWjZTdGt0NFRjQ2wzbjF5azlIcERtdkxGOGJ1QXpxYXlzQXVOVklnWW1LRDlkU1BaNElvaTZPdlluSDVnWFY2ZXh4OTlNTTVGVE1SUlllUkd5QlZSNnRWQlJ4U21wT2JHOWNPTlE0NmtYc2tuY21PQ21QVEVzN09VeEdobW1pX1dzX0xkazluRmtLbFBnNEo5MzVlaHJXS1JscF85SjYtc2pWUFR0WlBaV1RCQkJhYnNqTUUyd0VqeUN6SW81eS1hNHZsNWM4TQ?oc=5",
+            "date": "2026-06-01",
+            "meta": "報新聞",
+            "summary": ""
+          },
+          {
+            "title": "陸破12萬經濟犯罪案 救千億經損 - 翻爆",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aQUhDTlQ2WFl4UkVFaFQ0RjBIVzVHcDlicWZPclN4RE0yWS1VVV9PTW1mY2hIcVlXcE90ZkZzLVZTRy0xMGtxTW1YVVZEM0E?oc=5",
+            "date": "2026-05-27",
+            "meta": "翻爆",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "台灣智財（著作權・商標・專利）",
+    "desc": "台灣智財判決、修法動態，與 AI×智財",
+    "kind": "tw",
+    "cols": [
+      {
+        "label": "⚖️ 判決・訴訟",
+        "items": [
+          {
+            "title": "【北美智權報406期】拆夥後使用當初的商標就是故意侵權嗎？ | 2026 年 6 月 16 日侵權訴訟, 商標要聞, 要聞 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TclJMbXJzY0FTbF8zOFBESklPWXdnSUVLSWpjZUl1VDJ1b2JrbUNWRW1fQ1BfcldNLW9ueUdLX0s1bnpJQlcwMQ?oc=5",
+            "date": "2026-06-15",
+            "meta": "北美智權",
+            "summary": ""
+          },
+          {
+            "title": "連鎖品牌「遇見小面」訴夫妻店商標侵權 引爭議 - 大纪元",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hSnc5a0VWRHVnb1oxTHZPaUpxU3BaN19sX3ZsUmF2SzN6ekdwOVV0SVRlQ0R2TWtwUlk4SFQzUTJZRGVSdVZJbWxDcHludXY4TGZoenRlakw1N1Q2TkZhcNIBZkFVX3lxTE1XMzRfY2s0MUx5Z0VqRzlHbXNjMWJkWDlhMEk0Qno4aGQwSVdJTjdUcmQ2amFMZUw1RlBuYWNiMk10RDZlM0tBNjdEN0hEWWFpNkJCeWZFQW41c253WDAwSV9nUjMyUQ?oc=5",
+            "date": "2026-06-15",
+            "meta": "大纪元",
+            "summary": ""
+          },
+          {
+            "title": "台積被控侵權…專利蟑螂目的 多半不是錢 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOExHNEFpalE3UFlrZDNtUVhmYVJ0OW5RSHJYOGMwS0REdkU1TnhNbzJSOGNsNmEtYjZpWmsya1JnUGZGQ0tmejRMVjlHWGtm0gFWQVVfeXFMT3NfZ3R2bXg1R3dJR0puSnUzSnlYalZKcnM2RDd5RHhXTndUOUVnNmlYYzVlYXk2S0xMLVJCUlF0WEZfVDJDVjRtUUV6OGJwSDlfVHppN2c?oc=5",
+            "date": "2026-06-11",
+            "meta": "UDN",
+            "summary": ""
+          },
+          {
+            "title": "捲入美國專利侵權風波台積電：營運遵守法規| 科技 - 非凡新聞台",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMmJVdXlTM191b2pxR0ltUDN5RzJFQW5SSld6eW56RG9tU2dHanVnRUl6Vkl6TjE2M2JJci1WUEx0WTZMYVV6bWIyVGpOcEJhdUJ2T3pRWGNyY2c?oc=5",
+            "date": "2026-06-11",
+            "meta": "非凡新聞台",
+            "summary": ""
+          },
+          {
+            "title": "台積電震撼彈！遭爆捲美國專利侵權訴訟 最新回應曝光 - 自由財經",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMkdWVkpNR3oxeVUxYlY1bzc3Ti01WWhmYVplbTJVM0s4VEl3bUwzTXRZQnhKOTZYT3BEbndlRmF2ZU04MEhNSWpSdzBLYlkwNkJZSTVsdU5vdVZfMEdV0gFkQVVfeXFMTjZlSFBnNk42Yk1CSmdMOW0wbHhRVmZybTlVNndSTFJQNFljXzNkNkY4c2g3OWo4ZlBhQ21nMEdYSlNqd0VxeXptQ2pZZVJaYTU4TndReUp5YjB4VjZlWHJJZC1Tcw?oc=5",
+            "date": "2026-06-11",
+            "meta": "自由財經",
+            "summary": ""
+          },
+          {
+            "title": "台積電被告侵權！美國議員要求依法保護專利 - news.cnyes.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlUnRUMXBnbWtaY2s3WlBCaXdseFJ6UTE2NnNqWjFPRlpOMzBKdEZkMDBtaDlxdERINjlxc1RCOFZ3NjhBQ0YzT0p1Z3NzQ1U?oc=5",
+            "date": "2026-06-11",
+            "meta": "news.cnyes.com",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "label": "📋 法規・修法",
+        "items": [
+          {
+            "title": "日本政府通過著作權法修正草案＝歌曲授權費用將回饋給歌手 - nippon.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtclUxd2d0QzlMOTdqcU9mdkRtdHNrYUpGa2NiUXA5WElfQ0gtaVlTaEV0VGU5WWc5ZGxEeTc5dWF2SERjaVNSRzRCOUgtODNvb09qeHkzY1BKZkY3?oc=5",
+            "date": "2026-05-15",
+            "meta": "nippon.com",
+            "summary": ""
+          },
+          {
+            "title": "【北美智權報395期】從中國商標法第五次修法看商標策略佈局 | 2026 年 1 月 1 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RQndHR3VEZHhoNjdJQUI5YWwxTFFYVnVoTm55ZWpkQkM2dXR3T1Frc3B4VTQxQ0dONWV5cEk1Zlp4aHpxLXNXZw?oc=5",
+            "date": "2026-01-01",
+            "meta": "北美智權",
+            "summary": ""
+          },
+          {
+            "title": "駐京專電｜商標法修訂草案首提人大審議，「打擦邊球」或面臨嚴懲 - 香港經濟日報HKET",
+            "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQMkJKT0tEUEFqdE9uMjAta1JOS1RhY3ltaUFPUEw1ek5DcUpjd3BTZy1QLWZJLW0xdEpLem1sNjdRZW9qNExoc3E2WEVBSjRDcmh3amhVc21CVzRrZ1pJc19MQjdxaXc2c2NJdTkyN1hrY3htYllIdV9UQ3ozT1QwMFhqc0J1dmNwZkZ3dFYyUzk1Q1hzel9YdzN5SUlXd3FDWThPRDVYQTRPbmw1bGlDNkM1TTQxcWpheUt3Sl94cVBTYjFKbEVsMnBKOVZFUURSRURZLTJSeFNnQllIX2N1X2ZEMnI5LVVvSEV0aTlNQzMwQkZCWTF6N29NeEpncHNTdEVjWG5JODVxWi1Dak5Ua3pZS2hndVJQSnJZcmNDRDYxR2J3aXhibUdPTFdOeURCbDg5ZWxwby1UUzAzZVlHVHN1SElaNDI1RUhxT1Q0ellKOXlyYnA1dF9wVGp5eG5rQWE2SVBFTC1IV0NNREYtdmNpOVVNaTNXU252RzlRMThWbkI0Ul9tYzdza1NENmxoLXZ2VEFBYnZrZjlSZW51LVJ2M2h2MlhXZ1JMTlFIcFNVcnBEaDR1QUd3?oc=5",
+            "date": "2025-12-22",
+            "meta": "香港經濟日報HKET",
+            "summary": ""
+          },
+          {
+            "title": "因應推動加入CPTPP，立法院三讀通過智慧財產權三法案 - moea.gov.tw",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX09BeVV5NFBOd0phWHUxYVV4cjJOTDlEUFJEcmdXd0wyVFN5UmtnRUozSWh1dF85QUI4SkozVklPelV4N1ZsUEZWcG01SVkxMDREd0ZGYmxSY0Rlbm85Ri0xa2kzbEhqM2xIQXJiTlF2SGlHeHItUWJpLUV6YjNyY25USWZJMHZHdjBJ?oc=5",
+            "date": "2022-04-15",
+            "meta": "moea.gov.tw",
+            "summary": ""
+          },
+          {
+            "title": "9/25(五)「談著作權法修正案對錄音著作授權實務的影響」講座，歡迎報名參加！ - NCCU MAIL",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZ1FzbWdUOFFvMF9vU3lCaDQ0bWtPODg0Y3ZNeTRSOHZGRjQtTDRHb2pndWRsSXFTOTNzcGRtMy1lODI3UFRuWWtPSnFGMXJjdGpDalhzTjZ3S0FDajJGUzBYbEVnMzlaM1E?oc=5",
+            "date": "2020-09-17",
+            "meta": "NCCU MAIL",
+            "summary": ""
+          },
+          {
+            "title": "著作權法修正草案：電腦程式著作權可達死亡後50年 - iThome",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVZGZzR0RrVmhwZFRYc0hpM2tXaEJiZ1Q4VUw2M0MyNlN4UE1TenlPcjB0U2Z1cWpaYVVMSDVadldXT0dWcTRSa0NOQUg?oc=5",
+            "date": "2021-09-28",
+            "meta": "iThome",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "label": "📰 AI×智財 動態",
+        "items": [
+          {
+            "title": "【北美智權報399期】WIPO 2026智財報告拆解：生成式AI的技術擴散與流向 | 2026 年 3 月 1 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1md2h4MU91c3c2SXY3WkJaUkZXajRzeE9sQ2EyRTR3MWdrenVDcU9KUUNPc0V0NlNJend4TFJ6UjZQcTV4VFN1bw?oc=5",
+            "date": "2026-03-01",
+            "meta": "北美智權",
+            "summary": ""
+          },
+          {
+            "title": "AI 生成內容算誰的？美國智慧財產權制度面臨重塑 - TechNews 科技新報",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmk5bjhtckhvT0hCMlJfMFV1ZFFkWGVKeWsxekhPZTBoa1lGbXoyZnFNZ2J1elNYQ3cwQlE2c2UzdmNkbzBuNl9vcDZVMkNnVnh6cjlGS3V2c1pZbjZWQkYyekdLMUdrQ2lTYU1ZYkIwLXNoalVNejM2RkVFcFFEWk9pUGItZ0p6V1VpQzZYanlVdzVJemRRbzA2NA?oc=5",
+            "date": "2025-12-27",
+            "meta": "TechNews 科技新報",
+            "summary": ""
+          },
+          {
+            "title": "AI碰上智慧財產權：2026年四月全球最新發展 - 報新聞",
+            "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPSVRLUmlTMTRfYktjOF9ZSl8wRkNsaHpsaWtrdzMwWWs4dVV4cGZsOTRJZUlwdjhIaC1UaGRUUTRURUhobmNpSFZKSUplMGdweFVZSWlFaVRmNzBrRG8zd3YtRU50VWZMWm01Tk5mTG5BVTJGX3JuVmhpb3lrczcxNEUzLWF2VnJLMHYzd2RORFg0R3BRWVBzdmRKNFZaVVh5aEtKSFFvS0dHc0x0S2g4SXNDWGJSc0NwNk9Rd0h5MXhlRUllWHIwSHl4a2E5V1JISlFIVjkzOWxhTEZGNzJVZ3pLWHNTTzhZVU9wX29SeVV0dFBocWczVm5JNGZ1bmlWM2dDQXJ1YnNqcUFjRVJfV0dmOVhlUXZMLUFfSVNMUllEQk9kXzNuTFd2UnY3aTJpSDIw?oc=5",
+            "date": "2026-05-22",
+            "meta": "報新聞",
+            "summary": ""
+          },
+          {
+            "title": "專利情報： AI之LLM訓練真有白吃的午餐？ —從Anthropic著作侵權15億美金天價和解談起 - 科技產業資訊室",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rWWxXWXlWVnBMQWljbGUxTWNSeDdyeGZTeDdnR2ZkSlRBLWpSQnhjVGl3d2lFNGJGdlQ5T1VUdzFFVzQwTUh0a2dma0hOZHZDSW5LbktWZ2xTSWlPUE9Yd2FVNVBnM0VKbnc?oc=5",
+            "date": "2025-11-14",
+            "meta": "科技產業資訊室",
+            "summary": ""
+          },
+          {
+            "title": "歐洲議會關於生成式人工智慧與著作權的新研究 呼籲全面檢討選擇退出制度 | 法律视野 - Jones Day",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnRqLTh0YWZBd05Wd1ZjSEYzbXEyTzZIRnpuNGRGN3FhMTdmUk4xc3c1cWtpel9FclZ6SHNxcnNRRkNQdExOLVRpY3k4WGVQa3JqbTlxaVNYQWVDcTExbkpzNkVGQ1NfakdYLTR0Mi1DcEVWQ2tOaFhPSzFhQko3Y0NHQnN5TWtwdzhFUEdaRG1sV0FCZ0dvT2RIMHk2MGNHbGVQd2hfTlFZYkJmVjA0SWRzcTFPX1JwMWpDSHBIWmc1MGtfX3d0ZFJDZWxRTmNFQ2lDSlZGQ096S0Z3bEVTeA?oc=5",
+            "date": "2025-08-13",
+            "meta": "Jones Day",
+            "summary": ""
+          },
+          {
+            "title": "生成式AI × IP研討會圓滿落幕 IP數位資產引領新商機 - 墨新聞-MORE News",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BMWE2UTB3ek1vZHRkdTN2b2tTNENxdl96YTQ2YWw5TzJUeFF5UUhmTlBvU0RRR3RpWVJOblNPa0Z4dw?oc=5",
+            "date": "2025-10-07",
+            "meta": "墨新聞-MORE News",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "音樂智財與投資",
     "desc": "音樂 NFT・版稅・數位音樂授權（論文核心）",
+    "kind": "intl",
     "news_en": [
       {
         "title": "RBW Launches 30 Billion Won K-Pop Music IP Project - 조선일보",
@@ -154,6 +451,7 @@
   {
     "name": "區塊鏈演算法治理",
     "desc": "DAO・on-chain governance・智能合約治理（論文範圍）",
+    "kind": "intl",
     "news_en": [
       {
         "title": "Blockchain Governance Explained: On-Chain vs. Off-Chain (2026 Update) - Phemex",
@@ -292,6 +590,7 @@
   {
     "name": "AI 智財權",
     "desc": "生成式 AI 著作權・商標・專利・訓練資料侵權",
+    "kind": "intl",
     "news_en": [
       {
         "title": "Report on a roundtable on music, generative AI, and copyright at the UCL Institute of Brand and Innovation Law - Wolters Kluwer",

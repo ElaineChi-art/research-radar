@@ -27,17 +27,30 @@ def run():
     topics = []
     for t in config.TOPICS:
         print(f"==> {t['name']}")
-        data = {"name": t["name"], "desc": t["desc"]}
+        kind = t.get("kind", "intl")
+        data = {"name": t["name"], "desc": t["desc"], "kind": kind}
         try:
-            data["news_en"] = sources.fetch_news(t["news_en"], "en", config.NEWS_EN_LIMIT)
-            data["news_zh"] = sources.fetch_news(t["news_zh"], "zh", config.NEWS_ZH_LIMIT)
-            data["papers"] = sources.fetch_arxiv(t["arxiv"], config.ARXIV_LIMIT)
-            data["cases"] = sources.fetch_courtlistener(t["court"], config.COURT_LIMIT)
-            print(f"    新聞 {len(data['news_en'])}+{len(data['news_zh'])}　"
-                  f"論文 {len(data['papers'])}　判決 {len(data['cases'])}")
+            if kind == "tw":
+                # 台灣主題：三欄都來自中文新聞，不同查詢角度
+                data["cols"] = [
+                    {"label": c["label"],
+                     "items": sources.fetch_news(c["q"], "zh", config.TW_COL_LIMIT)}
+                    for c in t["cols"]
+                ]
+                print("    " + "　".join(f"{c['label']} {len(c['items'])}" for c in data["cols"]))
+            else:
+                data["news_en"] = sources.fetch_news(t["news_en"], "en", config.NEWS_EN_LIMIT)
+                data["news_zh"] = sources.fetch_news(t["news_zh"], "zh", config.NEWS_ZH_LIMIT)
+                data["papers"] = sources.fetch_arxiv(t["arxiv"], config.ARXIV_LIMIT)
+                data["cases"] = sources.fetch_courtlistener(t["court"], config.COURT_LIMIT)
+                print(f"    新聞 {len(data['news_en'])}+{len(data['news_zh'])}　"
+                      f"論文 {len(data['papers'])}　判決 {len(data['cases'])}")
         except Exception as e:
-            for k in ("news_en", "news_zh", "papers", "cases"):
-                data.setdefault(k, [])
+            if kind == "tw":
+                data.setdefault("cols", [])
+            else:
+                for k in ("news_en", "news_zh", "papers", "cases"):
+                    data.setdefault(k, [])
             print(f"    ⚠️ {e}")
             traceback.print_exc()
         topics.append(data)

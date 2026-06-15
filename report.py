@@ -24,24 +24,26 @@ def build_html(date_str, topics, generated_at):
     """topics: list of dict，每個含 name/desc 與 news/papers/cases。"""
     sections = []
     for t in topics:
-        news = t["news_en"] + t["news_zh"]
+        if t.get("kind") == "tw":
+            tag = '<span class="tag tw">台灣</span>'
+            cols = "".join(
+                f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_items(c["items"])}</div>'
+                for c in t.get("cols", [])
+            )
+        else:
+            tag = '<span class="tag intl">國際</span>'
+            cols = (
+                f'<div class="col"><h3>📰 新聞（中・英）</h3>'
+                f'{_items(t["news_en"] + t["news_zh"])}</div>'
+                f'<div class="col"><h3>📄 最新論文 · arXiv</h3>'
+                f'{_items(t["papers"], show_summary=True)}</div>'
+                f'<div class="col"><h3>⚖️ 美國判決 · CourtListener</h3>'
+                f'{_items(t["cases"], show_summary=True)}</div>'
+            )
         sections.append(f"""
         <section class="topic">
-          <h2>{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
-          <div class="cols">
-            <div class="col">
-              <h3>📰 新聞（中・英）</h3>
-              {_items(news)}
-            </div>
-            <div class="col">
-              <h3>📄 最新論文 · arXiv</h3>
-              {_items(t['papers'], show_summary=True)}
-            </div>
-            <div class="col">
-              <h3>⚖️ 美國判決 · CourtListener</h3>
-              {_items(t['cases'], show_summary=True)}
-            </div>
-          </div>
+          <h2>{tag}{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
+          <div class="cols">{cols}</div>
         </section>""")
     body = "\n".join(sections)
     return f"""<!DOCTYPE html>
@@ -49,7 +51,7 @@ def build_html(date_str, topics, generated_at):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>研究雷達 · 智財／區塊鏈／AI · {date_str}</title>
+<title>研究雷達 · 台灣法律／智財／區塊鏈／AI · {date_str}</title>
 <style>
   * {{ box-sizing:border-box; }}
   body {{ font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
@@ -62,6 +64,10 @@ def build_html(date_str, topics, generated_at):
            padding:18px; margin-bottom:18px; }}
   .topic h2 {{ margin:0 0 14px; font-size:18px; }}
   .desc {{ color:#7c8696; font-size:13px; font-weight:normal; }}
+  .tag {{ font-size:11px; font-weight:600; padding:2px 7px; border-radius:6px;
+         margin-right:8px; vertical-align:middle; }}
+  .tag.tw {{ background:#3a2233; color:#ff9ecb; }}
+  .tag.intl {{ background:#1f2e3a; color:#7fb5ff; }}
   .cols {{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }}
   .col h3 {{ font-size:14px; color:#9aa4b2; margin:0 0 8px;
             border-bottom:1px solid #262b36; padding-bottom:6px; }}
@@ -80,7 +86,7 @@ def build_html(date_str, topics, generated_at):
 </head>
 <body>
 <header>
-  <h1>📡 研究雷達 · 智財 / 區塊鏈 / AI</h1>
+  <h1>📡 研究雷達 · 台灣法律 / 智財 / 區塊鏈 / AI</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新　·　來源：Google News、arXiv、CourtListener</p>
 </header>
 <div class="wrap">
