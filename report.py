@@ -66,17 +66,15 @@ def _feed(items):
     return f'<ul class="feed">{"".join(_item(i) for i in items)}</ul>'
 
 
-def _judgments_block(t):
-    if "judgments" not in t:
-        return ""
+def _judgments_panel(t):
+    """回傳 (判決全文內容html, 命中筆數) ── 給分頁用。"""
     items = t.get("judgments", [])
     upd = t.get("judgments_updated", "")
     if not items:
         note = t.get("judgments_note") or "近期無命中關鍵字的新判決。"
         if "非本 API 服務時間" in note or "尚未" in note:
             note = "⏳ 判決全文將於每日台灣 00:00–06:00 由排程自動抓取並更新。"
-        return ('<div class="judg"><h3>📜 司法院判決全文（金融／經濟犯罪）</h3>'
-                f'<p class="empty">{html.escape(note)}</p></div>')
+        return f'<p class="empty">{html.escape(note)}</p>', 0
     rows = []
     for it in items:
         tags = _tags(it.get("tags") or it.get("keywords"))
@@ -87,9 +85,29 @@ def _judgments_block(t):
             f'<div class="kws">{tags}</div>'
             f'<p class="sum">{html.escape(it.get("snippet",""))}…</p></li>'
         )
-    return (f'<div class="judg"><h3>📜 司法院判決全文（金融／經濟犯罪）'
-            f'<span class="src"> · 全文命中 {len(items)} 筆 · 更新 {html.escape(upd)}</span></h3>'
-            f'<ul class="jfeed">{"".join(rows)}</ul></div>')
+    head = f'<p class="src" style="margin:0 0 8px">更新 {html.escape(upd)} · 全文命中 {len(items)} 筆（框內捲動）</p>'
+    return head + f'<ul class="jfeed">{"".join(rows)}</ul>', len(items)
+
+
+def _tabs_block(sec_id, tabs):
+    """tabs = [(label, inner_html), ...] → 分頁鈕 + 面板。"""
+    btns = "".join(
+        f'<button class="tab{" on" if i == 0 else ""}" data-t="{sec_id}-{i}">{html.escape(label)}</button>'
+        for i, (label, _) in enumerate(tabs))
+    panels = "".join(
+        f'<div class="tabpanel{" on" if i == 0 else ""}" id="{sec_id}-{i}">{inner}</div>'
+        for i, (label, inner) in enumerate(tabs))
+    return f'<div class="tabs">{btns}</div>{panels}'
+
+
+def _graph_html(t, graphs):
+    if t.get("graph") and t["graph"].get("nodes"):
+        tid = t.get("id", "")
+        graphs[tid] = t["graph"]
+        n = sum(1 for x in t["graph"]["nodes"] if x.get("group") == "item")
+        return (f'<details class="graphbox"><summary>🕸 關聯圖（{n} 篇 × 概念節點，點節點開原文）</summary>'
+                f'<div class="graph" id="g_{html.escape(tid)}"></div></details>')
+    return ""
 
 
 def _music_charts(t):
@@ -122,14 +140,7 @@ def _topic_inner(t, graphs):
         f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_feed(c["items"])}</div>'
         for c in t.get("columns", [])
     )
-    tid = t.get("id", "")
-    graph_html = ""
-    if t.get("graph") and t["graph"].get("nodes"):
-        graphs[tid] = t["graph"]
-        n = sum(1 for x in t["graph"]["nodes"] if x.get("group") == "item")
-        graph_html = (f'<details class="graphbox"><summary>🕸 關聯圖（{n} 篇 × 概念節點，點節點開原文）</summary>'
-                      f'<div class="graph" id="g_{html.escape(tid)}"></div></details>')
-    return f'{_judgments_block(t)}{_music_charts(t)}<div class="cols">{cols}</div>{graph_html}'
+    return f'{_music_charts(t)}<div class="cols">{cols}</div>{_graph_html(t, graphs)}'
 
 
 def build_html(date_str, topics, generated_at):
@@ -153,24 +164,26 @@ def build_html(date_str, topics, generated_at):
             cls = "tw" if area == "台灣" else "intl"
             tag = f'<span class="tag {cls}">{html.escape(area)}</span>' if area else ""
             tid = t.get("id", "")
+            if "judgments" in t:   # 台灣經濟刑法：判決全文做成分頁的一欄
+                jpanel, jcount = _judgments_panel(t)
+                tabs = [(f"📜 司法院判決全文（{jcount}）", jpanel)]
+                tabs += [(c["label"], _feed(c["items"])) for c in t.get("columns", [])]
+                inner = _tabs_block(tid, tabs) + _graph_html(t, graphs)
+            else:
+                inner = _topic_inner(t, graphs)
             sections.append(
                 f'<section class="topic" id="{html.escape(tid)}">'
                 f'<h2>{tag}{html.escape(t["name"])} <span class="desc">{html.escape(t["desc"])}</span></h2>'
-                f'{_topic_inner(t, graphs)}</section>')
+                f'{inner}</section>')
             toc_items.append((tid, t["name"], cls))
         else:
             meta = GROUP_META.get(a, {"name": a, "tag": a, "desc": ""})
-            tabs = "".join(
-                f'<button class="tab{" on" if i == 0 else ""}" data-t="{a}-{i}">{html.escape(m["name"])}</button>'
-                for i, m in enumerate(members))
-            panels = "".join(
-                f'<div class="tabpanel{" on" if i == 0 else ""}" id="{a}-{i}">{_topic_inner(m, graphs)}</div>'
-                for i, m in enumerate(members))
+            tabs = [(m["name"], _topic_inner(m, graphs)) for m in members]
             sections.append(
                 f'<section class="topic group" id="{html.escape(a)}">'
                 f'<h2><span class="tag intl">{html.escape(meta["tag"])}</span>{html.escape(meta["name"])} '
                 f'<span class="desc">{html.escape(meta["desc"])}</span></h2>'
-                f'<div class="tabs">{tabs}</div>{panels}</section>')
+                f'{_tabs_block(a, tabs)}</section>')
             toc_items.append((a, meta["name"], "intl"))
 
     body = "\n".join(sections)
@@ -252,8 +265,12 @@ def build_html(date_str, topics, generated_at):
   .cols {{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }}
   .col h3 {{ font-size:14px; color:#9aa4b2; margin:0 0 8px;
             border-bottom:1px solid #262b36; padding-bottom:6px; }}
-  .feed {{ list-style:none; margin:0; padding:0; }}
+  .feed {{ list-style:none; margin:0; padding:0 8px 0 0; max-height:440px; overflow-y:auto; }}
   .feed li {{ margin:0 0 14px; font-size:13.5px; line-height:1.45; }}
+  .feed::-webkit-scrollbar, .jfeed::-webkit-scrollbar, .toc::-webkit-scrollbar {{ width:8px; }}
+  .feed::-webkit-scrollbar-thumb, .jfeed::-webkit-scrollbar-thumb,
+  .toc::-webkit-scrollbar-thumb {{ background:#2a3340; border-radius:5px; }}
+  .feed::-webkit-scrollbar-thumb:hover {{ background:#3a4660; }}
   .feed a {{ color:#7fb5ff; text-decoration:none; transition:color .15s; }}
   .feed a:hover {{ color:#a9ccff; text-decoration:underline; }}
   .feed li {{ transition:transform .15s; }}
@@ -278,8 +295,8 @@ def build_html(date_str, topics, generated_at):
   .judg {{ background:#1a1410; border:1px solid #3a2a18; border-radius:10px;
           padding:14px; margin-bottom:14px; }}
   .judg h3 {{ margin:0 0 10px; font-size:15px; color:#ffcf99; }}
-  .jfeed {{ list-style:none; margin:0; padding:0;
-           display:grid; grid-template-columns:repeat(2,1fr); gap:12px; }}
+  .jfeed {{ list-style:none; margin:0; padding:0 8px 0 0; max-height:520px; overflow-y:auto;
+           display:grid; grid-template-columns:repeat(2,1fr); gap:12px; align-content:start; }}
   .jfeed li {{ background:#161922; border:1px solid #262b36; border-radius:8px; padding:10px; }}
   .jhead b {{ font-size:14px; }}
   .jhead .src {{ display:block; color:#8a93a3; font-size:11px; margin-top:2px; }}

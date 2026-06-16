@@ -8,12 +8,25 @@
 帳密來自環境變數 JUDICIAL_USER / JUDICIAL_PASS（存於 GitHub 加密 Secrets）。
 """
 import os
+import re
 import json
 import time
 import datetime
 import urllib.request
 
 import config
+
+
+def extract_summary(full):
+    """從判決全文萃取重點：優先取『主文』(法院判斷/刑度)，否則取去頭後的段落。"""
+    text = re.sub(r"[ \t]+", " ", (full or "").replace("\r", ""))
+    m = re.search(r"主\s*文\s*(.{8,400}?)\s*(事\s*實|理\s*由|犯罪事實|一[、，])", text, re.S)
+    holding = m.group(1) if m else ""
+    holding = re.sub(r"\s+", " ", holding).strip()
+    if len(holding) < 8:
+        body = re.sub(r"\s+", " ", text).strip()
+        holding = body[:300]
+    return holding[:300]
 
 BASE = "https://data.judicial.gov.tw/jdg/api"
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -101,14 +114,13 @@ def run():
                 tags = config.tag_text(full)
                 if not tags:
                     continue
-                snippet = full.replace("\r", "").replace("\n", " ").strip()
                 items.append({
                     "court": info["court"],
                     "jtitle": doc.get("JTITLE", ""),
                     "no": f'{info["year"]}年度{info["type"]}字第{info["no"]}號',
                     "date": info["date"],
                     "tags": tags,
-                    "snippet": snippet[:300],
+                    "snippet": extract_summary(full),
                 })
             except Exception as e:
                 print(f"  JDoc 失敗 {jid}: {e}")
