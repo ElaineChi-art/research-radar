@@ -50,6 +50,33 @@ def _judgments_block(t):
             f'<ul class="jfeed">{"".join(rows)}</ul></div>')
 
 
+def _music_charts(t):
+    c = t.get("charts")
+    if not c:
+        return ""
+    tbl = ""
+    for r in c.get("index_table", []):
+        chg = r.get("chg_1y")
+        cls = "up" if (chg or 0) >= 0 else "down"
+        last = f'{r["last"]:.2f}' if r.get("last") is not None else "—"
+        tbl += (f'<tr><td>{html.escape(r["name"])}<span class="src"> {html.escape(r["ticker"])}</span></td>'
+                f'<td>{last}</td><td class="{cls}">{chg:+.1f}%</td></tr>')
+    ref = c.get("ref", {})
+    stats = "".join(f"<li>{html.escape(s)}</li>" for s in ref.get("stats", []))
+    return f"""
+      <div class="charts">
+        <h3>📈 音樂 IP 金融指標 <span class="src">（WIPO 報告風格）</span></h3>
+        <div class="cgrid">
+          <div><img src="assets/music_index.png" alt="index" loading="lazy">
+            <table class="ctab"><tr><th>標的</th><th>價格</th><th>近1年</th></tr>{tbl}</table></div>
+          <div><img src="assets/music_volume.png" alt="volume" loading="lazy">
+            <div class="ref"><b>WIPO 官方統計參考</b><ul>{stats}</ul>
+            <a href="{html.escape(ref.get('url','#'))}" target="_blank" rel="noopener">{html.escape(ref.get('source',''))}</a></div>
+          </div>
+        </div>
+      </div>"""
+
+
 def build_html(date_str, topics, generated_at):
     sections = []
     for t in topics:
@@ -64,6 +91,7 @@ def build_html(date_str, topics, generated_at):
         <section class="topic">
           <h2>{tag}{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
           {_judgments_block(t)}
+          {_music_charts(t)}
           <div class="cols">{cols}</div>
         </section>""")
     body = "\n".join(sections)
@@ -113,6 +141,20 @@ def build_html(date_str, topics, generated_at):
   .jfeed li {{ background:#161922; border:1px solid #262b36; border-radius:8px; padding:10px; }}
   .jhead b {{ font-size:14px; }}
   .jhead .src {{ display:block; color:#8a93a3; font-size:11px; margin-top:2px; }}
+  .charts {{ background:#10171a; border:1px solid #1f3a3a; border-radius:10px;
+            padding:14px; margin-bottom:14px; }}
+  .charts h3 {{ margin:0 0 10px; font-size:15px; color:#9ee6d0; }}
+  .cgrid {{ display:grid; grid-template-columns:repeat(2,1fr); gap:16px; }}
+  .charts img {{ width:100%; border-radius:8px; background:#fff; }}
+  .ctab {{ width:100%; border-collapse:collapse; margin-top:8px; font-size:12.5px; }}
+  .ctab th,.ctab td {{ text-align:left; padding:3px 6px; border-bottom:1px solid #222733; }}
+  .ctab th {{ color:#7c8696; font-weight:600; }}
+  .up {{ color:#36d399; }}
+  .down {{ color:#ff5c5c; }}
+  .ref {{ margin-top:8px; font-size:12px; color:#aeb6c2; }}
+  .ref ul {{ margin:5px 0; padding-left:18px; }}
+  .ref a {{ color:#7fb5ff; }}
+  @media (max-width:980px) {{ .cgrid {{ grid-template-columns:1fr; }} }}
   footer {{ text-align:center; color:#6b7280; font-size:12px; padding:24px; }}
   @media (max-width:980px) {{ .cols,.jfeed {{ grid-template-columns:1fr; }} }}
 </style>

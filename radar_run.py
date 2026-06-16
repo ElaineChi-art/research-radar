@@ -84,12 +84,24 @@ def run():
                 it["tags"] = tag_crimes((it.get("jtitle", "") + " " + it.get("snippet", "")))
         except Exception as e:
             print(f"讀 judgments.json 失敗：{e}")
+    # 音樂 IP 金融圖表
+    mcharts = {}
+    try:
+        import music_charts
+        mcharts = music_charts.build()
+        print(f"音樂圖表：指數 {len(mcharts.get('index_table', []))} 成分、"
+              f"新聞熱度 {mcharts.get('volume', {}).get('count', '—')}")
+    except Exception as e:
+        print(f"音樂圖表失敗：{e}")
+
     out_topics = []
     for t, data in topics:
         if t.get("judgments"):
             data["judgments"] = jdata.get("items", [])
             data["judgments_updated"] = jdata.get("updated", "")
             data["judgments_note"] = jdata.get("note", "")
+        if t.get("id") == "music-ip" and mcharts:
+            data["charts"] = mcharts
         out_topics.append(data)
 
     html_str = report.build_html(today, out_topics, now)
