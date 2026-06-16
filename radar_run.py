@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
-"""每日主程式：對每個主題聚合 新聞 + arXiv 論文 + 美國判決，產出研究雷達。
-
-用法：python radar_run.py
-輸出：docs/index.html、reports/<日期>.json
-"""
+"""每日主程式：依 config 的主題/欄位聚合多來源，產出研究雷達。"""
 import os
 import json
+import time
 import datetime
 import traceback
 
@@ -18,6 +15,45 @@ DOCS = os.path.join(ROOT, "docs")
 REPORTS = os.path.join(ROOT, "reports")
 
 
+def tag_crimes(text):
+    text = text or ""
+    return [label for label, kws in config.CRIME_TAGS if any(k in text for k in kws)]
+
+
+def gather_column(col):
+    """把一個欄位的所有來源抓回、合併、依日期由新到舊、去重、截斷。"""
+    items = []
+    try:
+        if col.get("news_en"):
+            items += sources.fetch_news(col["news_en"], "en", 6)
+        if col.get("news_zh"):
+            items += sources.fetch_news(col["news_zh"], "zh", 6)
+        if col.get("scholar"):
+            items += sources.fetch_scholar(col["scholar"], 5)
+        if col.get("arxiv"):
+            items += sources.fetch_arxiv(col["arxiv"], 4)
+        if col.get("court"):
+            items += sources.fetch_courtlistener(col["court"], 5)
+        for rss in col.get("rss", []):
+            url, name = rss[0], (rss[1] if len(rss) > 1 else "")
+            try:
+                items += sources.fetch_rss(url, 5, name)
+            except Exception as e:
+                print(f"     RSS 失敗 {name}: {e}")
+            time.sleep(0.2)
+    except Exception as e:
+        print(f"    欄位來源失敗：{e}")
+    # 去重（同標題）＋ 依日期新到舊
+    seen, uniq = set(), []
+    for it in items:
+        key = it["title"][:60]
+        if key and key not in seen:
+            seen.add(key)
+            uniq.append(it)
+    uniq.sort(key=lambda x: x.get("_sort", ""), reverse=True)
+    return uniq[:config.COL_LIMIT]
+
+
 def run():
     os.makedirs(DOCS, exist_ok=True)
     os.makedirs(REPORTS, exist_ok=True)
@@ -27,57 +63,43 @@ def run():
     topics = []
     for t in config.TOPICS:
         print(f"==> {t['name']}")
-        kind = t.get("kind", "intl")
-        data = {"id": t.get("id"), "name": t["name"], "desc": t["desc"], "kind": kind}
-        try:
-            if kind == "tw":
-                # 台灣主題：三欄都來自中文新聞，不同查詢角度
-                data["cols"] = [
-                    {"label": c["label"],
-                     "items": sources.fetch_news(c["q"], "zh", config.TW_COL_LIMIT)}
-                    for c in t["cols"]
-                ]
-                print("    " + "　".join(f"{c['label']} {len(c['items'])}" for c in data["cols"]))
-            else:
-                data["news_en"] = sources.fetch_news(t["news_en"], "en", config.NEWS_EN_LIMIT)
-                data["news_zh"] = sources.fetch_news(t["news_zh"], "zh", config.NEWS_ZH_LIMIT)
-                data["papers"] = sources.fetch_arxiv(t["arxiv"], config.ARXIV_LIMIT)
-                data["cases"] = sources.fetch_courtlistener(t["court"], config.COURT_LIMIT)
-                print(f"    新聞 {len(data['news_en'])}+{len(data['news_zh'])}　"
-                      f"論文 {len(data['papers'])}　判決 {len(data['cases'])}")
-        except Exception as e:
-            if kind == "tw":
-                data.setdefault("cols", [])
-            else:
-                for k in ("news_en", "news_zh", "papers", "cases"):
-                    data.setdefault(k, [])
-            print(f"    ⚠️ {e}")
-            traceback.print_exc()
-        topics.append(data)
+        data = {"id": t.get("id"), "name": t["name"], "desc": t["desc"],
+                "area": t.get("area", ""), "columns": []}
+        for col in t.get("columns", []):
+            items = gather_column(col)
+            if t.get("crime_tags"):
+                for it in items:
+                    it["tags"] = tag_crimes(it["title"] + " " + it.get("summary", ""))
+            data["columns"].append({"label": col["label"], "items": items})
+            print(f"    {col['label']}: {len(items)}")
+        topics.append((t, data))
 
-    # 掛上司法院判決全文（由 judicial.py 於台灣凌晨產生）
+    # 司法院判決全文
     jpath = os.path.join(DOCS, "data", "judgments.json")
+    jdata = {}
     if os.path.exists(jpath):
         try:
             jdata = json.load(open(jpath, encoding="utf-8"))
-            for d in topics:
-                if d.get("id") == "tw-financial-crime":
-                    d["judgments"] = jdata.get("items", [])
-                    d["judgments_updated"] = jdata.get("updated", "")
-                    d["judgments_note"] = jdata.get("note", "")
-            print(f"判決全文：掛上 {len(jdata.get('items', []))} 筆")
+            for it in jdata.get("items", []):
+                it["tags"] = tag_crimes((it.get("jtitle", "") + " " + it.get("snippet", "")))
         except Exception as e:
-            print(f"讀取 judgments.json 失敗：{e}")
+            print(f"讀 judgments.json 失敗：{e}")
+    out_topics = []
+    for t, data in topics:
+        if t.get("judgments"):
+            data["judgments"] = jdata.get("items", [])
+            data["judgments_updated"] = jdata.get("updated", "")
+            data["judgments_note"] = jdata.get("note", "")
+        out_topics.append(data)
 
-    html_str = report.build_html(today, topics, now)
+    html_str = report.build_html(today, out_topics, now)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
         f.write(html_str)
     with open(os.path.join(REPORTS, f"{today}.json"), "w", encoding="utf-8") as f:
-        json.dump(topics, f, ensure_ascii=False, indent=2)
+        json.dump(out_topics, f, ensure_ascii=False, indent=2)
 
-    total = sum(len(d["news_en"]) + len(d["news_zh"]) + len(d["papers"]) + len(d["cases"])
-                for d in topics)
-    print(f"\n完成：{len(topics)} 個主題、共 {total} 則項目 → docs/index.html")
+    total = sum(len(c["items"]) for d in out_topics for c in d["columns"])
+    print(f"\n完成：{len(out_topics)} 主題、{total} 則 → docs/index.html")
 
 
 if __name__ == "__main__":
