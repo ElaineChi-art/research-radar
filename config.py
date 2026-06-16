@@ -105,7 +105,10 @@ def tag_text(text):
     return out
 
 # 權威 RSS（白領犯罪：DOJ/CFTC；國際智財：使用者提供之 feeds）
-DOJ = ["https://www.justice.gov/news/rss?type=press_release", "DOJ 司法部"]
+DOJ_KW = ["fraud", "launder", "money laundering", "securities", "investment", "ponzi",
+          "embezzle", "insider", "fcpa", "bribery", "cryptocurrency", "crypto", "wire fraud",
+          "bank fraud", "scheme", "commodities", "sanction", "tax evasion", "bribe"]
+DOJ = ["https://www.justice.gov/news/rss?type=press_release", "DOJ 司法部", DOJ_KW]
 SEC = ["https://www.sec.gov/news/pressreleases.rss", "SEC 證管會"]
 CFTC = ["https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "CFTC 商品期貨"]
 F_PATENTLYO = ["https://www.patentlyo.com/patent/atom.xml", "Patently-O"]

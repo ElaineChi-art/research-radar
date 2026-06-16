@@ -61,9 +61,16 @@ def gather_column(col):
         if col.get("court"):
             items += sources.fetch_courtlistener(col["court"], 5)
         for rss in col.get("rss", []):
-            url, name = rss[0], (rss[1] if len(rss) > 1 else "")
+            url = rss[0]
+            name = rss[1] if len(rss) > 1 else ""
+            kws = rss[2] if len(rss) > 2 else None
             try:
-                items += sources.fetch_rss(url, 5, name)
+                its = sources.fetch_rss(url, 30 if kws else 5, name)
+                if kws:
+                    its = [x for x in its
+                           if any(k.lower() in (x["title"] + " " + x.get("summary", "")).lower()
+                                  for k in kws)][:6]
+                items += its
             except Exception as e:
                 print(f"     RSS 失敗 {name}: {e}")
             time.sleep(0.2)

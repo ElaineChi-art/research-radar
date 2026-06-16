@@ -218,28 +218,8 @@
             "tags": []
           },
           {
-            "title": "United States Attorney Benjamin L. Wallace Announces Appointment of Paul W. Kaufman as First Assistant United States Attorney",
-            "url": "https://www.justice.gov/usao-de/pr/united-states-attorney-benjamin-l-wallace-announces-appointment-paul-w-kaufman-first",
-            "date": "2026-06-16",
-            "meta": "DOJ 司法部",
-            "summary": "WILMINGTON, Del. – U.S. Attorney Benjamin L. Wallace announced today that Paul W. Kaufman has been appointed First Assistant U.S. Attorney for the District of Delaware. As First Assistant, Kaufman will serve as the Offic",
-            "is_new": true,
-            "_sort": "2026-06-16",
-            "tags": []
-          },
-          {
-            "title": "Burlington Man Sentenced to 10 Years in Federal Prison for Possessing 9.5 Pounds Meth",
-            "url": "https://www.justice.gov/usao-sdia/pr/burlington-man-sentenced-10-years-federal-prison-possessing-95-pounds-meth",
-            "date": "2026-06-16",
-            "meta": "DOJ 司法部",
-            "summary": "DAVENPORT, Iowa – A Burlington man was sentenced on June 10, 2026, to 10 years in federal prison for possession with intent to distribute methamphetamine.",
-            "is_new": true,
-            "_sort": "2026-06-16",
-            "tags": []
-          },
-          {
-            "title": "Bowling Green Man Sentenced to 13 1/2 Years in Federal Prison for Methamphetamine Trafficking and Firearm Offenses",
-            "url": "https://www.justice.gov/usao-wdky/pr/bowling-green-man-sentenced-13-12-years-federal-prison-methamphetamine-trafficking-and",
+            "title": "Contractor Charged with $188K in Bank Fraud Scheme Using Fabricated Lien Waivers",
+            "url": "https://www.justice.gov/usao-sdin/pr/contractor-charged-188k-bank-fraud-scheme-using-fabricated-lien-waivers",
             "date": "2026-06-16",
             "meta": "DOJ 司法部",
             "summary": "",
@@ -248,11 +228,21 @@
             "tags": []
           },
           {
-            "title": "Wichita man admits to distributing child pornography",
-            "url": "https://www.justice.gov/usao-ks/pr/wichita-man-admits-distributing-child-pornography",
+            "title": "Co-Conspirator Sentenced for Role in Multi-Million Dollar Money Laundering Conspiracy Case Brought By HSTF",
+            "url": "https://www.justice.gov/usao-md/pr/co-conspirator-sentenced-role-multi-million-dollar-money-laundering-conspiracy-case",
             "date": "2026-06-16",
             "meta": "DOJ 司法部",
-            "summary": "A Kansas man pleaded guilty to using a messaging application to distribute child sexual abuse material (CSAM).",
+            "summary": "Baltimore, Maryland – A Maryland man received a federal prison term today in connection with his leadership role in a multi-million-dollar money laundering scheme. Judge Matthew J. Maddox sentenced Yahya Sowe, 42, of Col",
+            "is_new": true,
+            "_sort": "2026-06-16",
+            "tags": []
+          },
+          {
+            "title": "Suspended Ann Arbor Commodities Trader Pleads Guilty to Multi-Million-Dollar Fraud Scheme",
+            "url": "https://www.justice.gov/usao-edmi/pr/suspended-ann-arbor-commodities-trader-pleads-guilty-multi-million-dollar-fraud-scheme",
+            "date": "2026-06-16",
+            "meta": "DOJ 司法部",
+            "summary": "",
             "is_new": true,
             "_sort": "2026-06-16",
             "tags": []
@@ -280,6 +270,16 @@
           {
             "title": "CFTC Issues No-Action Letter for DCMs Converting Existing Perpetual-Style Digital Commodity Futures into True Digital Commodity Perpetual Futures",
             "url": "https://www.cftc.gov/PressRoom/PressReleases/9252-26",
+            "date": "2026-06-12",
+            "meta": "CFTC 商品期貨",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-06-12",
+            "tags": []
+          },
+          {
+            "title": "CFTC Sues New Mexico as the State Becomes the Latest Attempting to Infringe on Federal Jurisdiction",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
             "date": "2026-06-12",
             "meta": "CFTC 商品期貨",
             "summary": "",
@@ -1493,15 +1493,6 @@
             "_sort": "2026-06-04"
           },
           {
-            "title": "CNN 控告 Perplexity 侵害著作權：1.7 萬篇報導逐字複製、繞過付費牆 - 動區動趨",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEJuemM2TWg4a3Uyb3dYYk55djRyR0t6MWE2bUs1NGpKQmZ0UzQ5YmRnMm40YmY2bElhcEVfSHgwOFE0S0J3eF93amhvSjRvQmZIN2g5d2VobXR5SmxCZzlXVFdja3lIUmVTSnNjM1JWMERzN3VBSm9xdWR1bWZIYWhGeEZWd0JBZV93YWR4WVp1TFZleE5qVkdxVmlUNWQ3YTln?oc=5",
-            "date": "2026-05-29",
-            "meta": "動區動趨",
-            "summary": "",
-            "is_new": false,
-            "_sort": "2026-05-29"
-          },
-          {
             "title": "資策會告高虹安違著作權法 二審智慧法院判撤銷發回更審 - 自由時報",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2U2TVl2Uy1iOXNjUEttVDRxa0RiWWFuNkZqWkdSc0hMT1dERF9Rd09FRHhRTGZENmZnY0xwcUNwcThzeEltbXhWWW1xVVRxTmFVYkh3V3pvRHIwVDJHSWxtS2ltMWg00gFuQVVfeXFMUEhyNFhKX25sNmEwTk1OcjNNYWpRWTJHZGY5eTlTV0ZTYWRWUlRhQVpQekVJbURXMEdaaDB2WVJjRnQxTzlKbF84b3lTcFpMZ2w4aEJXZHZKaG1zeThUbTlkakJlWnAtalRNc0h5amc?oc=5",
             "date": "2026-04-16",
@@ -1509,6 +1500,15 @@
             "summary": "",
             "is_new": false,
             "_sort": "2026-04-16"
+          },
+          {
+            "title": "教會遭控侵權 單張圖片索賠上萬元 - 台灣教會公報新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXl3ZjEyQWJJc3phZFZjNnRrbll5SmdBQjlfdE9iZ19hRmhHWVp3dElTYk1SMjdIQ1RxZlpVaE52OFloTnkzNWVrRQ?oc=5",
+            "date": "2026-02-25",
+            "meta": "台灣教會公報新聞網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-02-25"
           }
         ]
       },
@@ -1683,16 +1683,16 @@
         },
         {
           "id": "i4",
-          "label": "CNN 控告 Perplexit",
-          "title": "CNN 控告 Perplexity 侵害著作權：1.7 萬篇報導逐字複製、繞過付費牆 - 動區動趨",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEJuemM2TWg4a3Uyb3dYYk55djRyR0t6MWE2bUs1NGpKQmZ0UzQ5YmRnMm40YmY2bElhcEVfSHgwOFE0S0J3eF93amhvSjRvQmZIN2g5d2VobXR5SmxCZzlXVFdja3lIUmVTSnNjM1JWMERzN3VBSm9xdWR1bWZIYWhGeEZWd0JBZV93YWR4WVp1TFZleE5qVkdxVmlUNWQ3YTln?oc=5",
+          "label": "資策會告高虹安違著作權法 二審智",
+          "title": "資策會告高虹安違著作權法 二審智慧法院判撤銷發回更審 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2U2TVl2Uy1iOXNjUEttVDRxa0RiWWFuNkZqWkdSc0hMT1dERF9Rd09FRHhRTGZENmZnY0xwcUNwcThzeEltbXhWWW1xVVRxTmFVYkh3V3pvRHIwVDJHSWxtS2ltMWg00gFuQVVfeXFMUEhyNFhKX25sNmEwTk1OcjNNYWpRWTJHZGY5eTlTV0ZTYWRWUlRhQVpQekVJbURXMEdaaDB2WVJjRnQxTzlKbF84b3lTcFpMZ2w4aEJXZHZKaG1zeThUbTlkakJlWnAtalRNc0h5amc?oc=5",
           "group": "item"
         },
         {
           "id": "i5",
-          "label": "資策會告高虹安違著作權法 二審智",
-          "title": "資策會告高虹安違著作權法 二審智慧法院判撤銷發回更審 - 自由時報",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2U2TVl2Uy1iOXNjUEttVDRxa0RiWWFuNkZqWkdSc0hMT1dERF9Rd09FRHhRTGZENmZnY0xwcUNwcThzeEltbXhWWW1xVVRxTmFVYkh3V3pvRHIwVDJHSWxtS2ltMWg00gFuQVVfeXFMUEhyNFhKX25sNmEwTk1OcjNNYWpRWTJHZGY5eTlTV0ZTYWRWUlRhQVpQekVJbURXMEdaaDB2WVJjRnQxTzlKbF84b3lTcFpMZ2w4aEJXZHZKaG1zeThUbTlkakJlWnAtalRNc0h5amc?oc=5",
+          "label": "教會遭控侵權 單張圖片索賠上萬元",
+          "title": "教會遭控侵權 單張圖片索賠上萬元 - 台灣教會公報新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXl3ZjEyQWJJc3phZFZjNnRrbll5SmdBQjlfdE9iZ19hRmhHWVp3dElTYk1SMjdIQ1RxZlpVaE52OFloTnkzNWVrRQ?oc=5",
           "group": "item"
         },
         {
@@ -1824,15 +1824,11 @@
         },
         {
           "from": "i4",
-          "to": "c_侵權"
-        },
-        {
-          "from": "i5",
-          "to": "c_著作權"
-        },
-        {
-          "from": "i5",
           "to": "c_訴訟"
+        },
+        {
+          "from": "i5",
+          "to": "c_侵權"
         },
         {
           "from": "i6",
@@ -2072,13 +2068,13 @@
             "_sort": "2026-04-28"
           },
           {
-            "title": "對抗AI深偽技術！泰勒絲註冊「聲紋與肖像」商標 擴大法律保護 - news.cnyes.com",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmZlVuYWxhQ1A4cmRHbExfRGNMNUM0c3hpYnVxRlZKd2VSSWM1dGhQWjBOY1RNME8yY3pBN2dvZzJQWmJlVjRCM2lhemVNZzA?oc=5",
-            "date": "2026-04-28",
-            "meta": "news.cnyes.com",
+            "title": "Getty Images (US), Inc. v. Stability AI, Ltd. - Loeb & Loeb LLP",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjJzQkNyNnh4V0hMNGtVVk5Ua3NINlozOXBGX19WT2Yxd0ktOG9NWkl6cWlYNkVJWnhxSTk3emt0SS1tY2ZhRF82YjBLdzZfYnJKNnVxQTFJck5GMjRzSXdfM2F6ZldUNDlISFRfVWNtSkdfbi02VExjV2JmaEEwa3U1aFpaQUY5S2pxQWI3Z3Z4dXE0bEhV?oc=5",
+            "date": "2026-04-23",
+            "meta": "Loeb & Loeb LLP",
             "summary": "",
             "is_new": false,
-            "_sort": "2026-04-28"
+            "_sort": "2026-04-23"
           }
         ]
       },
@@ -2286,13 +2282,6 @@
           "group": "item"
         },
         {
-          "id": "i15",
-          "label": "對抗AI深偽技術！泰勒絲註冊「聲",
-          "title": "對抗AI深偽技術！泰勒絲註冊「聲紋與肖像」商標 擴大法律保護 - news.cnyes.com",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmZlVuYWxhQ1A4cmRHbExfRGNMNUM0c3hpYnVxRlZKd2VSSWM1dGhQWjBOY1RNME8yY3pBN2dvZzJQWmJlVjRCM2lhemVNZzA?oc=5",
-          "group": "item"
-        },
-        {
           "id": "i16",
           "label": "台積電捲入美ITC專利案，AI ",
           "title": "台積電捲入美ITC專利案，AI 加速器先進製程晶片面臨進口禁令風險 - MSN",
@@ -2429,10 +2418,6 @@
           "to": "c_商標"
         },
         {
-          "from": "i15",
-          "to": "c_商標"
-        },
-        {
           "from": "i16",
           "to": "c_專利"
         },
@@ -2524,19 +2509,19 @@
             "_sort": "2026-06-16"
           },
           {
-            "title": "黃大煒驟逝掀爭產風波！親姊律師最新發聲 揭音樂版權未來安排 - 中天新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyejBGeG4wQ0FPeFRPMUZ3SlpvZlJFSXpJSFcwSUctd1dZMjlwQWhWMUNtTjcxSnhUeHJvd1o4ZG40SHFGYUo0aTBhNkZvc0NIclhj?oc=5",
+            "title": "黃大煒生前有交代遺言！胞姊律師發聲 音樂版權交由環球負責 - NOWnews今日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMYVJ3YlV4enZHZFc5c01kXzRiMm9rVS1aSUlMNUpHVWRoaHBBcjBYbzB3aURQSVBYdVBLTlZlRkZzeFF3WGVyRDFlOUxLOTJCU0HSAVJBVV95cUxQTGFSd2JVeHp2R2RXOXNNZF80YjJva1UtWklJTDVKR1VkaGhwQXIwWG8wd2lEUElQWHVQS05WZUZGc3hRd1hlckQxZTlMSzkyQlNB?oc=5",
             "date": "2026-06-16",
-            "meta": "中天新聞網",
+            "meta": "NOWnews今日新聞",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
           },
           {
-            "title": "黃大煒驟逝「親姊律師再發聲」！音樂版權全由「他」處理 - Newtalk新聞",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ndVViSkFEWWpPcTVMakVDQ3U3OUlRcm9wTV84cTBZV0E1Q1hCeGVqTHViT09fdTZ3ZGM0dXZRUThzTTRYNE96aHRXYVN4bFpib2tBRUM5cy11SVE?oc=5",
+            "title": "黃大煒驟逝掀爭產風波！親姊律師最新發聲 揭音樂版權未來安排 - 中天新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyejBGeG4wQ0FPeFRPMUZ3SlpvZlJFSXpJSFcwSUctd1dZMjlwQWhWMUNtTjcxSnhUeHJvd1o4ZG40SHFGYUo0aTBhNkZvc0NIclhj?oc=5",
             "date": "2026-06-16",
-            "meta": "Newtalk新聞",
+            "meta": "中天新聞網",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
@@ -2667,14 +2652,14 @@
         {
           "ticker": "RSVR",
           "name": "Reservoir Media",
-          "last": 10.18,
-          "chg_1y": 36.6
+          "last": 10.23,
+          "chg_1y": 37.3
         },
         {
           "ticker": "WMG",
           "name": "Warner Music",
-          "last": 28.6,
-          "chg_1y": 7.1
+          "last": 28.62,
+          "chg_1y": 7.2
         },
         {
           "ticker": "UMG.AS",
@@ -2685,14 +2670,14 @@
         {
           "ticker": "SPOT",
           "name": "Spotify",
-          "last": 466.97,
+          "last": 467.43,
           "chg_1y": -34.7
         },
         {
           "ticker": "INDEX",
           "name": "音樂 IP 金融指數",
           "last": null,
-          "chg_1y": -6.3
+          "chg_1y": -6.1
         }
       ]
     },
@@ -2930,13 +2915,13 @@
             "_sort": "2026-05-26"
           },
           {
-            "title": "When AI Joins the Board: The Future of DAO Governance: By Umair Ahmad - Finextra Research",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS19MNkNKUWdndkVkTVpuUTRvV1JwX2lXNUtTeGp4VGR5VDExX1puNW9Rd1lNN285ZzZqSEg4ai00RndKZXMwUFZZNkV0Y1QtejVidTFDWGZJU3k2S2lENWlBSThMaDIzaDBvOGtsaGFEV04yUGJlVFBGRDVhdmxzNzRZeWJ1Um1CYzg4YnNCVlk3VWItR0REOVZpYw?oc=5",
-            "date": "2026-05-21",
-            "meta": "Finextra Research",
+            "title": "Cardano (ADA) Founder Charles Hoskinson Shifts Focus on Improving DAO Governance Mechanisms - Crowdfund Insider",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVpqX1hwTkJaVGdyNkFSZFFSZTNmNGlDYWtmUnFZNkxpTWIxN3Mtd0FDaXpxYVprcmpheTYwSnFpRWxUWGJ5NExjTmJfUnpGTll0SnBZZGZCeERmb1hFTVVFMVUxTmIyT05xd0kweUFUX3FmUDZvb0dmejBQd1BFbWM4X0hjZ3FXclpFMFNOcXRZeWZsTlNXUTNoQXl0b3ZOdk9iRjk0eEgwOHl0T1ozU2ZtZ1NtbGk4dUhISnJUYWxaMHJWMERaRmkybGVsT0NuX0hjYw?oc=5",
+            "date": "2026-05-25",
+            "meta": "Crowdfund Insider",
             "summary": "",
             "is_new": false,
-            "_sort": "2026-05-21"
+            "_sort": "2026-05-25"
           },
           {
             "title": "中金院入選《臺灣區塊鏈產業生態地圖》 全臺唯一大專校院入列 - 中央社 CNA",
@@ -3115,9 +3100,9 @@
         },
         {
           "id": "i5",
-          "label": "When AI Joins th",
-          "title": "When AI Joins the Board: The Future of DAO Governance: By Umair Ahmad - Finextra Research",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS19MNkNKUWdndkVkTVpuUTRvV1JwX2lXNUtTeGp4VGR5VDExX1puNW9Rd1lNN285ZzZqSEg4ai00RndKZXMwUFZZNkV0Y1QtejVidTFDWGZJU3k2S2lENWlBSThMaDIzaDBvOGtsaGFEV04yUGJlVFBGRDVhdmxzNzRZeWJ1Um1CYzg4YnNCVlk3VWItR0REOVZpYw?oc=5",
+          "label": "Cardano (ADA) Fo",
+          "title": "Cardano (ADA) Founder Charles Hoskinson Shifts Focus on Improving DAO Governance Mechanisms - Crowdfund Insider",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVpqX1hwTkJaVGdyNkFSZFFSZTNmNGlDYWtmUnFZNkxpTWIxN3Mtd0FDaXpxYVprcmpheTYwSnFpRWxUWGJ5NExjTmJfUnpGTll0SnBZZGZCeERmb1hFTVVFMVUxTmIyT05xd0kweUFUX3FmUDZvb0dmejBQd1BFbWM4X0hjZ3FXclpFMFNOcXRZeWZsTlNXUTNoQXl0b3ZOdk9iRjk0eEgwOHl0T1ozU2ZtZ1NtbGk4dUhISnJUYWxaMHJWMERaRmkybGVsT0NuX0hjYw?oc=5",
           "group": "item"
         },
         {
