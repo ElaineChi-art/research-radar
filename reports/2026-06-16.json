@@ -1,5 +1,6 @@
 [
   {
+    "id": "tw-financial-crime",
     "name": "台灣金融／經濟犯罪",
     "desc": "內線交易・背信・掏空・證券詐欺・洗錢（重金庭領域）",
     "kind": "tw",
@@ -29,13 +30,6 @@
             "summary": ""
           },
           {
-            "title": "香港「開心鬼」黃百鳴涉股票內線交易 遭判刑5個月 - 噓！星聞",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUkNWSnAyWGs2b0hObUdra2RKZFhFamJSVC16V3lvMU5LeHU0a0tjYTFObkdSbXEwT0Q1VXk4dUlZXzZ6NWw2VDFEaVNvOEUwcEtDWXIxUzFsUQ?oc=5",
-            "date": "2026-06-09",
-            "meta": "噓！星聞",
-            "summary": ""
-          },
-          {
             "title": "涉利用內線交易牟利35萬 華裔分析師被起訴 - 大纪元",
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUm9idjM5dHBzdkFHU3ZnSHNBc19MVDM1YTZneHZjYmNhZE1NNFF6WkliaG8wZlhZMGtzVEYwemVabzFTQjlhcTUwYkhkUnY0ZjFseVo4a2g4LWpEY3Ew0gFkQVVfeXFMT3hlcnUySFpsZ3FVR0pzMmgtR3RTNVpNSFQxRDdwY25Va2t3SlA3cXZ0d1c2MVA4T2xzUjFjejNFelVXa3lRYnVSMFlIUnNRYTRUSEM3T1JPRlFZNzhNaEtORzlGaQ?oc=5",
             "date": "2026-06-06",
@@ -43,10 +37,17 @@
             "summary": ""
           },
           {
-            "title": "黃百鳴涉內線交易 遭判刑五個月！ - 華人今日網",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0ZVhKWGxyTGxkTGhlQ0FEaEVYLWJENnkxc0hPZ2hlaDdyWDEtOWNXSW5nQ2Fidm00ZkxuQUx1eHp4TkdvaVBoOUFWLWZ6aG5aSE94WTF2UHpNUnlNTUdrZU1uaHMzUQ?oc=5",
-            "date": "2026-06-10",
-            "meta": "華人今日網",
+            "title": "香港「開心鬼」黃百鳴涉股票內線交易 遭判刑5個月 - 噓！星聞",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HUkNWSnAyWGs2b0hObUdra2RKZFhFamJSVC16V3lvMU5LeHU0a0tjYTFObkdSbXEwT0Q1VXk4dUlZXzZ6NWw2VDFEaVNvOEUwcEtDWXIxUzFsUQ?oc=5",
+            "date": "2026-06-09",
+            "meta": "噓！星聞",
+            "summary": ""
+          },
+          {
+            "title": "環管署長貪污背信認罪繳回犯罪所得1萬 中檢起訴建請緩刑 - 鏡週刊Mirror Media",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uallLc3NCZUxlYjRicDlTc1JaVzBTRXJabURrbWppSTFVUFR6bkZDbmJUdHNjRkJpLTY5YkRkbGJ6V21yQ0VfM2pram9BdHJiT0R1RUZZODVnakI4VWpoUFZ2TE9RQdIBa0FVX3lxTE9sd2IxRXo4Ry00NkZpNkZFTFZycUw1YURHdWJpZElNaXY0MUlUVVZsb1Roc0R3MEFLZm9wb21aU2JEWW1sSkNERE1DdFk2eFNyT3VKZUdadVBZT0xnSUdQVzVVRFJ4WTV2dHhF?oc=5",
+            "date": "2026-06-05",
+            "meta": "鏡週刊Mirror Media",
             "summary": ""
           }
         ]
@@ -102,17 +103,17 @@
         "label": "📰 動態・評析",
         "items": [
           {
-            "title": "瑞士打擊金融犯罪卡關 檢察總長嘆：過時法規成拖延利器 - 民視新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yd2dUY1JzTTZhaTM4eGJELXd2d09XVHBsZEV2TDBrOVZXYVI3MHdEajhwYnpoMl9DTENRMTVfd0cxLUVZcE1aeXBzUGQxUnUyTWtscjNhcDJnSXUzY2xUXw?oc=5",
-            "date": "2026-06-15",
-            "meta": "民視新聞網",
-            "summary": ""
-          },
-          {
             "title": "中國首位爆紅女星遭槍決 陪睡官員、涉重大經濟犯罪 - Yahoo新聞",
             "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZE1BczVZXzBKaVBpa0kyYVpfTnRUTGVFaDBlbGFmV2pqOExpdWlURmJPcnlUWHpidzdWM3lmMlNSbnhpVkJMbTFfWGhSbkF0cmJTTktFRnFrdDJSSDJEcTc3WXRlbWhCQUE5dlJhQUJsYkNpSVJOUFdHV2QxQkxmRWdneWJCYXV4bEc5M2VlV284WDN4d2NaT1RhYWpmQ0dMWDVmamR5ZzBQWlVxZ3NOc1BOXzRJWjJtaXl5czJ3dW5CQ3dmYXhQejBndm5vQWFmQzNNUnY2UXQ5bV9VN1Z4THo5QUxtS0ZiTkNFY2VkOE9CR0lubUZVd2stQm1sM1lQRV9ySUhxNlh2OWNieFVKcHc1dWZMekZpS09FbGlRbTFLSTZaaWpuZ2FXeU9aSnhKZnR6RHFqd1NJcmxPUXg3RHprSGhwSGJ4TVJickVEdnlBbDRfdkdaVWxPQkxxQQ?oc=5",
             "date": "2026-05-01",
             "meta": "Yahoo新聞",
+            "summary": ""
+          },
+          {
+            "title": "瑞士打擊金融犯罪卡關 檢察總長嘆：過時法規成拖延利器 - 民視新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yd2dUY1JzTTZhaTM4eGJELXd2d09XVHBsZEV2TDBrOVZXYVI3MHdEajhwYnpoMl9DTENRMTVfd0cxLUVZcE1aeXBzUGQxUnUyTWtscjNhcDJnSXUzY2xUXw?oc=5",
+            "date": "2026-06-15",
+            "meta": "民視新聞網",
             "summary": ""
           },
           {
@@ -145,9 +146,13 @@
           }
         ]
       }
-    ]
+    ],
+    "judgments": [],
+    "judgments_updated": "尚未執行",
+    "judgments_note": "尚未產生：判決全文將於今晚台灣 00:00–06:00 由排程首次自動抓取。"
   },
   {
+    "id": "tw-ip",
     "name": "台灣智財（著作權・商標・專利）",
     "desc": "台灣智財判決、修法動態，與 AI×智財",
     "kind": "tw",
@@ -155,13 +160,6 @@
       {
         "label": "⚖️ 判決・訴訟",
         "items": [
-          {
-            "title": "【北美智權報406期】拆夥後使用當初的商標就是故意侵權嗎？ | 2026 年 6 月 16 日侵權訴訟, 商標要聞, 要聞 - 北美智權",
-            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TclJMbXJzY0FTbF8zOFBESklPWXdnSUVLSWpjZUl1VDJ1b2JrbUNWRW1fQ1BfcldNLW9ueUdLX0s1bnpJQlcwMQ?oc=5",
-            "date": "2026-06-15",
-            "meta": "北美智權",
-            "summary": ""
-          },
           {
             "title": "連鎖品牌「遇見小面」訴夫妻店商標侵權 引爭議 - 大纪元",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hSnc5a0VWRHVnb1oxTHZPaUpxU3BaN19sX3ZsUmF2SzN6ekdwOVV0SVRlQ0R2TWtwUlk4SFQzUTJZRGVSdVZJbWxDcHludXY4TGZoenRlakw1N1Q2TkZhcNIBZkFVX3lxTE1XMzRfY2s0MUx5Z0VqRzlHbXNjMWJkWDlhMEk0Qno4aGQwSVdJTjdUcmQ2amFMZUw1RlBuYWNiMk10RDZlM0tBNjdEN0hEWWFpNkJCeWZFQW41c253WDAwSV9nUjMyUQ?oc=5",
@@ -177,10 +175,24 @@
             "summary": ""
           },
           {
+            "title": "真金也可能侵權 刑事局查獲725件仿冒名牌金飾 - 新住民全球新聞網",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkkzNHRaak00MkhKaHpKQ1kxQW1aYTJ1MkN5T1VhdEJQcnJLMkpob0pkdXNZT1hCbWcwcjJ6WldaZkFqaERZMnMyVG5UWEUtQ0w5Q19UV0pjdm9fTWhyVjZKRHQxY3FkbWlCenp4UHQ3amNnTlEwX3F6b1VFOVRhZm14UnhLQ3ZuOGxCMDhmUWgtNDUzUFVHWGpUYw?oc=5",
+            "date": "2026-06-16",
+            "meta": "新住民全球新聞網",
+            "summary": ""
+          },
+          {
             "title": "捲入美國專利侵權風波台積電：營運遵守法規| 科技 - 非凡新聞台",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMmJVdXlTM191b2pxR0ltUDN5RzJFQW5SSld6eW56RG9tU2dHanVnRUl6Vkl6TjE2M2JJci1WUEx0WTZMYVV6bWIyVGpOcEJhdUJ2T3pRWGNyY2c?oc=5",
             "date": "2026-06-11",
             "meta": "非凡新聞台",
+            "summary": ""
+          },
+          {
+            "title": "【北美智權報406期】Hailuo AI侵害迪士尼原創角色著作權？2026年Disney v. MiniMax案初步裁定| 2026 年 6 月 16 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VU0Fjbkg3WVk0SFg1SWFSeFlaSkhBMGZXMFhobmdycm93eVdGTDJ5RE5SN2N4TmNtWVdsOWV1ZlcyeWhFRjJSNA?oc=5",
+            "date": "2026-06-15",
+            "meta": "北美智權",
             "summary": ""
           },
           {
@@ -189,26 +201,12 @@
             "date": "2026-06-11",
             "meta": "自由財經",
             "summary": ""
-          },
-          {
-            "title": "台積電被告侵權！美國議員要求依法保護專利 - news.cnyes.com",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlUnRUMXBnbWtaY2s3WlBCaXdseFJ6UTE2NnNqWjFPRlpOMzBKdEZkMDBtaDlxdERINjlxc1RCOFZ3NjhBQ0YzT0p1Z3NzQ1U?oc=5",
-            "date": "2026-06-11",
-            "meta": "news.cnyes.com",
-            "summary": ""
           }
         ]
       },
       {
         "label": "📋 法規・修法",
         "items": [
-          {
-            "title": "日本政府通過著作權法修正草案＝歌曲授權費用將回饋給歌手 - nippon.com",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtclUxd2d0QzlMOTdqcU9mdkRtdHNrYUpGa2NiUXA5WElfQ0gtaVlTaEV0VGU5WWc5ZGxEeTc5dWF2SERjaVNSRzRCOUgtODNvb09qeHkzY1BKZkY3?oc=5",
-            "date": "2026-05-15",
-            "meta": "nippon.com",
-            "summary": ""
-          },
           {
             "title": "【北美智權報395期】從中國商標法第五次修法看商標策略佈局 | 2026 年 1 月 1 日 - 北美智權",
             "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RQndHR3VEZHhoNjdJQUI5YWwxTFFYVnVoTm55ZWpkQkM2dXR3T1Frc3B4VTQxQ0dONWV5cEk1Zlp4aHpxLXNXZw?oc=5",
@@ -217,10 +215,17 @@
             "summary": ""
           },
           {
-            "title": "駐京專電｜商標法修訂草案首提人大審議，「打擦邊球」或面臨嚴懲 - 香港經濟日報HKET",
-            "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQMkJKT0tEUEFqdE9uMjAta1JOS1RhY3ltaUFPUEw1ek5DcUpjd3BTZy1QLWZJLW0xdEpLem1sNjdRZW9qNExoc3E2WEVBSjRDcmh3amhVc21CVzRrZ1pJc19MQjdxaXc2c2NJdTkyN1hrY3htYllIdV9UQ3ozT1QwMFhqc0J1dmNwZkZ3dFYyUzk1Q1hzel9YdzN5SUlXd3FDWThPRDVYQTRPbmw1bGlDNkM1TTQxcWpheUt3Sl94cVBTYjFKbEVsMnBKOVZFUURSRURZLTJSeFNnQllIX2N1X2ZEMnI5LVVvSEV0aTlNQzMwQkZCWTF6N29NeEpncHNTdEVjWG5JODVxWi1Dak5Ua3pZS2hndVJQSnJZcmNDRDYxR2J3aXhibUdPTFdOeURCbDg5ZWxwby1UUzAzZVlHVHN1SElaNDI1RUhxT1Q0ellKOXlyYnA1dF9wVGp5eG5rQWE2SVBFTC1IV0NNREYtdmNpOVVNaTNXU252RzlRMThWbkI0Ul9tYzdza1NENmxoLXZ2VEFBYnZrZjlSZW51LVJ2M2h2MlhXZ1JMTlFIcFNVcnBEaDR1QUd3?oc=5",
-            "date": "2025-12-22",
-            "meta": "香港經濟日報HKET",
+            "title": "日本政府通過著作權法修正草案＝歌曲授權費用將回饋給歌手 - nippon.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtclUxd2d0QzlMOTdqcU9mdkRtdHNrYUpGa2NiUXA5WElfQ0gtaVlTaEV0VGU5WWc5ZGxEeTc5dWF2SERjaVNSRzRCOUgtODNvb09qeHkzY1BKZkY3?oc=5",
+            "date": "2026-05-15",
+            "meta": "nippon.com",
+            "summary": ""
+          },
+          {
+            "title": "【北美智權報392期】韓國商標法最新動向及侵權應對策略 | 2025 年 11 月 16 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhY1Bmcm1pd1ZLdENGd3lsLVllbFdjUzMzN2pzRzlHMjgwaTVNRGhWNnhMRUZjTHNTWjRmWFhCRUhtd0d4XzRLQw?oc=5",
+            "date": "2025-11-16",
+            "meta": "北美智權",
             "summary": ""
           },
           {
@@ -231,17 +236,17 @@
             "summary": ""
           },
           {
+            "title": "駐京專電｜商標法修訂草案首提人大審議，「打擦邊球」或面臨嚴懲 - 香港經濟日報HKET",
+            "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQMkJKT0tEUEFqdE9uMjAta1JOS1RhY3ltaUFPUEw1ek5DcUpjd3BTZy1QLWZJLW0xdEpLem1sNjdRZW9qNExoc3E2WEVBSjRDcmh3amhVc21CVzRrZ1pJc19MQjdxaXc2c2NJdTkyN1hrY3htYllIdV9UQ3ozT1QwMFhqc0J1dmNwZkZ3dFYyUzk1Q1hzel9YdzN5SUlXd3FDWThPRDVYQTRPbmw1bGlDNkM1TTQxcWpheUt3Sl94cVBTYjFKbEVsMnBKOVZFUURSRURZLTJSeFNnQllIX2N1X2ZEMnI5LVVvSEV0aTlNQzMwQkZCWTF6N29NeEpncHNTdEVjWG5JODVxWi1Dak5Ua3pZS2hndVJQSnJZcmNDRDYxR2J3aXhibUdPTFdOeURCbDg5ZWxwby1UUzAzZVlHVHN1SElaNDI1RUhxT1Q0ellKOXlyYnA1dF9wVGp5eG5rQWE2SVBFTC1IV0NNREYtdmNpOVVNaTNXU252RzlRMThWbkI0Ul9tYzdza1NENmxoLXZ2VEFBYnZrZjlSZW51LVJ2M2h2MlhXZ1JMTlFIcFNVcnBEaDR1QUd3?oc=5",
+            "date": "2025-12-22",
+            "meta": "香港經濟日報HKET",
+            "summary": ""
+          },
+          {
             "title": "9/25(五)「談著作權法修正案對錄音著作授權實務的影響」講座，歡迎報名參加！ - NCCU MAIL",
             "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lZ1FzbWdUOFFvMF9vU3lCaDQ0bWtPODg0Y3ZNeTRSOHZGRjQtTDRHb2pndWRsSXFTOTNzcGRtMy1lODI3UFRuWWtPSnFGMXJjdGpDalhzTjZ3S0FDajJGUzBYbEVnMzlaM1E?oc=5",
             "date": "2020-09-17",
             "meta": "NCCU MAIL",
-            "summary": ""
-          },
-          {
-            "title": "著作權法修正草案：電腦程式著作權可達死亡後50年 - iThome",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVZGZzR0RrVmhwZFRYc0hpM2tXaEJiZ1Q4VUw2M0MyNlN4UE1TenlPcjB0U2Z1cWpaYVVMSDVadldXT0dWcTRSa0NOQUg?oc=5",
-            "date": "2021-09-28",
-            "meta": "iThome",
             "summary": ""
           }
         ]
@@ -296,6 +301,7 @@
     ]
   },
   {
+    "id": "music-ip",
     "name": "音樂智財與投資",
     "desc": "音樂 NFT・版稅・數位音樂授權（論文核心）",
     "kind": "intl",
@@ -312,6 +318,13 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0NaT0JqSmJnWVRFOGt5ZWFlTXg5YjlUVnRHdEtiQ2tTbmpFQTJoWWI1Ulo5ZmJWeGU0SEF3STR3UUI1WVdEbU9HUHBpSlJKZlAyVmljOUJDMHlqTGRsNnRyclYzQkI2WE9ZRmtTNlduVGpVRWtuQ1JNNGdKYXNJN0ZWeVpKemZsdWp4VjhDbmdleUstNGFlVHlYX1BWQjNSSnJKMFZ5dGxST2Z0VXp5QjRRUV8?oc=5",
         "date": "2026-06-12",
         "meta": "Complex",
+        "summary": ""
+      },
+      {
+        "title": "Can an AI platform hold a music copyright? - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOempVQWt4a0lWc3U3NGIwNkFPbTQyMUJKNVBsOE1BTm10OTgtTm80VW9ITWROa2Rwal9LVWc5MHpORU1WRVVqY20xd2twUW1KNnRkdTExcnRYbElrMXRjdExrODN5MG52TC1EM2J1U283RWJYdjFtcmhFSlVsMlJzVXYyV09xaFRMNmV1X2lwWkxubERGQ0p2MzlZSmVadHN2eWxHRFQ4U1RYX1XSAbIBQVVfeXFMTzJXR21BakF6c1g4aktQVEdSRm5uSmVPRG5hUElvYzZfRFdndDNQcXN4OFF3bnJyR0tmQVI5VGxxWUx4UENCYW9DTmwtZ1h1RXJ3aWpiTG9nSlpSa29SekV0eWV6cUFkTTVJNWRJS0tJbV9uN2FFb0c3NnFzZWh6QndPaHRrZDZvRUR5anB0LVVFeTdXYk9yMVhfaHJvX3huM2FWdVd5SlBFd0tFbHl1Ml9YUQ?oc=5",
+        "date": "2026-06-16",
+        "meta": "BusinessLine",
         "summary": ""
       },
       {
@@ -334,16 +347,16 @@
         "date": "2026-06-12",
         "meta": "MLex",
         "summary": ""
-      },
-      {
-        "title": "Rapper Blueface's Music Royalties Being Paid To Soulja Boy’s Baby Mama Over Debt - TMZ",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTzNFTHdiZlM5anVFWXB2cEVhOWxLTUVWZE9OQmxQVnNKV1FHN2w1QWRtZkllcEstdjVIZDBvVThLNnpZMlZsQzhYR0EwelFkMnhBYUdyUlpFTjN0ZWNobTZ5MXlCTFI4cmdwSHpuSk1JcnFwOUVYRW9Uak9PX3Z1VFpoXzQ4UV8wZVFzck1UQmc?oc=5",
-        "date": "2026-06-11",
-        "meta": "TMZ",
-        "summary": ""
       }
     ],
     "news_zh": [
+      {
+        "title": "AI 作曲無版權？日本 JASRAC 裁定純 AI 音樂屬公共領域 - unwire PRO",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yLTh5YlR5MVJILUdFZ29MY2d5NnJ3R1B1R1B3Q3NtZ1A1R08ta1ZfMEV5bWNZR3oxVkZtQ1paMTc5RC1uaVpUdnhYeGNWWGZBU3dpSlNwVXpOdld6U1Nfeko3a2RvRjJGeU1FLVZueDBRUQ?oc=5",
+        "date": "2026-06-15",
+        "meta": "unwire PRO",
+        "summary": ""
+      },
       {
         "title": "華納音樂買下Sureel，強化AI時代音樂版權追蹤 - iThome",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RM0hsZlQ3Rmp2bU9wdTBydnRaYXg4M2tDc2c2M05FeElkQVg4Zmh4THBuTm5wcmRxdjJRUklwcTk3MGNsTmJtUFJNMF9uUQ?oc=5",
@@ -363,13 +376,6 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hSEZoVEVwaXdQeXltTEx0a0I4RG9ncFo5ZjVuSXJ1c2VFMmI5WHNpRWdzNW5rVzhFUzVVRG1xa05TNG5MV0dLcjdaLWxXdzBtUFhmS1JlT3BPS05BN3dpZWtNZlVidVUzRFNLRmpzTHZPTWFF?oc=5",
         "date": "2026-06-13",
         "meta": "LINE TODAY",
-        "summary": ""
-      },
-      {
-        "title": "HarbourView 與查卡汗建立策略夥伴關係發展歌曲版權庫及新項目 - bastillepost.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxONXZwcTZHZUdTTndpeEJmR2hROHByczZTTHJYZHRCMUNYSkdSZGZnSFR0QTkzcld4a1JZTTlCcWFHS3BpTjdZOWdiMG5nLVBxTXZpdUs2YmZsRmpvQUhwQ1Nvb1ZONUVMTlp6WlVsampWX1hfQmFqSXB1Rll4c2sxU0VKR3lsSG9EMjFfSENyTDBoYVFNUUVpUWV2bm4wZm5FZnVVVEF1ZGRQMmZhSm1WcWFQcWxNZ09Gc3JaNm92ZDVDaFd0c1hlMGFqblg0aU5CNW9QVWl2LV96ellwbDZ4M0NCYVNtRmRrejNKdndkNXRJOU5wY0JtbHo3Sm1ZaThkY3F3azV6TEstTGhibWtZRUkzRWdpVjhSVHlPT0Z4WnVhQTZWRWl5dFdCNngyTW5zYkdsczhsX2FKVl9wLVkzbFNNaU1NNGVoMlktdUtscXJSU1pLZ1hGOG8tRU8xdDUwNDE4UDB3?oc=5",
-        "date": "2026-06-12",
-        "meta": "bastillepost.com",
         "summary": ""
       }
     ],
@@ -449,6 +455,7 @@
     ]
   },
   {
+    "id": "blockchain-gov",
     "name": "區塊鏈演算法治理",
     "desc": "DAO・on-chain governance・智能合約治理（論文範圍）",
     "kind": "intl",
@@ -588,10 +595,25 @@
     ]
   },
   {
+    "id": "ai-ip",
     "name": "AI 智財權",
     "desc": "生成式 AI 著作權・商標・專利・訓練資料侵權",
     "kind": "intl",
     "news_en": [
+      {
+        "title": "Researchers propose 'copyleft' rules for generative AI - Tech Xplore",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EeDhhaG9vQXdZdUVhTnpKU2dkeGVWNnFobXBFNnpmbXdJRXRaLVhfamlPMERZM25kYm9HVFRtX1pwQmNfRUVZelR6X29ValZCQXB2NjYydW5tYlBTMWFnb1h0T29DemVranFXa2xPbkg?oc=5",
+        "date": "2026-06-15",
+        "meta": "Tech Xplore",
+        "summary": ""
+      },
+      {
+        "title": "Trademark Law Meets Generative AI: Key Takeaways from the Getty v. Stability AI Ruling (via Passle) - Baker Botts",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajBRZWpSZVZoT3d5dlk2WjRJSjB0UVhNR0U2eTNTVDZwbU5uR1ZwUWM4RHduWFNKZnhuSFBPemswdmNGUjlZTHp2Q2NVZGtCWFlMWEF3dDI1a0s0NWdDRUcwWTg0N2NwdEF2N3NDTWZxUTFVbHowWGtwUF92NXNiSVBHVy1sME54RDFwdXJ3THQzVGJvZVFZbUgxb3ozdC1hakxuajB6NjFZMFFtZ1VnOEExc3FxUHpVdXJsNzVPX1I?oc=5",
+        "date": "2026-06-15",
+        "meta": "Baker Botts",
+        "summary": ""
+      },
       {
         "title": "Report on a roundtable on music, generative AI, and copyright at the UCL Institute of Brand and Innovation Law - Wolters Kluwer",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTTJRU1M4Sk52aTBhSG1yNzdPY3lFN3M0dXlMWlB1Z3RiN2NQMDZtQlZxS2RMS04zdXh2bHg4VWxzUld2ZUlMRmpwUUZFejRvWjc0cDlIR3VoZnlQdzFJX2hmRDBkUmh2bEMxVUM0OG5ZZHBjckpaOEZxVDA1LTlBMEpUOHRXZjFhbXNRTmxkYVlleHBJbDk3Rl94WFpVdVBDRGdEQ2ZtdzJZOFhzQVMwMEFacDRiZFJhZWJIWkJpSDlNTjZjdzlrTnpHYmFHcmtkQTh6N2dYRXg4Xzl0b1IwZFZaWnlSejVSQUpNUjZrNTl1SHc?oc=5",
@@ -607,20 +629,6 @@
         "summary": ""
       },
       {
-        "title": "First AI Copyright Appeal’s Reach Hinges on Market Impact Issue - Bloomberg Law News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWVEaG5JVXV3c2dUZnBqcnRQNEJ6VGRBYzd1Z0VOeXk3VlhIRzdWcHUzalpLc0Y5TnQ3OEJiaGpoY3F3cS1qcmRBTHNDR3I1ekJGTTFUMUZHMVZ5Rjdwa1ZNS3ptaGNzTUJ5cDVyMEtpdTZ1TnRuTGdzeU8xNGttUVpJTlpsOHVma3hUZnVkcU1QZjVyRjBaZ3ExWk9JOHgx?oc=5",
-        "date": "2026-06-10",
-        "meta": "Bloomberg Law News",
-        "summary": ""
-      },
-      {
-        "title": "SACEM renews call for French AI copyright bill - Music In Africa |",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE00NG9wVmtfSG9FWDIwYUhRdFcweWo1MnZ2LTlLUk9lUDR3Z3JWaHRRNTBVVWVwOHJ2T25GVERHZjQ0RFItTndUUWliWC0xcFBXLTFEa3ExNHNHWHBHS2FRVXRvOXM2X1FpX1AwejM4ZGNNbzJYUThWNVdaNEhTMTF0bjBEZlF6?oc=5",
-        "date": "2026-06-11",
-        "meta": "Music In Africa |",
-        "summary": ""
-      },
-      {
         "title": "Webinar: AI in Patent Drafting – When to Use Generative AI – and When Not To - IPWatchdog.com",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUWJsd0JRdFdyQWxOXy1vRGxUR0xvNTR5YTUyXzBmMGd2VnpQMU54MUZ0bk1XMWxrNDFpR1AzRE54ZUtJQkxCVHZnOUg2UnJmZExzSHQtOE90NTdYUlJwa2FxMVhCM1oxRlNOcUhHRnJEenFhVDQxcGdDQmRNUFhVRXYzV0FXRGhSVHc?oc=5",
         "date": "2026-05-29",
@@ -628,10 +636,10 @@
         "summary": ""
       },
       {
-        "title": "Navigating Copyright in the Age of Generative AI: EU, French, and UK Developments and Approaches - Jones Day",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYmtuVXRVZC1ROWxQN1FVU3piQ1hpR1NsQThLWVh0ZWZhdUxMWDc0RnVQeThuSGxGWW4tOEhIQ3JrZXdoWnFPNF9MN1M2Z0FITWx1RU9taldOMzhJMGlsTGt2a0hzX2hCRUZpMHhQbUdRQTVpRVI3SjRtWGwwS0lyVGlLWDNtTkVYWHlHamdrdTJIdU5JSnUtbDJuME4tN2xrRkxzQm1TQkhqUXQ4aGthTGlJRVlkRFNHNmxzYllCSEdkZ2l5aUNmVWZRdjgtcm5udV9mTw?oc=5",
-        "date": "2026-05-04",
-        "meta": "Jones Day",
+        "title": "SACEM renews call for French AI copyright bill - Music In Africa |",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE00NG9wVmtfSG9FWDIwYUhRdFcweWo1MnZ2LTlLUk9lUDR3Z3JWaHRRNTBVVWVwOHJ2T25GVERHZjQ0RFItTndUUWliWC0xcFBXLTFEa3ExNHNHWHBHS2FRVXRvOXM2X1FpX1AwejM4ZGNNbzJYUThWNVdaNEhTMTF0bjBEZlF6?oc=5",
+        "date": "2026-06-11",
+        "meta": "Music In Africa |",
         "summary": ""
       }
     ],
@@ -658,14 +666,21 @@
         "summary": ""
       },
       {
-        "title": "出版業反擊AI！大英百科全書提告OpenAI 控連訓練資料也侵權 - ETtoday新聞雲",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1icHpmMkVwOWF2blJ3RExuMHlmYW15T29lYWdLWXdqVmJZdDJLU3JvSGNTWTNFc3R0b0t4Y1BNdWRVSlFaajZHZmEyNNIBZ0FVX3lxTE5ma2NsaXNoZGZkT2hMc05HNkVnWEhlZ2VzUEs4cE9pa0pvN3ZVQ3RSNmdzZXU1S3hwYTMwR2NZN1FhbFJXRWpCNlowdllxend5RWtBTkFWWm9SX0JsTVJvTzJEQVJGXzA?oc=5",
-        "date": "2026-03-18",
-        "meta": "ETtoday新聞雲",
+        "title": "AI訓練也要交保護費？歐盟擬擴大AI著作權管轄 - Yahoo股市",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOc3RxQzY5bjE4UWxDRW1hVmlMUENDUVU3TE9fNmJycHZWUy1TeTN5ZmNSQUtsaEkwcEVsSWhYbUtRVFFzTDdHWGtsVFg3V3R6dFZqWm1iUThIem5KUlFsczNBWl9OQkdReGd4cXE0OWJGYmJTX2YyaXBkVzVpLXNBdlJoWERIM3NUYl8yU0xIWE01OGY1N1NFR05aVnMtUGl6bE5xSUlOQ2JXeVVNTDBPZF9TdTk3aDJ1c3ZackVMU05IYkQwTGllczQzaGY2Tk1YSWd2SGN1a1kwTV85X2VEb0tSRUUwSlRKY29HT3F1SHUxY01jM0ZGTmVOTlVjWnNaRk9TZE05NFI1VHNnRUY1ZzhiRFMxT25SWDd6SXdmMmxLcXlpT21zaks1bTBZVng3M084OFoxVVg3dw?oc=5",
+        "date": "2026-03-19",
+        "meta": "Yahoo股市",
         "summary": ""
       }
     ],
     "papers": [
+      {
+        "title": "U.S. Policies Unintentionally Accelerated China's Open AI Ecosystems",
+        "url": "https://arxiv.org/abs/2606.15999v1",
+        "date": "2026-06-14",
+        "meta": "Wang Jin, Nadav Kunievsky, Bowen Lou et al.",
+        "summary": "Over the past decade, U.S. policies have increasingly aimed to preserve artificial intelligence (AI) leadership by promoting domestic free-market policies while controlling global technological chokepoints, particularly advanced semiconduct"
+      },
       {
         "title": "Evaluating LLMs for Obfuscation Detection and Classification in Android Apps",
         "url": "https://arxiv.org/abs/2606.14233v1",
@@ -693,13 +708,6 @@
         "date": "2026-06-11",
         "meta": "Akbar Erkinov, Nurmukhammad Abdurasulov",
         "summary": "Sharing mathematical content in online forums remains a significant friction point for students and educators: writing raw LATEX is error-prone, standalone optical character recognition tools require platform switching, and current forum so"
-      },
-      {
-        "title": "Market Design for AI: Beyond the Copyright Binary",
-        "url": "https://arxiv.org/abs/2606.12260v1",
-        "date": "2026-06-10",
-        "meta": "Yan Dai, Maryam Farboodi, Negin Golrezaei et al.",
-        "summary": "How can we design a market of human-generated content for use in training AI models that both enables technological progress and preserves individual incentives for high-quality content creation? Existing approaches take polar positions: a "
       }
     ],
     "cases": [

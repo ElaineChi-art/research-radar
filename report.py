@@ -20,10 +20,38 @@ def _items(items, show_summary=False):
     return f'<ul class="feed">{"".join(li)}</ul>'
 
 
+def _judgments_block(t):
+    """司法院判決全文區塊（只有金融犯罪主題、且有資料時才顯示）。"""
+    if "judgments" not in t:
+        return ""
+    items = t.get("judgments", [])
+    upd = t.get("judgments_updated", "")
+    if not items:
+        note = t.get("judgments_note") or "近期無命中關鍵字的新判決。"
+        if "非本 API 服務時間" in note or "尚未" in note:
+            note = "⏳ 判決全文將於每日台灣 00:00–06:00 由排程自動抓取並更新。"
+        return ('<div class="judg"><h3>📜 司法院判決全文（金融／經濟犯罪）</h3>'
+                f'<p class="empty">{html.escape(note)}</p></div>')
+    rows = []
+    for it in items:
+        kw = "".join(f'<span class="kw">{html.escape(k)}</span>' for k in it.get("keywords", []))
+        rows.append(
+            f'<li><div class="jhead"><b>{html.escape(it.get("jtitle",""))}</b>'
+            f'<span class="src">{html.escape(it.get("court",""))}　'
+            f'{html.escape(it.get("no",""))}　{html.escape(it.get("date",""))}</span></div>'
+            f'<div class="kws">{kw}</div>'
+            f'<p class="sum">{html.escape(it.get("snippet",""))}…</p></li>'
+        )
+    return (f'<div class="judg"><h3>📜 司法院判決全文（金融／經濟犯罪）'
+            f'<span class="src"> · 全文比對命中 {len(items)} 筆 · 更新 {html.escape(upd)}</span></h3>'
+            f'<ul class="jfeed">{"".join(rows)}</ul></div>')
+
+
 def build_html(date_str, topics, generated_at):
     """topics: list of dict，每個含 name/desc 與 news/papers/cases。"""
     sections = []
     for t in topics:
+        judg = _judgments_block(t)
         if t.get("kind") == "tw":
             tag = '<span class="tag tw">台灣</span>'
             cols = "".join(
@@ -43,6 +71,7 @@ def build_html(date_str, topics, generated_at):
         sections.append(f"""
         <section class="topic">
           <h2>{tag}{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
+          {judg}
           <div class="cols">{cols}</div>
         </section>""")
     body = "\n".join(sections)
@@ -80,6 +109,18 @@ def build_html(date_str, topics, generated_at):
   .src {{ color:#7c8696; font-size:11px; }}
   .sum {{ color:#aab3c0; font-size:12px; margin:5px 0 0; }}
   .empty {{ color:#6b7280; font-size:13px; }}
+  .judg {{ background:#1a1410; border:1px solid #3a2a18; border-radius:10px;
+          padding:14px; margin-bottom:14px; }}
+  .judg h3 {{ margin:0 0 10px; font-size:15px; color:#ffcf99; }}
+  .jfeed {{ list-style:none; margin:0; padding:0;
+           display:grid; grid-template-columns:repeat(2,1fr); gap:12px; }}
+  .jfeed li {{ background:#161922; border:1px solid #262b36; border-radius:8px; padding:10px; }}
+  .jhead b {{ font-size:14px; }}
+  .jhead .src {{ display:block; color:#8a93a3; font-size:11px; margin-top:2px; }}
+  .kws {{ margin:6px 0; }}
+  .kw {{ display:inline-block; background:#3a2233; color:#ff9ecb; font-size:11px;
+        padding:1px 7px; border-radius:6px; margin:0 4px 4px 0; }}
+  @media (max-width:880px) {{ .jfeed {{ grid-template-columns:1fr; }} }}
   footer {{ text-align:center; color:#6b7280; font-size:12px; padding:24px; }}
   @media (max-width:880px) {{ .cols {{ grid-template-columns:1fr; }} }}
 </style>

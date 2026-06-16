@@ -28,7 +28,7 @@ def run():
     for t in config.TOPICS:
         print(f"==> {t['name']}")
         kind = t.get("kind", "intl")
-        data = {"name": t["name"], "desc": t["desc"], "kind": kind}
+        data = {"id": t.get("id"), "name": t["name"], "desc": t["desc"], "kind": kind}
         try:
             if kind == "tw":
                 # 台灣主題：三欄都來自中文新聞，不同查詢角度
@@ -54,6 +54,20 @@ def run():
             print(f"    ⚠️ {e}")
             traceback.print_exc()
         topics.append(data)
+
+    # 掛上司法院判決全文（由 judicial.py 於台灣凌晨產生）
+    jpath = os.path.join(DOCS, "data", "judgments.json")
+    if os.path.exists(jpath):
+        try:
+            jdata = json.load(open(jpath, encoding="utf-8"))
+            for d in topics:
+                if d.get("id") == "tw-financial-crime":
+                    d["judgments"] = jdata.get("items", [])
+                    d["judgments_updated"] = jdata.get("updated", "")
+                    d["judgments_note"] = jdata.get("note", "")
+            print(f"判決全文：掛上 {len(jdata.get('items', []))} 筆")
+        except Exception as e:
+            print(f"讀取 judgments.json 失敗：{e}")
 
     html_str = report.build_html(today, topics, now)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
