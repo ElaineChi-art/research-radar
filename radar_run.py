@@ -16,8 +16,7 @@ REPORTS = os.path.join(ROOT, "reports")
 
 
 def tag_crimes(text):
-    text = text or ""
-    return [label for label, kws in config.CRIME_TAGS if any(k in text for k in kws)]
+    return config.tag_text(text)
 
 
 def gather_column(col):
@@ -81,7 +80,8 @@ def run():
         try:
             jdata = json.load(open(jpath, encoding="utf-8"))
             for it in jdata.get("items", []):
-                it["tags"] = tag_crimes((it.get("jtitle", "") + " " + it.get("snippet", "")))
+                if not it.get("tags"):  # judicial.py 已用全文標好，缺才補
+                    it["tags"] = tag_crimes(it.get("jtitle", "") + " " + it.get("snippet", ""))
         except Exception as e:
             print(f"讀 judgments.json 失敗：{e}")
     # 音樂 IP 金融圖表

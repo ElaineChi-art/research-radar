@@ -9,29 +9,6 @@
         "label": "⚖️ 判決・起訴",
         "items": [
           {
-            "title": "幣想勾結詐團騙12億！主嫌施啟仁2千萬交保，檢方求重判25年 - 加密城市CryptoCity",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KWXI3aEY4LUoyWVJkaWpoWGQ0RlBrQ3lIWldRNF9ZWmx3VDNZS2ZJLVhuancwVDRncHNVSmh3YUFMRHZIMFdYUkVNd29ZSk5wdnpOblJjdDkxdENhQ3dvZ1hmX1hseHl3UTB5eXA3bC1YVFNCYXc?oc=5",
-            "date": "2026-06-16",
-            "meta": "加密城市CryptoCity",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-16",
-            "tags": []
-          },
-          {
-            "title": "面對外界質疑不再沉默 天逸金融：絕無非法吸金與詐欺情事 - 蕃新聞",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kb0lBcEttM1lfVXpacnI5a0pQajZfZktTYVZTc0hheWxPb1MteGVDUnhtbDN0R2pWVXp1ZTRwVDMxcURzRDdCSjlUOGtVLS10QlE?oc=5",
-            "date": "2026-06-16",
-            "meta": "蕃新聞",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-16",
-            "tags": [
-              "違法吸金／銀行法",
-              "詐欺"
-            ]
-          },
-          {
             "title": "天逸金融涉案遭起訴 公司發聲明否認非法吸金指控 - Yahoo新聞",
             "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQY0p4RWg0d3JSMnpPYjhJbUxFSGVNTVRFUTJ2Y3Z2Q0xac3Bud2dvMHliXzFBT1NQS3pmMmxHTmZNclItTWFuQy1vTHRyM3pDWW96SjNHSm1ySzRScWRVY0xhRmpCRE9ScjY0WkMzNkYyQzVZVkFGakpfd0lEOWstVDFGSVVNRTBoYV9xN2RzQ2xEbm9WZWE2R25PN3MySko3c2dDRHdJLUQwV01IYlVGS0Fkc0x6Ujh6TW91cURwc0xlZlpQYnpqX0kxSzhweGZEZkxNczc2MnpBaDhSMmFSSlFybDcxc0RXZEtJOG9ybHdYQ2dkN25MbXFydTNHNzdHNkNHSVpmNlFZZnhiWnNOQU1jTWdHejZWeW1YdFA3ZXQxTnE2dkNVUGN2R3lQMWdwR3F0eldqWWlWNUpXTTdzY0FOa2ZHcFBJdTZjZkk5WVc4Y1ozc3pBVkg4b2Q?oc=5",
             "date": "2026-06-15",
@@ -40,7 +17,12 @@
             "is_new": true,
             "_sort": "2026-06-15",
             "tags": [
-              "違法吸金／銀行法"
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "非法吸金",
+                "label": "金融秩序·非法吸金",
+                "ci": 0
+              }
             ]
           },
           {
@@ -52,8 +34,18 @@
             "is_new": true,
             "_sort": "2026-06-12",
             "tags": [
-              "洗錢",
-              "地下匯兌"
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              },
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
             ]
           },
           {
@@ -65,7 +57,18 @@
             "is_new": true,
             "_sort": "2026-06-12",
             "tags": [
-              "洗錢"
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              },
+              {
+                "cat": "虛擬資產犯罪",
+                "sub": "虛擬貨幣洗錢",
+                "label": "虛擬資產·虛擬貨幣洗錢",
+                "ci": 4
+              }
             ]
           },
           {
@@ -77,8 +80,40 @@
             "is_new": true,
             "_sort": "2026-06-10",
             "tags": [
-              "內線交易"
+              {
+                "cat": "證券犯罪",
+                "sub": "內線交易",
+                "label": "證券·內線交易",
+                "ci": 2
+              }
             ]
+          },
+          {
+            "title": "涉利用內線交易牟利35萬 華裔分析師被起訴 - 大纪元",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUm9idjM5dHBzdkFHU3ZnSHNBc19MVDM1YTZneHZjYmNhZE1NNFF6WkliaG8wZlhZMGtzVEYwemVabzFTQjlhcTUwYkhkUnY0ZjFseVo4a2g4LWpEY3Ew0gFkQVVfeXFMT3hlcnUySFpsZ3FVR0pzMmgtR3RTNVpNSFQxRDdwY25Va2t3SlA3cXZ0d1c2MVA4T2xzUjFjejNFelVXa3lRYnVSMFlIUnNRYTRUSEM3T1JPRlFZNzhNaEtORzlGaQ?oc=5",
+            "date": "2026-06-06",
+            "meta": "大纪元",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-06",
+            "tags": [
+              {
+                "cat": "證券犯罪",
+                "sub": "內線交易",
+                "label": "證券·內線交易",
+                "ci": 2
+              }
+            ]
+          },
+          {
+            "title": "環管署長貪污背信認罪繳回犯罪所得1萬 中檢起訴建請緩刑 - 鏡週刊Mirror Media",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uallLc3NCZUxlYjRicDlTc1JaVzBTRXJabURrbWppSTFVUFR6bkZDbmJUdHNjRkJpLTY5YkRkbGJ6V21yQ0VfM2pram9BdHJiT0R1RUZZODVnakI4VWpoUFZ2TE9RQdIBa0FVX3lxTE9sd2IxRXo4Ry00NkZpNkZFTFZycUw1YURHdWJpZElNaXY0MUlUVVZsb1Roc0R3MEFLZm9wb21aU2JEWW1sSkNERE1DdFk2eFNyT3VKZUdadVBZT0xnSUdQVzVVRFJ4WTV2dHhF?oc=5",
+            "date": "2026-06-05",
+            "meta": "鏡週刊Mirror Media",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-05",
+            "tags": []
           }
         ]
       },
@@ -94,7 +129,12 @@
             "is_new": false,
             "_sort": "2026-06-08",
             "tags": [
-              "洗錢"
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
             ]
           },
           {
@@ -115,9 +155,7 @@
             "summary": "",
             "is_new": false,
             "_sort": "2025-12-02",
-            "tags": [
-              "違法吸金／銀行法"
-            ]
+            "tags": []
           },
           {
             "title": "《證交法》修正草案三讀通過 上市櫃公司盈餘需分派基層 - 公視新聞網PNN",
@@ -127,9 +165,7 @@
             "summary": "",
             "is_new": false,
             "_sort": "2024-07-16",
-            "tags": [
-              "證券詐欺"
-            ]
+            "tags": []
           },
           {
             "title": "立院三讀 幣商須登記洗錢防制違者最重關2年 - 中央社 CNA",
@@ -140,7 +176,12 @@
             "is_new": false,
             "_sort": "2024-07-16",
             "tags": [
-              "洗錢"
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
             ]
           },
           {
@@ -151,9 +192,7 @@
             "summary": "",
             "is_new": false,
             "_sort": "2024-07-16",
-            "tags": [
-              "證券詐欺"
-            ]
+            "tags": []
           }
         ]
       },
@@ -353,19 +392,19 @@
             "_sort": "2026-06-16"
           },
           {
-            "title": "英國上訴法院認定諾基亞提供的視訊專利授權合約，包含強迫華碩交互授權條款，違反FRAND要求 - 科技產業資訊室",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HS0FZMEZSMUlVc1JrN0ZzQVhBd3o3cEpYUWFER0tOZVEtQUt4WkVlZGJsaGZmekgtMXVRVGlFSV9LalBraTdOcUdYR2c5RWZKcl9zT0pOUzVwdFF1c1lJOFBMY0tldjl0Ync?oc=5",
+            "title": "台積電遭專利蟑螂提告 智慧局：對本案有信心 - rti.org.tw",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1obkV6TGprYlJSclFsdEF0aThpRXB5MFZha0hySkdINWVBRlJfMDV2cjdTTXpEdEFTcUdJZG1hYmY1Ympzd0Z5emZVY0Q2QjFfVDJtVElyQQ?oc=5",
             "date": "2026-06-16",
-            "meta": "科技產業資訊室",
+            "meta": "rti.org.tw",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
           },
           {
-            "title": "台積電遭專利蟑螂提告 智慧局：對本案有信心 - rti.org.tw",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1obkV6TGprYlJSclFsdEF0aThpRXB5MFZha0hySkdINWVBRlJfMDV2cjdTTXpEdEFTcUdJZG1hYmY1Ympzd0Z5emZVY0Q2QjFfVDJtVElyQQ?oc=5",
+            "title": "英國上訴法院認定諾基亞提供的視訊專利授權合約，包含強迫華碩交互授權條款，違反FRAND要求 - 科技產業資訊室",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HS0FZMEZSMUlVc1JrN0ZzQVhBd3o3cEpYUWFER0tOZVEtQUt4WkVlZGJsaGZmekgtMXVRVGlFSV9LalBraTdOcUdYR2c5RWZKcl9zT0pOUzVwdFF1c1lJOFBMY0tldjl0Ync?oc=5",
             "date": "2026-06-16",
-            "meta": "rti.org.tw",
+            "meta": "科技產業資訊室",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
@@ -644,7 +683,53 @@
       },
       {
         "label": "📚 學術論文",
-        "items": []
+        "items": [
+          {
+            "title": "FOLK MUSIC VS DIGITAL PRODUCTION: THE TRANSITION OF INTELLECTUAL PROPERTY",
+            "url": "https://doi.org/10.29121/shodhkosh.v7.i2.2026.7846",
+            "date": "2026-06-01",
+            "meta": "Semantic Scholar · S. Reddy, Chingireddy Sony · ShodhKosh Journal of Visual and Performing Arts",
+            "summary": "This paper explores how the progress of music from traditional folk art passed down orally to music shared digitally or generated by algorithms has fundamentally altered how the world views Intellectual Property (IP). Wh",
+            "is_new": false,
+            "_sort": "2026-06-01"
+          },
+          {
+            "title": "International and national legal aspects of intellectual property rights in music",
+            "url": "https://doi.org/10.31926/but.pa.2024.17.66.3.6",
+            "date": "2025-01-31",
+            "meta": "Semantic Scholar · Ionut-Sabin Bogdan · Bulletin of the Transilvania University of Brașov. Series VIII, Performing arts",
+            "summary": "The legal protection of authors' rights for musical works appeared in an incipient form as early as the 18th century, in the form of the transfer of copyright for economic purposes through the direct sale of a manuscript",
+            "is_new": false,
+            "_sort": "2025-01-31"
+          },
+          {
+            "title": "The Legal Certainty of Copyright Royalties Management for Songs and Music in Commercial Venues from the Perspective of Legal Fiction Theory",
+            "url": "https://doi.org/10.47772/ijriss.2025.907000414",
+            "date": "2025",
+            "meta": "Semantic Scholar · Moh. Ali, Galuh Puspaningrum, Qurrotul Umniyah · International journal of research and innovation in social science",
+            "summary": "Nowadays, technological advancement has many benefits and has given rapid changes to society. Regulations regarding the management of copyright royalties for songs in commercial places are an important aspect in the prot",
+            "is_new": false,
+            "_sort": "2025"
+          },
+          {
+            "title": "INTELLECTUAL PROPERTY RIGHTS PROTECTION FOR ACTORS IN THE CREATIVE ECONOMY BASED ON INTELLECTUAL PROPERTY RIGHTS LAW NUMBER 28 OF 2014 CONCERNING COPYRIGHT",
+            "url": "https://doi.org/10.71250/rlr.v2i1.30",
+            "date": "2024-04-29",
+            "meta": "Semantic Scholar · Joice Soraya, Muhammad Ansy Althafzufar · LAW REVIEW",
+            "summary": "Intellectual property rights (IPR) are rights that are born as a result of a person's intellectual labor; hence, IPR is a legal structure of intellectual property protection as a result of the work performed by the creat",
+            "is_new": false,
+            "_sort": "2024-04-29"
+          },
+          {
+            "title": "Juridical Reviews of Users of Song Copyright Works are Associated with Government Regulation Number 56 of 2021 Regarding the Management of Song or Music Copyright Royalties",
+            "url": "https://doi.org/10.52403/ijrr.20220450",
+            "date": "2022-05-05",
+            "meta": "Semantic Scholar · A. Sunarto, Bohal Sijabat · International journal of research and review",
+            "summary": "Intellectual property rights (IPR) are rights that arise because of the results of someone's intellectual creativity, provided that they must be in real form, creativity, so that they cannot be just ideas or concepts, wh",
+            "is_new": false,
+            "_sort": "2022-05-05"
+          }
+        ]
       },
       {
         "label": "⚖️ 美國判決",
@@ -765,13 +850,13 @@
             "_sort": "2026-06-10"
           },
           {
-            "title": "聯合國開發計劃署成立區塊鏈顧問小組探索公共服務應用 - WEEX",
-            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPQWlLRXRYX2NRQVdmckItRjdpNEpZWUxIcVdCRHlKYU1FYzdxdnpQTEd2SkJnT0pGWjlwZVdVemUxNWtGbFB0SUwzSWlPQzNNY2JhcFFWdkt1VVJ6dUZoVDhnV3FwbG0xcnpjSkNKdDlncDRvY0RFNzY1Q2JCVnJramZZYzV0X3EtT1pGM05wMGhTNC0xZzNyclM2T0hHc0l1NkZ1RTQ2ZmpZajhsUzBnMGdaLVUyaVZvYzJiNmNtZnhtVWIxd0NXUzV4cl9WXy1VTG5tR0l6OFlDcGRlODIzbFM5WHBtQ2ZlaFBvRkpHejBWdHJFUGdjei13Nm1wLVg3bjRCOVlRWXNzYS1HYklLQUMwSjFZZkZVb1ZN?oc=5",
-            "date": "2026-06-08",
-            "meta": "WEEX",
+            "title": "聯合國開發計劃署成立區塊鏈顧問小組，探索公共服務應用 - Bitget",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vbmNwNExRWWNiQzUxU1BfOVdVOUFkOUJ0RUVrblg2NzBzTXVGbjB6aGotb3c1NnJWM1lQcDVPQ3hiS09zT1FDMTcxMUx1WG9Bb3pJZV9kTFZJQklieVVYSVJsN3NTQdIBa0FVX3lxTE5KMWtyUk9wZzZ4MndBOGVkNGFpQ2M0ZWdFVDlZZ2daWUJza1R3anRBbksyNTZWOXlSZUJ0ZHZiNWJYVGlpWWRXV2tKellISG80ZEdjSWRsRThlUElsZ0RmbjdSRUhlRlFIQTJn?oc=5",
+            "date": "2026-06-07",
+            "meta": "Bitget",
             "summary": "",
             "is_new": false,
-            "_sort": "2026-06-08"
+            "_sort": "2026-06-07"
           },
           {
             "title": "如何建立去中心化自治組織 (DAO)？ - Binance",
@@ -1005,6 +1090,51 @@
         "label": "🌏 中國IP・綜合",
         "items": [
           {
+            "title": "Design Patent Examination at the USPTO: DesignVision, AI, and the New Rules for Digital Designs",
+            "url": "https://www.jdsupra.com/legalnews/design-patent-examination-at-the-uspto-2754252/",
+            "date": "2026-06-15",
+            "meta": "JD Supra IP",
+            "summary": "Artificial intelligence (AI) is now a part of U.S. design patent examination, but not in the way some practitioners may expect. The latest public USPTO materials do not identify a new, post-DesignVision AI tool dedicated",
+            "is_new": true,
+            "_sort": "2026-06-15"
+          },
+          {
+            "title": "6 Key Takeaways | Recent Developments in U.S. Trademark and Unfair Competition Law",
+            "url": "https://www.jdsupra.com/legalnews/6-key-takeaways-recent-developments-in-4963808/",
+            "date": "2026-06-15",
+            "meta": "JD Supra IP",
+            "summary": "Kilpatrick partner Ted Davis spoke recently on recent developments in U.S. trademark and unfair competition law as part of Kilpatrick's \"IP Innovations\" series. That presentation addressed, inter alia, the following topi",
+            "is_new": true,
+            "_sort": "2026-06-15"
+          },
+          {
+            "title": "Director Denies IPR Over Foreign Government RPI Ties",
+            "url": "https://www.jdsupra.com/legalnews/director-denies-ipr-over-foreign-9336046/",
+            "date": "2026-06-15",
+            "meta": "JD Supra IP",
+            "summary": "The Director issued a precedential discretionary denial on the ground that a foreign government entity was an undisclosed real party in interest(“RPI”). The ruling extended Return Mail, Inc. v. United States Postal Servi",
+            "is_new": true,
+            "_sort": "2026-06-15"
+          },
+          {
+            "title": "AI Governance is Not Just a Policy Problem – Your Contracts Matter",
+            "url": "https://www.jdsupra.com/legalnews/ai-governance-is-not-just-a-policy-5934819/",
+            "date": "2026-06-15",
+            "meta": "JD Supra IP",
+            "summary": "AI governance is often discussed through the lens of policies, frameworks, and responsible AI principles. Those tools matter, but they are not where many of the most important AI decisions are actually being made. In pra",
+            "is_new": true,
+            "_sort": "2026-06-15"
+          },
+          {
+            "title": "Dealmaking in the Age of AI: IP, Licensing, and Spin-Out Strategies for AI-Enhanced Drug Discovery",
+            "url": "https://www.jdsupra.com/legalnews/dealmaking-in-the-age-of-ai-ip-5240701/",
+            "date": "2026-06-15",
+            "meta": "JD Supra IP",
+            "summary": "AI is transforming drug discovery faster than deal structures can adapt. Traditional licensing frameworks were built for linear innovation: researcher invents, institution owns, licensee commercializes. AI shatters that",
+            "is_new": true,
+            "_sort": "2026-06-15"
+          },
+          {
             "title": "Using and Misusing Chinese Patent Data",
             "url": "https://chinaipr.com/2026/06/10/using-and-misusing-chinese-patent-data/",
             "date": "2026-06-10",
@@ -1012,51 +1142,6 @@
             "summary": "Patent statistics are frequently cited as evidence of China's growing technological strength, but patent counts by themselves do not address qualitative concerns. Moreover, they often measure much more than innovation al",
             "is_new": true,
             "_sort": "2026-06-10"
-          },
-          {
-            "title": "Upcoming Senate Judiciary Hearing",
-            "url": "https://chinaipr.com/2026/04/16/upcoming-senate-judiciary-hearing/",
-            "date": "2026-04-16",
-            "meta": "China IPR",
-            "summary": "was asked to testify before the Senate Judiciary Committee on April 22, 2026. The link is here: https://www.judiciary.senate.gov/committee-activity/hearings/stealth-stealing-chinas-ongoing-theft-of-us-innovation-04-22-20",
-            "is_new": false,
-            "_sort": "2026-04-16"
-          },
-          {
-            "title": "Analyzing Trade Secret Protections: 2025 Civil Trends in China",
-            "url": "https://chinaipr.com/2026/04/15/analyzing-trade-secret-protections-2025-civil-trends-in-china/",
-            "date": "2026-04-15",
-            "meta": "China IPR",
-            "summary": "This blog reviews Zhao Ye’s report on trade secret adjudication by the SPC IP Tribunal. Based on 11 published cases from 2025, the report highlights a sharp increase in damages, systematic reversal of lower court decisio",
-            "is_new": false,
-            "_sort": "2026-04-15"
-          },
-          {
-            "title": "China’s ASI Strategic Retreat and WTO Compliance",
-            "url": "https://chinaipr.com/2026/04/03/chinas-asi-strategic-retreat-and-wto-compliance/",
-            "date": "2026-04-03",
-            "meta": "China IPR",
-            "summary": "China appears to have taken a meaningful step toward complying with the WTO’s DS611 ruling by stepping back from its controversial use of anti-suit injunctions in SEP disputes, with no new ASIs reported since the decisio",
-            "is_new": false,
-            "_sort": "2026-04-03"
-          },
-          {
-            "title": "Regifting, Signaling, and Implementation: Comparing China’s IP Commitments Across the 2026 NTE, Phase One, and the 2016 JCCT",
-            "url": "https://chinaipr.com/2026/04/02/regifting-signaling-and-implementation-comparing-chinas-ip-commitments-across-the-2026-nte-phase-one-and-the-2016-jcct/",
-            "date": "2026-04-02",
-            "meta": "China IPR",
-            "summary": "The recently released 2026 National Trade Estimate Report on Foreign Trade Barriers (March 31, 2026) (the “NTE”) provides a useful opportunity to reassess U.S.–China intellectual property negotiations, particularly the P",
-            "is_new": false,
-            "_sort": "2026-04-02"
-          },
-          {
-            "title": "Notice concerning Further Strengthening Management over Cultural and Artistic Programmes and Their Personnel",
-            "url": "https://chinacopyrightandmedia.wordpress.com/2021/09/02/notice-concerning-further-strengthening-management-over-cultural-and-artistic-programmes-and-their-personnel/",
-            "date": "2021-09-02",
-            "meta": "China Copyright & Media",
-            "summary": "National Radio and Television Administration General Office Guang Dian Ban Fa (2021) 267 All provincial, autonomous region and municipal radio and television bureaus, the Xinjiang Production-Construction Corps Culture, S",
-            "is_new": false,
-            "_sort": "2021-09-02"
           }
         ]
       }

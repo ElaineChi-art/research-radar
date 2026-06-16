@@ -4,7 +4,13 @@ import html
 
 
 def _tags(tags):
-    return "".join(f'<span class="kw">{html.escape(t)}</span>' for t in (tags or []))
+    out = []
+    for t in (tags or []):
+        if isinstance(t, dict):
+            out.append(f'<span class="kw c{t.get("ci",0)}">{html.escape(t.get("label",""))}</span>')
+        else:
+            out.append(f'<span class="kw">{html.escape(str(t))}</span>')
+    return "".join(out)
 
 
 def _item(it):
@@ -132,6 +138,13 @@ def build_html(date_str, topics, generated_at):
   .kws {{ margin:5px 0 0; }}
   .kw {{ display:inline-block; background:#2a2233; color:#d6a9ff; font-size:11px;
         padding:1px 7px; border-radius:6px; margin:0 4px 4px 0; }}
+  /* 六大犯罪類別配色：金融秩序/銀行/證券/公司/虛擬資產/詐欺 */
+  .kw.c0 {{ background:#10263a; color:#7fc4ff; }}
+  .kw.c1 {{ background:#0f3030; color:#6fe0d0; }}
+  .kw.c2 {{ background:#3a2233; color:#ff9ecb; }}
+  .kw.c3 {{ background:#2a2a12; color:#e6d36a; }}
+  .kw.c4 {{ background:#2a1838; color:#c79cff; }}
+  .kw.c5 {{ background:#3a1f18; color:#ffae8a; }}
   .empty {{ color:#6b7280; font-size:13px; }}
   .judg {{ background:#1a1410; border:1px solid #3a2a18; border-radius:10px;
           padding:14px; margin-bottom:14px; }}

@@ -13,16 +13,16 @@ import time
 import datetime
 import urllib.request
 
+import config
+
 BASE = "https://data.judicial.gov.tw/jdg/api"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs", "data", "judgments.json")
 
-# 金融／經濟犯罪：字別粗篩（金融專業法庭常見字別）＋全文關鍵字
+# 字別粗篩（金融專業法庭常見字別）；全文再用 config 犯罪體系標籤比對
 TARGET_PREFIX = ("金",)           # 金訴、金重訴、金上訴、金上重訴…
-TARGET_EXACT = {"矚訴", "矚上訴", "矚重訴"}
-KEYWORDS = ["內線交易", "背信", "特別背信", "掏空", "證券詐欺", "操縱股價",
-            "洗錢", "財報不實", "證券交易法", "銀行法", "侵占", "詐欺"]
-MAX_DOCS = 60                     # 單次最多抓幾篇全文，保護頻寬
+TARGET_EXACT = {"矚訴", "矚上訴", "矚重訴", "重訴"}
+MAX_DOCS = 80                     # 單次最多抓幾篇全文，保護頻寬
 
 
 def _post(path, payload, timeout=40):
@@ -98,8 +98,8 @@ def run():
             try:
                 doc = jdoc(token, jid)
                 full = (doc.get("JFULLX") or {}).get("JFULLCONTENT", "") or ""
-                hit = [k for k in KEYWORDS if k in full]
-                if not hit:
+                tags = config.tag_text(full)
+                if not tags:
                     continue
                 snippet = full.replace("\r", "").replace("\n", " ").strip()
                 items.append({
@@ -107,7 +107,7 @@ def run():
                     "jtitle": doc.get("JTITLE", ""),
                     "no": f'{info["year"]}年度{info["type"]}字第{info["no"]}號',
                     "date": info["date"],
-                    "keywords": hit,
+                    "tags": tags,
                     "snippet": snippet[:300],
                 })
             except Exception as e:
