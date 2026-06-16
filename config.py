@@ -10,7 +10,7 @@
 聚合後依日期由新到舊排序，近 7 天標 🆕。
 """
 
-COL_LIMIT = 6  # 每欄最多顯示幾則
+COL_LIMIT = 8  # 每欄最多顯示幾則
 
 # 經濟犯罪分類體系（依使用者 PPT 講義；大類→子類→關鍵字）
 # 關鍵字為字串=子字串比對；為 list=該 list 內所有詞都要出現(AND)
@@ -54,6 +54,36 @@ CRIME_TAXONOMY = [
 CAT_SHORT = {"金融秩序犯罪": "金融秩序", "銀行犯罪": "銀行", "證券犯罪": "證券",
              "公司犯罪": "公司", "虛擬資產犯罪": "虛擬資產", "詐欺型犯罪": "詐欺"}
 CAT_INDEX = {cat: i for i, (cat, _) in enumerate(CRIME_TAXONOMY)}
+
+
+# 關聯圖（Obsidian 風）每個主題的「概念節點」詞庫；金融犯罪主題沿用犯罪體系
+GRAPH_CONCEPTS = {
+    "tw-ip": [("著作權", ["著作權"]), ("商標", ["商標"]), ("專利", ["專利"]),
+              ("侵權", ["侵權", "侵害"]), ("訴訟", ["訴訟", "判決", "法院"]),
+              ("修法", ["修正", "三讀", "草案"])],
+    "ai-ip": [("著作權", ["著作權", "copyright"]), ("商標", ["商標", "trademark"]),
+              ("專利", ["專利", "patent"]), ("生成式AI", ["生成式", "generative", "llm", "gpt"]),
+              ("訴訟", ["lawsuit", "訴訟", "court", "ruling", "infringement"]),
+              ("訓練資料", ["training data", "訓練資料", "dataset", "fair use"])],
+    "music-ip": [("NFT", ["nft"]), ("版稅", ["royalt", "版稅"]), ("著作權", ["copyright", "著作權"]),
+                 ("區塊鏈", ["blockchain", "區塊鏈"]), ("智能合約", ["smart contract", "智能合約"]),
+                 ("授權", ["licens", "授權"]), ("串流", ["streaming", "串流"]),
+                 ("投資/基金", ["investment", "fund", "投資", "基金", "catalog"])],
+    "blockchain-gov": [("DAO", ["dao", "decentralized autonomous"]), ("治理", ["governance", "治理"]),
+                       ("智能合約", ["smart contract", "智能合約"]), ("鏈上", ["on-chain", "鏈上"]),
+                       ("代幣", ["token", "代幣"]), ("監管/制裁", ["regulation", "監管", "sanction", "制裁"])],
+    "ip-authority": [("專利", ["patent", "專利"]), ("訴訟", ["litigation", "court", "訴訟", "appeal"]),
+                     ("中國", ["china", "中國", "chinese"]), ("USPTO", ["uspto"]),
+                     ("著作權", ["copyright", "著作權"]), ("商標", ["trademark", "商標"])],
+}
+
+
+def concept_tags(topic_id, text):
+    """回傳該文字命中的概念節點標籤（給關聯圖用）。"""
+    if topic_id == "tw-financial-crime":
+        return [t["sub"] for t in tag_text(text)]
+    low = (text or "").lower()
+    return [c for c, kws in GRAPH_CONCEPTS.get(topic_id, []) if any(k.lower() in low for k in kws)]
 
 
 def _kw_match(text, kw):
@@ -145,8 +175,8 @@ TOPICS = [
              "news_en": '"music NFT" OR "music royalties" OR "music copyright" OR "music IP"',
              "news_zh": '音樂 NFT OR 音樂版權 OR 版稅 OR 數位音樂授權',
              "rss": [F_IPFINANCE]},
-            {"label": "📚 學術論文",
-             "scholar": 'music copyright royalties NFT intellectual property finance'},
+            {"label": "📚 學術論文（NFT・版權・智能合約）",
+             "scholar": 'music NFT copyright royalties blockchain smart contract licensing'},
             {"label": "⚖️ 美國判決",
              "court": '"music" AND "copyright"'},
         ],

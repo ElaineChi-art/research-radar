@@ -1,6 +1,32 @@
 # -*- coding: utf-8 -*-
 """把每日聚合結果組成 HTML 研究雷達。"""
 import html
+import json
+
+GRAPH_JS = r"""
+const GRAPHS = /*GRAPHS*/;
+const built = {};
+function buildGraph(id){
+  if (built[id] || !window.vis) return; built[id] = true;
+  const g = GRAPHS[id]; const el = document.getElementById('g_' + id);
+  if (!g || !el) return;
+  const nodes = g.nodes.map(n => n.group === 'concept'
+    ? {id:n.id, label:n.label, shape:'box', color:{background:'#2a1f3a', border:'#9a6cff'},
+       font:{color:'#d6c8ff', size:15}}
+    : {id:n.id, label:n.label, shape:'dot', size:8,
+       color:{background:'#7fb5ff', border:'#3a6ea5'}, font:{color:'#aeb6c2', size:11},
+       url:n.url, title:n.title});
+  const data = {nodes:new vis.DataSet(nodes),
+                edges:new vis.DataSet(g.edges.map(e => ({from:e.from, to:e.to, color:'#2a3340'})))};
+  const net = new vis.Network(el, data, {
+    physics:{stabilization:true, barnesHut:{springLength:120, gravitationalConstant:-4000}},
+    interaction:{hover:true}, nodes:{borderWidth:1}});
+  net.on('click', p => { if (p.nodes.length){ const n = data.nodes.get(p.nodes[0]);
+    if (n && n.url) window.open(n.url, '_blank'); }});
+}
+document.querySelectorAll('details.graphbox').forEach(d =>
+  d.addEventListener('toggle', () => { if (d.open) buildGraph(d.querySelector('.graph').id.slice(2)); }));
+"""
 
 
 def _tags(tags):
@@ -79,6 +105,7 @@ def _music_charts(t):
 
 def build_html(date_str, topics, generated_at):
     sections = []
+    graphs = {}
     for t in topics:
         area = t.get("area", "")
         cls = "tw" if area == "台灣" else "intl"
@@ -87,14 +114,33 @@ def build_html(date_str, topics, generated_at):
             f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_feed(c["items"])}</div>'
             for c in t.get("columns", [])
         )
+        tid = t.get("id", "")
+        graph_html = ""
+        if t.get("graph") and t["graph"].get("nodes"):
+            graphs[tid] = t["graph"]
+            n = sum(1 for x in t["graph"]["nodes"] if x.get("group") == "item")
+            graph_html = (f'<details class="graphbox"><summary>🕸 關聯圖（{n} 篇 × 概念節點，點節點開原文）</summary>'
+                          f'<div class="graph" id="g_{html.escape(tid)}"></div></details>')
         sections.append(f"""
-        <section class="topic">
+        <section class="topic" id="{html.escape(tid)}">
           <h2>{tag}{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
           {_judgments_block(t)}
           {_music_charts(t)}
           <div class="cols">{cols}</div>
+          {graph_html}
         </section>""")
     body = "\n".join(sections)
+    toc = "".join(
+        f'<a href="#{html.escape(t.get("id",""))}">'
+        f'<span class="d {("tw" if t.get("area")=="台灣" else "intl")}"></span>{html.escape(t["name"])}</a>'
+        for t in topics
+    )
+    graph_scripts = ""
+    if graphs:
+        graph_scripts = (
+            '<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>'
+            "<script>" + GRAPH_JS.replace("/*GRAPHS*/", json.dumps(graphs, ensure_ascii=False)) + "</script>"
+        )
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -114,9 +160,21 @@ def build_html(date_str, topics, generated_at):
   header {{ padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }}
   header h1 {{ margin:0; font-size:22px; }}
   header p {{ margin:6px 0 0; color:#9aa4b2; font-size:13px; }}
-  .wrap {{ max-width:1320px; margin:0 auto; padding:20px; }}
+  .layout {{ display:flex; gap:16px; max-width:1400px; margin:0 auto; padding:16px 20px; }}
+  .wrap {{ flex:1; min-width:0; }}
+  .toc {{ position:sticky; top:54px; align-self:flex-start; width:210px; flex:none;
+         background:#161922; border:1px solid #262b36; border-radius:12px; padding:12px;
+         max-height:calc(100vh - 70px); overflow:auto; }}
+  .toctitle {{ font-size:12px; color:#7c8696; margin-bottom:8px; font-weight:600; }}
+  .toc a {{ display:flex; align-items:center; gap:7px; color:#c3cad6; text-decoration:none;
+           font-size:13px; padding:7px 8px; border-radius:7px; }}
+  .toc a:hover {{ background:#1f2630; color:#fff; }}
+  .toc .d {{ width:8px; height:8px; border-radius:50%; flex:none; }}
+  .toc .d.tw {{ background:#ff9ecb; }}
+  .toc .d.intl {{ background:#7fb5ff; }}
   .topic {{ background:#161922; border:1px solid #262b36; border-radius:12px;
-           padding:18px; margin-bottom:18px; }}
+           padding:18px; margin-bottom:18px; scroll-margin-top:64px; }}
+  @media (max-width:900px) {{ .toc {{ display:none; }} }}
   .topic h2 {{ margin:0 0 14px; font-size:18px; }}
   .desc {{ color:#7c8696; font-size:13px; font-weight:normal; }}
   .tag {{ font-size:11px; font-weight:600; padding:2px 7px; border-radius:6px; margin-right:8px; }}
@@ -168,6 +226,11 @@ def build_html(date_str, topics, generated_at):
   .ref ul {{ margin:5px 0; padding-left:18px; }}
   .ref a {{ color:#7fb5ff; }}
   @media (max-width:980px) {{ .cgrid {{ grid-template-columns:1fr; }} }}
+  .graphbox {{ margin-top:14px; }}
+  .graphbox summary {{ cursor:pointer; color:#9ee6d0; font-size:14px; font-weight:600;
+                      padding:6px 0; }}
+  .graph {{ height:420px; border:1px solid #262b36; border-radius:10px;
+           background:#0c0f14; margin-top:8px; }}
   footer {{ text-align:center; color:#6b7280; font-size:12px; padding:24px; }}
   @media (max-width:980px) {{ .cols,.jfeed {{ grid-template-columns:1fr; }} }}
 </style>
@@ -181,9 +244,13 @@ def build_html(date_str, topics, generated_at):
   <h1>📡 研究雷達 · 台灣法律 / 智財 / 區塊鏈 / AI</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新　·　🆕 = 近 7 天新資料</p>
 </header>
-<div class="wrap">
+<div class="layout">
+  <aside class="toc"><div class="toctitle">主題目錄</div>{toc}</aside>
+  <div class="wrap">
 {body}
+  </div>
 </div>
 <footer>聚合 Google News、權威 RSS（DOJ/CFTC/Patently-O…）、Semantic Scholar、arXiv、CourtListener、司法院判決全文 · 供研究參考</footer>
+{graph_scripts}
 </body>
 </html>"""

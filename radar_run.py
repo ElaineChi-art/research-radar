@@ -19,6 +19,33 @@ def tag_crimes(text):
     return config.tag_text(text)
 
 
+def build_graph(data):
+    """把一個主題的項目連到共同『概念節點』，產生 Obsidian 風關聯圖資料。"""
+    tid = data.get("id", "")
+    items = [it for col in data.get("columns", []) for it in col["items"]]
+    for j in data.get("judgments", []):
+        items.append({"title": j.get("jtitle", ""), "summary": j.get("snippet", ""),
+                      "url": "", "_j": True})
+    items = items[:42]
+    nodes, edges, cids = [], [], {}
+    for idx, it in enumerate(items):
+        text = (it.get("title", "") + " " + (it.get("summary", "") or ""))
+        concs = config.concept_tags(tid, text)
+        if not concs:
+            continue
+        nid = f"i{idx}"
+        title = it.get("title", "") or "(判決)"
+        nodes.append({"id": nid, "label": title[:16], "title": title,
+                      "url": it.get("url", ""), "group": "item"})
+        for c in concs:
+            cid = "c_" + c
+            if cid not in cids:
+                cids[cid] = True
+                nodes.append({"id": cid, "label": c, "group": "concept"})
+            edges.append({"from": nid, "to": cid})
+    return {"nodes": nodes, "edges": edges} if len(cids) else None
+
+
 def gather_column(col):
     """把一個欄位的所有來源抓回、合併、依日期由新到舊、去重、截斷。"""
     items = []
@@ -28,9 +55,9 @@ def gather_column(col):
         if col.get("news_zh"):
             items += sources.fetch_news(col["news_zh"], "zh", 6)
         if col.get("scholar"):
-            items += sources.fetch_scholar(col["scholar"], 5)
+            items += sources.fetch_scholar(col["scholar"], 8)
         if col.get("arxiv"):
-            items += sources.fetch_arxiv(col["arxiv"], 4)
+            items += sources.fetch_arxiv(col["arxiv"], 6)
         if col.get("court"):
             items += sources.fetch_courtlistener(col["court"], 5)
         for rss in col.get("rss", []):
@@ -102,6 +129,7 @@ def run():
             data["judgments_note"] = jdata.get("note", "")
         if t.get("id") == "music-ip" and mcharts:
             data["charts"] = mcharts
+        data["graph"] = build_graph(data)
         out_topics.append(data)
 
     html_str = report.build_html(today, out_topics, now)

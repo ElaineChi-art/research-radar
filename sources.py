@@ -115,8 +115,41 @@ def fetch_arxiv(query, limit=5):
     return out
 
 
-def fetch_scholar(query, limit=5):
-    """Semantic Scholar 論文搜尋（免金鑰），摘要用 abstract，連結點進論文頁。"""
+def _openalex_abstract(inv):
+    if not inv:
+        return ""
+    pos = {}
+    for word, idxs in inv.items():
+        for i in idxs:
+            pos[i] = word
+    return " ".join(pos[i] for i in sorted(pos))
+
+
+def fetch_openalex(query, limit=8):
+    """OpenAlex 論文搜尋（免金鑰、額度寬鬆、穩定），依出版日期排序。"""
+    url = ("https://api.openalex.org/works?search=" + urllib.parse.quote(query)
+           + f"&per-page={limit}&sort=publication_date:desc&mailto=research-radar@users.noreply.github.com")
+    try:
+        data = _get_json(url)
+    except Exception:
+        return []
+    out = []
+    for w in data.get("results", [])[:limit]:
+        authors = ", ".join(a.get("author", {}).get("display_name", "")
+                            for a in (w.get("authorships") or [])[:3])
+        doi = w.get("doi")
+        link = doi or (w.get("primary_location") or {}).get("landing_page_url") or w.get("id") or ""
+        ds, d = _parse_date(w.get("publication_date") or "")
+        venue = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or ""
+        meta = "OpenAlex · " + (authors or "") + (f" · {venue}" if venue else "")
+        item = _mk(w.get("display_name"), link, d, meta, _openalex_abstract(w.get("abstract_inverted_index")))
+        item["date"] = ds or item["date"]
+        item["_sort"] = item["date"] or "0000-00-00"
+        out.append(item)
+    return out
+
+
+def fetch_semanticscholar(query, limit=8):
     fields = "title,abstract,year,publicationDate,authors,url,externalIds,venue"
     url = ("https://api.semanticscholar.org/graph/v1/paper/search?query="
            + urllib.parse.quote(query) + f"&limit={limit}&fields={fields}")
@@ -127,17 +160,22 @@ def fetch_scholar(query, limit=5):
     out = []
     for p in data.get("data", [])[:limit]:
         authors = ", ".join(a.get("name", "") for a in (p.get("authors") or [])[:3])
-        link = p.get("url") or ""
         doi = (p.get("externalIds") or {}).get("DOI")
-        if doi:
-            link = f"https://doi.org/{doi}"
+        link = f"https://doi.org/{doi}" if doi else (p.get("url") or "")
         ds, d = _parse_date(p.get("publicationDate") or (str(p.get("year")) if p.get("year") else ""))
-        meta = "Semantic Scholar · " + (authors or "") + (f" · {p.get('venue')}" if p.get("venue") else "")
-        item = _mk(p.get("title"), link, d, meta, p.get("abstract") or "")
+        item = _mk(p.get("title"), link, d, "Semantic Scholar · " + authors, p.get("abstract") or "")
         item["date"] = ds or item["date"]
         item["_sort"] = item["date"] or "0000-00-00"
         out.append(item)
     return out
+
+
+def fetch_scholar(query, limit=8):
+    """以 OpenAlex 為主（穩定），不足再用 Semantic Scholar 補。"""
+    items = fetch_openalex(query, limit)
+    if len(items) < 3:
+        items += fetch_semanticscholar(query, limit)
+    return items[:limit]
 
 
 def fetch_courtlistener(query, limit=5):
