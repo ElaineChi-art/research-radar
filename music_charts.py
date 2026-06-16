@@ -119,17 +119,12 @@ def update_news_volume():
 
 
 def build():
-    out = {"ref": WIPO_REF}
+    out = {}
     try:
         out["index_table"] = build_index_chart()
     except Exception as e:
         print(f"指數圖失敗：{e}")
         out["index_table"] = []
-    try:
-        out["volume"] = update_news_volume()
-    except Exception as e:
-        print(f"新聞熱度圖失敗：{e}")
-        out["volume"] = {}
     return out
 
 

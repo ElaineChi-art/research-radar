@@ -58,7 +58,7 @@ def _judgments_block(t):
 
 def _music_charts(t):
     c = t.get("charts")
-    if not c:
+    if not c or not c.get("index_table"):
         return ""
     tbl = ""
     for r in c.get("index_table", []):
@@ -67,18 +67,12 @@ def _music_charts(t):
         last = f'{r["last"]:.2f}' if r.get("last") is not None else "—"
         tbl += (f'<tr><td>{html.escape(r["name"])}<span class="src"> {html.escape(r["ticker"])}</span></td>'
                 f'<td>{last}</td><td class="{cls}">{chg:+.1f}%</td></tr>')
-    ref = c.get("ref", {})
-    stats = "".join(f"<li>{html.escape(s)}</li>" for s in ref.get("stats", []))
     return f"""
       <div class="charts">
-        <h3>📈 音樂 IP 金融指標 <span class="src">（WIPO 報告風格）</span></h3>
+        <h3>📈 音樂 IP 金融指數 <span class="src">（Reservoir／Warner／Universal／Spotify，rebased 100）</span></h3>
         <div class="cgrid">
-          <div><img src="assets/music_index.png" alt="index" loading="lazy">
-            <table class="ctab"><tr><th>標的</th><th>價格</th><th>近1年</th></tr>{tbl}</table></div>
-          <div><img src="assets/music_volume.png" alt="volume" loading="lazy">
-            <div class="ref"><b>WIPO 官方統計參考</b><ul>{stats}</ul>
-            <a href="{html.escape(ref.get('url','#'))}" target="_blank" rel="noopener">{html.escape(ref.get('source',''))}</a></div>
-          </div>
+          <div><img src="assets/music_index.png" alt="index" loading="lazy"></div>
+          <div><table class="ctab"><tr><th>標的</th><th>價格</th><th>近1年</th></tr>{tbl}</table></div>
         </div>
       </div>"""
 
@@ -111,6 +105,12 @@ def build_html(date_str, topics, generated_at):
   * {{ box-sizing:border-box; }}
   body {{ font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
          margin:0; background:#0f1115; color:#e6e6e6; }}
+  .topnav {{ display:flex; gap:6px; background:#0b0d12; padding:8px 16px;
+            border-bottom:1px solid #262b36; position:sticky; top:0; z-index:10; }}
+  .topnav a {{ color:#9aa4b2; text-decoration:none; font-size:14px; font-weight:600;
+              padding:7px 16px; border-radius:8px; }}
+  .topnav a:hover {{ background:#161922; color:#e6e6e6; }}
+  .topnav a.active {{ background:#1f2e3a; color:#7fb5ff; }}
   header {{ padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }}
   header h1 {{ margin:0; font-size:22px; }}
   header p {{ margin:6px 0 0; color:#9aa4b2; font-size:13px; }}
@@ -173,6 +173,10 @@ def build_html(date_str, topics, generated_at):
 </style>
 </head>
 <body>
+<nav class="topnav">
+  <a href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
+  <a class="active" href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
+</nav>
 <header>
   <h1>📡 研究雷達 · 台灣法律 / 智財 / 區塊鏈 / AI</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新　·　🆕 = 近 7 天新資料</p>
