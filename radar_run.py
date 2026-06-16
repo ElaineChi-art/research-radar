@@ -90,7 +90,7 @@ def run():
     for t in config.TOPICS:
         print(f"==> {t['name']}")
         data = {"id": t.get("id"), "name": t["name"], "desc": t["desc"],
-                "area": t.get("area", ""), "columns": []}
+                "area": t.get("area", ""), "group": t.get("group"), "columns": []}
         for col in t.get("columns", []):
             items = gather_column(col)
             if t.get("crime_tags"):

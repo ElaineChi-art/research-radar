@@ -28,6 +28,16 @@ document.querySelectorAll('details.graphbox').forEach(d =>
   d.addEventListener('toggle', () => { if (d.open) buildGraph(d.querySelector('.graph').id.slice(2)); }));
 """
 
+TAB_JS = r"""
+document.querySelectorAll('.tabs .tab').forEach(function(b){
+  b.addEventListener('click', function(){
+    var sec = b.closest('.topic'), id = b.dataset.t;
+    sec.querySelectorAll('.tab').forEach(function(x){ x.classList.toggle('on', x === b); });
+    sec.querySelectorAll('.tabpanel').forEach(function(p){ p.classList.toggle('on', p.id === id); });
+  });
+});
+"""
+
 
 def _tags(tags):
     out = []
@@ -103,44 +113,75 @@ def _music_charts(t):
       </div>"""
 
 
+GROUP_META = {"ip": {"name": "智財權（著作權・商標・專利）", "tag": "智財",
+                     "desc": "台灣／AI／國際 三個面向 — 點上方切換"}}
+
+
+def _topic_inner(t, graphs):
+    cols = "".join(
+        f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_feed(c["items"])}</div>'
+        for c in t.get("columns", [])
+    )
+    tid = t.get("id", "")
+    graph_html = ""
+    if t.get("graph") and t["graph"].get("nodes"):
+        graphs[tid] = t["graph"]
+        n = sum(1 for x in t["graph"]["nodes"] if x.get("group") == "item")
+        graph_html = (f'<details class="graphbox"><summary>🕸 關聯圖（{n} 篇 × 概念節點，點節點開原文）</summary>'
+                      f'<div class="graph" id="g_{html.escape(tid)}"></div></details>')
+    return f'{_judgments_block(t)}{_music_charts(t)}<div class="cols">{cols}</div>{graph_html}'
+
+
 def build_html(date_str, topics, generated_at):
-    sections = []
-    graphs = {}
+    # 先把主題收斂成「單一主題」或「群組(分頁)」的呈現單元
+    units, seen = [], set()
     for t in topics:
-        area = t.get("area", "")
-        cls = "tw" if area == "台灣" else "intl"
-        tag = f'<span class="tag {cls}">{html.escape(area)}</span>' if area else ""
-        cols = "".join(
-            f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_feed(c["items"])}</div>'
-            for c in t.get("columns", [])
-        )
-        tid = t.get("id", "")
-        graph_html = ""
-        if t.get("graph") and t["graph"].get("nodes"):
-            graphs[tid] = t["graph"]
-            n = sum(1 for x in t["graph"]["nodes"] if x.get("group") == "item")
-            graph_html = (f'<details class="graphbox"><summary>🕸 關聯圖（{n} 篇 × 概念節點，點節點開原文）</summary>'
-                          f'<div class="graph" id="g_{html.escape(tid)}"></div></details>')
-        sections.append(f"""
-        <section class="topic" id="{html.escape(tid)}">
-          <h2>{tag}{html.escape(t['name'])} <span class="desc">{html.escape(t['desc'])}</span></h2>
-          {_judgments_block(t)}
-          {_music_charts(t)}
-          <div class="cols">{cols}</div>
-          {graph_html}
-        </section>""")
+        g = t.get("group")
+        if g:
+            if g in seen:
+                continue
+            seen.add(g)
+            units.append(("group", g, [x for x in topics if x.get("group") == g]))
+        else:
+            units.append(("single", t, None))
+
+    sections, toc_items, graphs = [], [], {}
+    for kind, a, members in units:
+        if kind == "single":
+            t = a
+            area = t.get("area", "")
+            cls = "tw" if area == "台灣" else "intl"
+            tag = f'<span class="tag {cls}">{html.escape(area)}</span>' if area else ""
+            tid = t.get("id", "")
+            sections.append(
+                f'<section class="topic" id="{html.escape(tid)}">'
+                f'<h2>{tag}{html.escape(t["name"])} <span class="desc">{html.escape(t["desc"])}</span></h2>'
+                f'{_topic_inner(t, graphs)}</section>')
+            toc_items.append((tid, t["name"], cls))
+        else:
+            meta = GROUP_META.get(a, {"name": a, "tag": a, "desc": ""})
+            tabs = "".join(
+                f'<button class="tab{" on" if i == 0 else ""}" data-t="{a}-{i}">{html.escape(m["name"])}</button>'
+                for i, m in enumerate(members))
+            panels = "".join(
+                f'<div class="tabpanel{" on" if i == 0 else ""}" id="{a}-{i}">{_topic_inner(m, graphs)}</div>'
+                for i, m in enumerate(members))
+            sections.append(
+                f'<section class="topic group" id="{html.escape(a)}">'
+                f'<h2><span class="tag intl">{html.escape(meta["tag"])}</span>{html.escape(meta["name"])} '
+                f'<span class="desc">{html.escape(meta["desc"])}</span></h2>'
+                f'<div class="tabs">{tabs}</div>{panels}</section>')
+            toc_items.append((a, meta["name"], "intl"))
+
     body = "\n".join(sections)
     toc = "".join(
-        f'<a href="#{html.escape(t.get("id",""))}">'
-        f'<span class="d {("tw" if t.get("area")=="台灣" else "intl")}"></span>{html.escape(t["name"])}</a>'
-        for t in topics
-    )
-    graph_scripts = ""
-    if graphs:
-        graph_scripts = (
-            '<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>'
-            "<script>" + GRAPH_JS.replace("/*GRAPHS*/", json.dumps(graphs, ensure_ascii=False)) + "</script>"
-        )
+        f'<a href="#{html.escape(tid)}"><span class="d {cls}"></span>{html.escape(name)}</a>'
+        for tid, name, cls in toc_items)
+    graph_scripts = (
+        '<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>'
+        "<script>" + GRAPH_JS.replace("/*GRAPHS*/", json.dumps(graphs, ensure_ascii=False)) + "</script>"
+    ) if graphs else ""
+    graph_scripts += "<script>" + TAB_JS + "</script>"
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -149,32 +190,60 @@ def build_html(date_str, topics, generated_at):
 <title>研究雷達 · 台灣法律／智財／區塊鏈／AI · {date_str}</title>
 <style>
   * {{ box-sizing:border-box; }}
+  html {{ scroll-behavior:smooth; }}
   body {{ font-family:-apple-system,"PingFang TC","Microsoft JhengHei",sans-serif;
-         margin:0; background:#0f1115; color:#e6e6e6; }}
+         margin:0; background:#0c0e13; color:#e6e6e6; }}
+  body::before {{ content:""; position:fixed; inset:0; z-index:-1; pointer-events:none;
+    background:radial-gradient(1100px 560px at 75% -8%, rgba(70,100,180,.13), transparent 60%),
+               radial-gradient(900px 520px at -5% 105%, rgba(130,70,160,.11), transparent 60%); }}
   .topnav {{ display:flex; gap:6px; background:#0b0d12; padding:8px 16px;
             border-bottom:1px solid #262b36; position:sticky; top:0; z-index:10; }}
   .topnav a {{ color:#9aa4b2; text-decoration:none; font-size:14px; font-weight:600;
               padding:7px 16px; border-radius:8px; }}
   .topnav a:hover {{ background:#161922; color:#e6e6e6; }}
   .topnav a.active {{ background:#1f2e3a; color:#7fb5ff; }}
-  header {{ padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }}
-  header h1 {{ margin:0; font-size:22px; }}
+  header {{ padding:26px 22px; background:linear-gradient(135deg,#1b2030,#13161d 70%);
+           border-bottom:1px solid #262b36; }}
+  header h1 {{ margin:0; font-size:23px; letter-spacing:.5px;
+             background:linear-gradient(90deg,#cfe0ff,#e9d4ff); -webkit-background-clip:text;
+             background-clip:text; color:transparent; }}
   header p {{ margin:6px 0 0; color:#9aa4b2; font-size:13px; }}
-  .layout {{ display:flex; gap:16px; max-width:1400px; margin:0 auto; padding:16px 20px; }}
-  .wrap {{ flex:1; min-width:0; }}
-  .toc {{ position:sticky; top:54px; align-self:flex-start; width:210px; flex:none;
-         background:#161922; border:1px solid #262b36; border-radius:12px; padding:12px;
-         max-height:calc(100vh - 70px); overflow:auto; }}
-  .toctitle {{ font-size:12px; color:#7c8696; margin-bottom:8px; font-weight:600; }}
-  .toc a {{ display:flex; align-items:center; gap:7px; color:#c3cad6; text-decoration:none;
-           font-size:13px; padding:7px 8px; border-radius:7px; }}
-  .toc a:hover {{ background:#1f2630; color:#fff; }}
+  .wrap {{ max-width:1320px; margin:0 auto; padding:18px 22px; }}
+  /* 滑鼠移到左緣 → 目錄抽屜滑出 */
+  .toc-trigger {{ position:fixed; left:0; top:50%; transform:translateY(-50%); z-index:40;
+                 background:#161922; border:1px solid #2a3140; border-left:none;
+                 border-radius:0 12px 12px 0; padding:16px 7px; cursor:pointer; color:#9aa4b2;
+                 writing-mode:vertical-rl; letter-spacing:3px; font-size:12px; font-weight:600;
+                 transition:.25s; box-shadow:4px 0 16px rgba(0,0,0,.3); }}
+  .toc-trigger:hover {{ color:#fff; background:#1f2937; }}
+  .toc-trigger .th {{ writing-mode:horizontal-tb; font-size:14px; }}
+  .toc {{ position:fixed; left:0; top:48px; height:calc(100vh - 48px); width:252px; z-index:41;
+         background:rgba(17,20,27,.96); backdrop-filter:blur(12px); border-right:1px solid #2a3140;
+         padding:16px 14px; overflow:auto; transform:translateX(-100%);
+         transition:transform .32s cubic-bezier(.4,0,.2,1); box-shadow:10px 0 40px rgba(0,0,0,.5); }}
+  .toc-trigger:hover + .toc, .toc:hover {{ transform:translateX(0); }}
+  .toctitle {{ font-size:12px; color:#7c8696; margin-bottom:10px; font-weight:600;
+              letter-spacing:1px; }}
+  .toc a {{ display:flex; align-items:center; gap:9px; color:#c3cad6; text-decoration:none;
+           font-size:13.5px; padding:9px 10px; border-radius:9px; transition:.16s; }}
+  .toc a:hover {{ background:#1f2937; color:#fff; transform:translateX(3px); }}
   .toc .d {{ width:8px; height:8px; border-radius:50%; flex:none; }}
   .toc .d.tw {{ background:#ff9ecb; }}
   .toc .d.intl {{ background:#7fb5ff; }}
-  .topic {{ background:#161922; border:1px solid #262b36; border-radius:12px;
-           padding:18px; margin-bottom:18px; scroll-margin-top:64px; }}
-  @media (max-width:900px) {{ .toc {{ display:none; }} }}
+  .topic {{ background:linear-gradient(180deg,#171b24,#13161d); border:1px solid #262b36;
+           border-radius:14px; padding:20px; margin-bottom:18px; scroll-margin-top:64px;
+           transition:transform .2s, box-shadow .25s, border-color .25s; animation:rise .5s both; }}
+  .topic:hover {{ border-color:#39455f; box-shadow:0 14px 40px rgba(0,0,0,.4); }}
+  @keyframes rise {{ from {{ opacity:0; transform:translateY(10px); }} to {{ opacity:1; transform:none; }} }}
+  .tabs {{ display:flex; gap:8px; flex-wrap:wrap; margin:4px 0 16px; }}
+  .tab {{ background:#11151c; border:1px solid #2a3140; color:#9aa4b2; cursor:pointer;
+         font-size:13.5px; font-weight:600; padding:8px 17px; border-radius:999px; transition:.18s; }}
+  .tab:hover {{ color:#e6e6e6; border-color:#3a4660; transform:translateY(-1px); }}
+  .tab.on {{ color:#fff; border-color:transparent; box-shadow:0 6px 18px rgba(80,90,255,.3);
+            background:linear-gradient(135deg,#3a6ea5,#7c5cff); }}
+  .tabpanel {{ display:none; animation:fade .28s; }}
+  .tabpanel.on {{ display:block; }}
+  @keyframes fade {{ from {{ opacity:0; transform:translateY(4px); }} to {{ opacity:1; transform:none; }} }}
   .topic h2 {{ margin:0 0 14px; font-size:18px; }}
   .desc {{ color:#7c8696; font-size:13px; font-weight:normal; }}
   .tag {{ font-size:11px; font-weight:600; padding:2px 7px; border-radius:6px; margin-right:8px; }}
@@ -185,8 +254,10 @@ def build_html(date_str, topics, generated_at):
             border-bottom:1px solid #262b36; padding-bottom:6px; }}
   .feed {{ list-style:none; margin:0; padding:0; }}
   .feed li {{ margin:0 0 14px; font-size:13.5px; line-height:1.45; }}
-  .feed a {{ color:#7fb5ff; text-decoration:none; }}
-  .feed a:hover {{ text-decoration:underline; }}
+  .feed a {{ color:#7fb5ff; text-decoration:none; transition:color .15s; }}
+  .feed a:hover {{ color:#a9ccff; text-decoration:underline; }}
+  .feed li {{ transition:transform .15s; }}
+  .feed li:hover {{ transform:translateX(2px); }}
   .m {{ margin-top:3px; }}
   .new {{ background:#1f3a2a; color:#5ee0aa; font-size:10px; font-weight:700;
          padding:1px 6px; border-radius:5px; margin-right:6px; }}
@@ -244,11 +315,10 @@ def build_html(date_str, topics, generated_at):
   <h1>📡 研究雷達 · 台灣法律 / 智財 / 區塊鏈 / AI</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新　·　🆕 = 近 7 天新資料</p>
 </header>
-<div class="layout">
-  <aside class="toc"><div class="toctitle">主題目錄</div>{toc}</aside>
-  <div class="wrap">
+<div class="toc-trigger" aria-hidden="true"><span class="th">☰</span><span class="tl">目錄</span></div>
+<aside class="toc"><div class="toctitle">主題目錄</div>{toc}</aside>
+<div class="wrap">
 {body}
-  </div>
 </div>
 <footer>聚合 Google News、權威 RSS（DOJ/CFTC/Patently-O…）、Semantic Scholar、arXiv、CourtListener、司法院判決全文 · 供研究參考</footer>
 {graph_scripts}

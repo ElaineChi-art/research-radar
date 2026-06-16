@@ -105,8 +105,9 @@ def tag_text(text):
     return out
 
 # 權威 RSS（白領犯罪：DOJ/CFTC；國際智財：使用者提供之 feeds）
-DOJ = ["https://www.justice.gov/feeds/opa/justice-news.xml", "DOJ"]
-CFTC = ["https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "CFTC"]
+DOJ = ["https://www.justice.gov/news/rss", "DOJ 司法部"]
+SEC = ["https://www.sec.gov/news/pressreleases.rss", "SEC 證管會"]
+CFTC = ["https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "CFTC 商品期貨"]
 F_PATENTLYO = ["https://www.patentlyo.com/patent/atom.xml", "Patently-O"]
 F_PATENTDOCS = ["https://www.patentdocs.org/atom.xml", "Patent Docs"]
 F_IPWATCHDOG = ["https://ipwatchdog.com/feed/", "IPWatchdog"]
@@ -121,7 +122,7 @@ F_ENPAN = ["http://enpan.blogspot.com/feeds/posts/default", "enpan Patent"]
 TOPICS = [
     {
         "id": "tw-financial-crime",
-        "name": "台灣金融／經濟犯罪",
+        "name": "台灣經濟刑法",
         "desc": "白領／經濟犯罪：內線交易・背信・掏空・洗錢・銀行法・組織犯罪…（重金庭領域）",
         "area": "台灣", "crime_tags": True, "judgments": True,
         "columns": [
@@ -129,15 +130,15 @@ TOPICS = [
              "news_zh": '(內線交易 OR 操縱股價 OR 財報不實 OR 特別背信 OR 掏空 OR 非法吸金 OR 地下匯兌 OR 洗錢 OR 超貸 OR 背信 OR 投資詐欺 OR 龐氏 OR 多層次傳銷 OR 虛擬貨幣 OR STO) (判決 OR 起訴 OR 判刑)'},
             {"label": "📋 法規・修法",
              "news_zh": '(證券交易法 OR 洗錢防制法 OR 銀行法 OR 組織犯罪防制條例) (修正 OR 三讀 OR 草案)'},
-            {"label": "🇺🇸 美國執法 DOJ／CFTC",
-             "rss": [DOJ, CFTC]},
+            {"label": "🇺🇸 美國執法 DOJ／SEC／CFTC",
+             "rss": [DOJ, SEC, CFTC]},
         ],
     },
     {
         "id": "tw-ip",
-        "name": "台灣智財：著作權／商標／專利",
+        "name": "台灣智財（著作權／商標／專利）",
         "desc": "三大領域各自蒐集（判決・侵權・修法）",
-        "area": "台灣",
+        "area": "台灣", "group": "ip",
         "columns": [
             {"label": "© 著作權",
              "news_zh": '著作權 (判決 OR 侵權 OR 訴訟 OR 修正 OR 智慧財產)'},
@@ -149,9 +150,9 @@ TOPICS = [
     },
     {
         "id": "ai-ip",
-        "name": "AI 智財權：著作權／商標／專利",
+        "name": "AI 智財（著作權／商標／專利）",
         "desc": "生成式 AI 對三大智財領域的衝擊（國際＋台灣）",
-        "area": "國際",
+        "area": "國際", "group": "ip",
         "columns": [
             {"label": "© AI 著作權",
              "news_en": '"AI copyright" OR "generative AI" copyright OR "AI-generated" copyright',
@@ -201,7 +202,7 @@ TOPICS = [
         "id": "ip-authority",
         "name": "國際智財・專利 權威來源",
         "desc": "專利實務、訴訟救濟、中國IP（你指定的權威 feeds）",
-        "area": "國際",
+        "area": "國際", "group": "ip",
         "columns": [
             {"label": "📄 專利實務",
              "rss": [F_PATENTLYO, F_PATENTDOCS, F_ENPAN]},

@@ -1,7 +1,7 @@
 [
   {
     "id": "tw-financial-crime",
-    "name": "台灣金融／經濟犯罪",
+    "name": "台灣經濟刑法",
     "desc": "白領／經濟犯罪：內線交易・背信・掏空・洗錢・銀行法・組織犯罪…（重金庭領域）",
     "area": "台灣",
     "columns": [
@@ -197,46 +197,86 @@
         ]
       },
       {
-        "label": "🇺🇸 美國執法 DOJ／CFTC",
+        "label": "🇺🇸 美國執法 DOJ／SEC／CFTC",
         "items": [
+          {
+            "title": "FY26 Q4 Data Due",
+            "url": "https://www.justice.gov/oip/event/fy26-q4-data-due",
+            "date": "2026-10-30",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-10-30",
+            "tags": []
+          },
+          {
+            "title": "FY26 Q3 Data Due",
+            "url": "https://www.justice.gov/oip/event/fy26-q3-data-due",
+            "date": "2026-07-31",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-07-31",
+            "tags": []
+          },
+          {
+            "title": "Continuing FOIA Education Training",
+            "url": "https://www.justice.gov/oip/event/continuing-foia-education-training-0",
+            "date": "2026-07-22",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-07-22",
+            "tags": []
+          },
+          {
+            "title": "Privacy Considerations Training",
+            "url": "https://www.justice.gov/oip/event/privacy-considerations-training-1",
+            "date": "2026-07-08",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-07-08",
+            "tags": []
+          },
+          {
+            "title": "Exemption 4 and Exemption 5 Training",
+            "url": "https://www.justice.gov/oip/event/exemption-4-and-exemption-5-training-2",
+            "date": "2026-06-17",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-06-17",
+            "tags": []
+          },
           {
             "title": "CFTC Chairman Selig Announces Senior Staff Appointments",
             "url": "https://www.cftc.gov/PressRoom/PressReleases/9253-26",
             "date": "2026-06-15",
-            "meta": "CFTC",
+            "meta": "CFTC 商品期貨",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-15",
             "tags": []
           },
           {
+            "title": "SEC Appoints John Moses as Director of the Office of Investor Education and Assistance",
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-55-sec-appoints-john-moses-director-office-investor-education-assistance",
+            "date": "2026-06-12",
+            "meta": "SEC 證管會",
+            "summary": "The Securities and Exchange Commission has appointed John Moses as Director of the agency’s Office of Investor Education and Assistance, which provides services and resources to help investors build their financial futur",
+            "is_new": true,
+            "_sort": "2026-06-12",
+            "tags": []
+          },
+          {
             "title": "CFTC Issues No-Action Letter for DCMs Converting Existing Perpetual-Style Digital Commodity Futures into True Digital Commodity Perpetual Futures",
             "url": "https://www.cftc.gov/PressRoom/PressReleases/9252-26",
             "date": "2026-06-12",
-            "meta": "CFTC",
+            "meta": "CFTC 商品期貨",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-12",
-            "tags": []
-          },
-          {
-            "title": "CFTC Sues New Mexico as the State Becomes the Latest Attempting to Infringe on Federal Jurisdiction",
-            "url": "https://www.cftc.gov/PressRoom/PressReleases/9251-26",
-            "date": "2026-06-12",
-            "meta": "CFTC",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-12",
-            "tags": []
-          },
-          {
-            "title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning Whistleblower Rules",
-            "url": "https://www.cftc.gov/PressRoom/PressReleases/9250-26",
-            "date": "2026-06-11",
-            "meta": "CFTC",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-11",
             "tags": []
           }
         ]
@@ -360,11 +400,12 @@
           "to": "c_洗錢"
         }
       ]
-    }
+    },
+    "group": null
   },
   {
     "id": "tw-ip",
-    "name": "台灣智財：著作權／商標／專利",
+    "name": "台灣智財（著作權／商標／專利）",
     "desc": "三大領域各自蒐集（判決・侵權・修法）",
     "area": "台灣",
     "columns": [
@@ -417,13 +458,13 @@
             "_sort": "2026-05-29"
           },
           {
-            "title": "教會遭控侵權 單張圖片索賠上萬元 - 台灣教會公報新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXl3ZjEyQWJJc3phZFZjNnRrbll5SmdBQjlfdE9iZ19hRmhHWVp3dElTYk1SMjdIQ1RxZlpVaE52OFloTnkzNWVrRQ?oc=5",
-            "date": "2026-02-25",
-            "meta": "台灣教會公報新聞網",
+            "title": "資策會告高虹安違著作權法 二審智慧法院判撤銷發回更審 - 自由時報",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2U2TVl2Uy1iOXNjUEttVDRxa0RiWWFuNkZqWkdSc0hMT1dERF9Rd09FRHhRTGZENmZnY0xwcUNwcThzeEltbXhWWW1xVVRxTmFVYkh3V3pvRHIwVDJHSWxtS2ltMWg00gFuQVVfeXFMUEhyNFhKX25sNmEwTk1OcjNNYWpRWTJHZGY5eTlTV0ZTYWRWUlRhQVpQekVJbURXMEdaaDB2WVJjRnQxTzlKbF84b3lTcFpMZ2w4aEJXZHZKaG1zeThUbTlkakJlWnAtalRNc0h5amc?oc=5",
+            "date": "2026-04-16",
+            "meta": "自由時報",
             "summary": "",
             "is_new": false,
-            "_sort": "2026-02-25"
+            "_sort": "2026-04-16"
           }
         ]
       },
@@ -431,19 +472,19 @@
         "label": "™ 商標",
         "items": [
           {
-            "title": "商標霸凌？「遇見小麵」告小店侵權 反遭抵制、股價暴跌 - 世界新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YUVhSTjM2bEplUFdnc0NJaE9tRk5qMFNMRWhKTDdrYXp0QVJ2WW1mQlRIMUtDbF9VUnRVeDRFWUpXbEpxYTVDay1BQmViNXpHWmFJM1VEVE5uRWR6YzhVdUVQQ0phNVHSAWdBVV95cUxPWFFYUk4zNmxKZVBXZ3NDSWhPbUZOajBTTEVoSkw3a2F6dEFSdlltZkJUSDFLQ2xfVVJ0VXg0RVlKV2xKcWE1Q2stQUJlYjV6R1phSTNVRFRObkVkemM4VXVFUENKYTVR?oc=5",
+            "title": "真金也可能侵權 刑事局查獲725件仿冒名牌金飾 - 新住民全球新聞網",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkkzNHRaak00MkhKaHpKQ1kxQW1aYTJ1MkN5T1VhdEJQcnJLMkpob0pkdXNZT1hCbWcwcjJ6WldaZkFqaERZMnMyVG5UWEUtQ0w5Q19UV0pjdm9fTWhyVjZKRHQxY3FkbWlCenp4UHQ3amNnTlEwX3F6b1VFOVRhZm14UnhLQ3ZuOGxCMDhmUWgtNDUzUFVHWGpUYw?oc=5",
             "date": "2026-06-16",
-            "meta": "世界新聞網",
+            "meta": "新住民全球新聞網",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
           },
           {
-            "title": "真金也可能侵權 刑事局查獲725件仿冒名牌金飾 - 新住民全球新聞網",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkkzNHRaak00MkhKaHpKQ1kxQW1aYTJ1MkN5T1VhdEJQcnJLMkpob0pkdXNZT1hCbWcwcjJ6WldaZkFqaERZMnMyVG5UWEUtQ0w5Q19UV0pjdm9fTWhyVjZKRHQxY3FkbWlCenp4UHQ3amNnTlEwX3F6b1VFOVRhZm14UnhLQ3ZuOGxCMDhmUWgtNDUzUFVHWGpUYw?oc=5",
+            "title": "商標霸凌？「遇見小麵」告小店侵權 反遭抵制、股價暴跌 - 世界新聞網",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xdE43VGNCc19PR21ncEJNc2V5NXJGRC1mNkpmMmxmWHB5VzdkNmxFUktfcmYxMWNOU2l5N3hHejhXYnh4dUNYNkl2ZkxWQjlSZ3RmREhwdUQwcnBlcHR1cVdYSzdFMzZoSk5JVmUwU2tCeE5DSFIxaTBFSEJZUdIBZ0FVX3lxTE9YUVhSTjM2bEplUFdnc0NJaE9tRk5qMFNMRWhKTDdrYXp0QVJ2WW1mQlRIMUtDbF9VUnRVeDRFWUpXbEpxYTVDay1BQmViNXpHWmFJM1VEVE5uRWR6YzhVdUVQQ0phNVE?oc=5",
             "date": "2026-06-16",
-            "meta": "新住民全球新聞網",
+            "meta": "世界新聞網",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
@@ -490,19 +531,19 @@
         "label": "⚙ 專利",
         "items": [
           {
-            "title": "外媒揭台積電捲入專利侵權訴訟 官員坦言是遇到「專利蟑螂」 - 太報 TaiSounds",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zRXZ1RndYejl4RkY5MlhGT1huRzllOXVKV1FoYzZCZWFZQzhzZ0cwdzhkTkx4cDBMVlJ2cTFYcWhqRzc3YXhkbGtWUWVDelJVSXFfdTVQekIyRlQz?oc=5",
+            "title": "台積電涉侵權訴訟智慧局長：提告者研判為專利蟑螂| 產經 - 中央社 CNA",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NEFSVW1iaE5xWFF1bWNmOEhRZXNxalYwWVdyZmYzX2VBUThRbHFqTG16ckdTNUlkeUt4TjBNQ0FUSzE2RXRNUkdmUmpmUjQ5bnluVUJ2RjNENXVPQnc?oc=5",
             "date": "2026-06-16",
-            "meta": "太報 TaiSounds",
+            "meta": "中央社 CNA",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
           },
           {
-            "title": "台積電涉侵權訴訟智慧局長：提告者研判為專利蟑螂| 產經 - 中央社 CNA",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NEFSVW1iaE5xWFF1bWNmOEhRZXNxalYwWVdyZmYzX2VBUThRbHFqTG16ckdTNUlkeUt4TjBNQ0FUSzE2RXRNUkdmUmpmUjQ5bnluVUJ2RjNENXVPQnc?oc=5",
+            "title": "外媒揭台積電捲入專利侵權訴訟 官員坦言是遇到「專利蟑螂」 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQkZUam9jVWFndHlmNkZWXzFFQXdva3RsRmFQSEFxTGdtN1FmZW50aEN0T1k4ZUVHSkN6T09aZnhPcUdIaElMQzNsN2ZoRW9Xc1lUdVFvZm5UQm5mcHJSanpGYVM2UmRhX2JlTnFWdHBKRlZwSUwwU3NCdHNSTDhraHNxVHFZVzBDUlB6NFdubUFLTjVtQTVraU1PcnNqLWZHaU5mRFBFemMyQUNHLWxHY25TWFdGYi1icGtsbWVVNzBFNW81TU1wTUdkckpqN1RXM2VRR1ZKZ0YtdDdQVXBTbWFtUHFHYWQ1SUg3OE5hamlUVlYtb1pSbW12UE1PZkx5QTctNDdjMy1SaHdtYWNsTHZ0cmIteVZrbWZsMmRyb1Zhbno3WG5qWklIV0tOQ1VHOGVRcGgwcWZ4VXV2NmdldUlVbVdVOXpIUEVLbjliOFNfVkFzc0ozQ1gtTWRyRllVNEFPRzJTTDhidUE5VWlmclVHTDc1MzZKaHJvR1lpT3FOUQ?oc=5",
             "date": "2026-06-16",
-            "meta": "中央社 CNA",
+            "meta": "Yahoo新聞",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
@@ -605,29 +646,29 @@
         },
         {
           "id": "i5",
-          "label": "教會遭控侵權 單張圖片索賠上萬元",
-          "title": "教會遭控侵權 單張圖片索賠上萬元 - 台灣教會公報新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TNXl3ZjEyQWJJc3phZFZjNnRrbll5SmdBQjlfdE9iZ19hRmhHWVp3dElTYk1SMjdIQ1RxZlpVaE52OFloTnkzNWVrRQ?oc=5",
+          "label": "資策會告高虹安違著作權法 二審智",
+          "title": "資策會告高虹安違著作權法 二審智慧法院判撤銷發回更審 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sb2U2TVl2Uy1iOXNjUEttVDRxa0RiWWFuNkZqWkdSc0hMT1dERF9Rd09FRHhRTGZENmZnY0xwcUNwcThzeEltbXhWWW1xVVRxTmFVYkh3V3pvRHIwVDJHSWxtS2ltMWg00gFuQVVfeXFMUEhyNFhKX25sNmEwTk1OcjNNYWpRWTJHZGY5eTlTV0ZTYWRWUlRhQVpQekVJbURXMEdaaDB2WVJjRnQxTzlKbF84b3lTcFpMZ2w4aEJXZHZKaG1zeThUbTlkakJlWnAtalRNc0h5amc?oc=5",
           "group": "item"
         },
         {
           "id": "i6",
+          "label": "真金也可能侵權 刑事局查獲725",
+          "title": "真金也可能侵權 刑事局查獲725件仿冒名牌金飾 - 新住民全球新聞網",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkkzNHRaak00MkhKaHpKQ1kxQW1aYTJ1MkN5T1VhdEJQcnJLMkpob0pkdXNZT1hCbWcwcjJ6WldaZkFqaERZMnMyVG5UWEUtQ0w5Q19UV0pjdm9fTWhyVjZKRHQxY3FkbWlCenp4UHQ3amNnTlEwX3F6b1VFOVRhZm14UnhLQ3ZuOGxCMDhmUWgtNDUzUFVHWGpUYw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i7",
           "label": "商標霸凌？「遇見小麵」告小店侵權",
           "title": "商標霸凌？「遇見小麵」告小店侵權 反遭抵制、股價暴跌 - 世界新聞網",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YUVhSTjM2bEplUFdnc0NJaE9tRk5qMFNMRWhKTDdrYXp0QVJ2WW1mQlRIMUtDbF9VUnRVeDRFWUpXbEpxYTVDay1BQmViNXpHWmFJM1VEVE5uRWR6YzhVdUVQQ0phNVHSAWdBVV95cUxPWFFYUk4zNmxKZVBXZ3NDSWhPbUZOajBTTEVoSkw3a2F6dEFSdlltZkJUSDFLQ2xfVVJ0VXg0RVlKV2xKcWE1Q2stQUJlYjV6R1phSTNVRFRObkVkemM4VXVFUENKYTVR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xdE43VGNCc19PR21ncEJNc2V5NXJGRC1mNkpmMmxmWHB5VzdkNmxFUktfcmYxMWNOU2l5N3hHejhXYnh4dUNYNkl2ZkxWQjlSZ3RmREhwdUQwcnBlcHR1cVdYSzdFMzZoSk5JVmUwU2tCeE5DSFIxaTBFSEJZUdIBZ0FVX3lxTE9YUVhSTjM2bEplUFdnc0NJaE9tRk5qMFNMRWhKTDdrYXp0QVJ2WW1mQlRIMUtDbF9VUnRVeDRFWUpXbEpxYTVDay1BQmViNXpHWmFJM1VEVE5uRWR6YzhVdUVQQ0phNVE?oc=5",
           "group": "item"
         },
         {
           "id": "c_商標",
           "label": "商標",
           "group": "concept"
-        },
-        {
-          "id": "i7",
-          "label": "真金也可能侵權 刑事局查獲725",
-          "title": "真金也可能侵權 刑事局查獲725件仿冒名牌金飾 - 新住民全球新聞網",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkkzNHRaak00MkhKaHpKQ1kxQW1aYTJ1MkN5T1VhdEJQcnJLMkpob0pkdXNZT1hCbWcwcjJ6WldaZkFqaERZMnMyVG5UWEUtQ0w5Q19UV0pjdm9fTWhyVjZKRHQxY3FkbWlCenp4UHQ3amNnTlEwX3F6b1VFOVRhZm14UnhLQ3ZuOGxCMDhmUWgtNDUzUFVHWGpUYw?oc=5",
-          "group": "item"
         },
         {
           "id": "i8",
@@ -659,16 +700,16 @@
         },
         {
           "id": "i12",
-          "label": "外媒揭台積電捲入專利侵權訴訟 官",
-          "title": "外媒揭台積電捲入專利侵權訴訟 官員坦言是遇到「專利蟑螂」 - 太報 TaiSounds",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zRXZ1RndYejl4RkY5MlhGT1huRzllOXVKV1FoYzZCZWFZQzhzZ0cwdzhkTkx4cDBMVlJ2cTFYcWhqRzc3YXhkbGtWUWVDelJVSXFfdTVQekIyRlQz?oc=5",
+          "label": "台積電涉侵權訴訟智慧局長：提告者",
+          "title": "台積電涉侵權訴訟智慧局長：提告者研判為專利蟑螂| 產經 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NEFSVW1iaE5xWFF1bWNmOEhRZXNxalYwWVdyZmYzX2VBUThRbHFqTG16ckdTNUlkeUt4TjBNQ0FUSzE2RXRNUkdmUmpmUjQ5bnluVUJ2RjNENXVPQnc?oc=5",
           "group": "item"
         },
         {
           "id": "i13",
-          "label": "台積電涉侵權訴訟智慧局長：提告者",
-          "title": "台積電涉侵權訴訟智慧局長：提告者研判為專利蟑螂| 產經 - 中央社 CNA",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03NEFSVW1iaE5xWFF1bWNmOEhRZXNxalYwWVdyZmYzX2VBUThRbHFqTG16ckdTNUlkeUt4TjBNQ0FUSzE2RXRNUkdmUmpmUjQ5bnluVUJ2RjNENXVPQnc?oc=5",
+          "label": "外媒揭台積電捲入專利侵權訴訟 官",
+          "title": "外媒揭台積電捲入專利侵權訴訟 官員坦言是遇到「專利蟑螂」 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQkZUam9jVWFndHlmNkZWXzFFQXdva3RsRmFQSEFxTGdtN1FmZW50aEN0T1k4ZUVHSkN6T09aZnhPcUdIaElMQzNsN2ZoRW9Xc1lUdVFvZm5UQm5mcHJSanpGYVM2UmRhX2JlTnFWdHBKRlZwSUwwU3NCdHNSTDhraHNxVHFZVzBDUlB6NFdubUFLTjVtQTVraU1PcnNqLWZHaU5mRFBFemMyQUNHLWxHY25TWFdGYi1icGtsbWVVNzBFNW81TU1wTUdkckpqN1RXM2VRR1ZKZ0YtdDdQVXBTbWFtUHFHYWQ1SUg3OE5hamlUVlYtb1pSbW12UE1PZkx5QTctNDdjMy1SaHdtYWNsTHZ0cmIteVZrbWZsMmRyb1Zhbno3WG5qWklIV0tOQ1VHOGVRcGgwcWZ4VXV2NmdldUlVbVdVOXpIUEVLbjliOFNfVkFzc0ozQ1gtTWRyRllVNEFPRzJTTDhidUE5VWlmclVHTDc1MzZKaHJvR1lpT3FOUQ?oc=5",
           "group": "item"
         },
         {
@@ -743,15 +784,19 @@
         },
         {
           "from": "i5",
-          "to": "c_侵權"
+          "to": "c_著作權"
+        },
+        {
+          "from": "i5",
+          "to": "c_訴訟"
         },
         {
           "from": "i6",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i7",
           "to": "c_商標"
-        },
-        {
-          "from": "i6",
-          "to": "c_侵權"
         },
         {
           "from": "i7",
@@ -826,11 +871,12 @@
           "to": "c_侵權"
         }
       ]
-    }
+    },
+    "group": "ip"
   },
   {
     "id": "ai-ip",
-    "name": "AI 智財權：著作權／商標／專利",
+    "name": "AI 智財（著作權／商標／專利）",
     "desc": "生成式 AI 對三大智財領域的衝擊（國際＋台灣）",
     "area": "國際",
     "columns": [
@@ -933,6 +979,15 @@
             "_sort": "2026-05-29"
           },
           {
+            "title": "CNN Sues AI Firm Perplexity, Alleging It Engaged in ‘Massive Copyright Infringement’ - Variety",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0tOdnpYbXNCNVBWYW1LZWdjY19tdWl2cEpSTjVSMXZERnhqVDNaMFZldnVJY0Y3dFpIVTRKVlVndVR5ZGZSV1M3N1JRS2JNLVJWdWhUUk8wNG9mSE9sR1BSNEY3UFpvYUV1UHQ4Um1TQnZqcS1seGVHaFl4d1d2cjY2Y0hVUFh3bjY3Q3Y2bWd2ZWpGN2Z3aHR1VWhRZw?oc=5",
+            "date": "2026-05-28",
+            "meta": "Variety",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-05-28"
+          },
+          {
             "title": "AI助攻專利審查：美國專利商標局啟動工具徵詢 - Yahoo股市",
             "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVUdLTGdWNF9SRzRhSDdUQkpWeHZaRnNmRjd6TzVYUWllWThWZ19hUnBrTXg3WlNTTDZsZ3NKQkc1QzJ1cDBidFdCSFpBYVZ2d3BkS3d5Z1AwOExjaG04Y1daSDZ3ekx5ZHlxXzd2NEV6T3lkR21tUVdUeU56bmVLSFl3Zm5YSTlZc1E3ajhkZ1ZXSkxZcWFic2ItRTNRTkEtNXd4VXZUVjBZYlh1MWpPYjJsWVItVzY3V2dkYUlQOS1aZG9nM1g2ejU4QWsyRE5TRnRDb3Qzc0lIWENER2x3cC1PazE5Rjl6NGprTXR5QXY4cjlaX3J6X2p0SzVQQVJEaFR2Um92ZjNmaU1uSVhBQXdQM3FRQnFxVDFwdkMwaWVHV09VTXljUmNUU0Z0YngtVTFtQnRIbEMxTHlwMDhydGtaRQ?oc=5",
             "date": "2026-05-20",
@@ -942,40 +997,13 @@
             "_sort": "2026-05-20"
           },
           {
-            "title": "USPTO全面升級抗詐欺技術，引入 AI 數位看門狗捍衛商標註冊真實性 - 北美智權",
-            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BSklaOFYzaElWU3g4NlFOZDRVZk5JU2ZvY3NRekJKLVEzazIxbTlvRDc5UlVrbk5jRmJTeGxyX196c2h0bGhiag?oc=5",
+            "title": "Can you trademark identity? The new legal strategy celebrities are using against AI - The Conversation",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3BwNFBLVWJkcC0wakRnZTJnVlhIR0Y4Z0hmMndsUlpFNUk5TFZueGtYM0NHeDViS1g4RFFqZkZmSmRRWThqRXNDNktXWGtmanhoRzlWV1o4WjF6S29iQ2NwZDM4TktOVVdLNTlENC0zRkJlTjdlR3hEZ2FkNWdjTlV6RFdXZ0NQb2ItQVZCbk52eExtS3pDX2xBNU9xRE5YQ1hldHY1c1hYZEJIN0dJbmhQOS0xRTN1?oc=5",
             "date": "2026-05-19",
-            "meta": "北美智權",
+            "meta": "The Conversation",
             "summary": "",
             "is_new": false,
             "_sort": "2026-05-19"
-          },
-          {
-            "title": "AI-Generated Content and Copyright Law: What We Know - Built In",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVU83d2dSOFJxaW82Vlp5eTZyVG54d2NyNTh4VWxGOTNOYTllNlNYTkdMbXlpVGFMNW02TC1MOHEtLTM3Zm1vNmVKUVNBYVdzdXFnOW44VnRieldnbkFQY0RsNV9id0E?oc=5",
-            "date": "2026-04-30",
-            "meta": "Built In",
-            "summary": "",
-            "is_new": false,
-            "_sort": "2026-04-30"
-          },
-          {
-            "title": "泰勒絲申請聲音商標自保：版權法管不了 AI 仿聲，商標戰或補上缺口 - 動區動趨",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHdTUWU3NTJXQXBkQ3J3b19nVjA2b2pGbTZCd2o2U3h4T0hkUzM0dDl0OERmU1FINVlET3pZUVJ0YjN2QUJLalJmeTlXOXY4dHBONDBtQlRnRTNkM0dtYU5TRkFMamwzbnVhb0xqRWw0alEwVlJBTlhIaDJucTI1N19VTG9KTkg3V255czg0dzVpS2pjaWRxVU1HOA?oc=5",
-            "date": "2026-04-29",
-            "meta": "動區動趨",
-            "summary": "",
-            "is_new": false,
-            "_sort": "2026-04-29"
-          },
-          {
-            "title": "Open AI Lawsuit and Taylor Swift's Trademarks Against AI - FOX 29 Philadelphia",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvclhIbWZMdHhQc0ptX2w2c0llalFRR1p4NjRxUXBQUmtuLVR3eG92RVZEQkx3amFFaUpOMEVnYXowWUp3OXNfaEpSQ2w3S2tEeENqQnFEaDlrdW5l0gFiQVVfeXFMTnJlcnBab1BpWml3NTJXd1ZORkctS2JXQjJmSllzQ1hFM3VKblU2bXJ6d05qYWcyUkE3MzdoNWVfYzhlRHNnMG5PQmtXZW5LZTlIRTBvcG1fa3Rjc3JsalpqZ0E?oc=5",
-            "date": "2026-04-28",
-            "meta": "FOX 29 Philadelphia",
-            "summary": "",
-            "is_new": false,
-            "_sort": "2026-04-28"
           },
           {
             "title": "防堵AI深偽威脅泰勒絲申請聲音肖像註冊商標| 娛樂 - 中央社 CNA",
@@ -985,6 +1013,24 @@
             "summary": "",
             "is_new": false,
             "_sort": "2026-04-28"
+          },
+          {
+            "title": "防範AI深偽侵害 泰勒絲申請聲音肖像註冊商標 - rti.org.tw",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBySC1PckNWeEphaE1sak9JSkM1X1U0WGpCT1k4b29pSmxfQnFNNDA1Yk9sRWxsSnp3S1E0VjI4aU44S0RTS0VkekdzTThMeFF5ck9scmIwTQ?oc=5",
+            "date": "2026-04-28",
+            "meta": "rti.org.tw",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-28"
+          },
+          {
+            "title": "Getty Images (US), Inc. v. Stability AI, Ltd. - Loeb & Loeb LLP",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjJzQkNyNnh4V0hMNGtVVk5Ua3NINlozOXBGX19WT2Yxd0ktOG9NWkl6cWlYNkVJWnhxSTk3emt0SS1tY2ZhRF82YjBLdzZfYnJKNnVxQTFJck5GMjRzSXdfM2F6ZldUNDlISFRfVWNtSkdfbi02VExjV2JmaEEwa3U1aFpaQUY5S2pxQWI3Z3Z4dXE0bEhV?oc=5",
+            "date": "2026-04-23",
+            "meta": "Loeb & Loeb LLP",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-23"
           }
         ]
       },
@@ -1158,44 +1204,37 @@
         },
         {
           "id": "i10",
+          "label": "CNN Sues AI Firm",
+          "title": "CNN Sues AI Firm Perplexity, Alleging It Engaged in ‘Massive Copyright Infringement’ - Variety",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0tOdnpYbXNCNVBWYW1LZWdjY19tdWl2cEpSTjVSMXZERnhqVDNaMFZldnVJY0Y3dFpIVTRKVlVndVR5ZGZSV1M3N1JRS2JNLVJWdWhUUk8wNG9mSE9sR1BSNEY3UFpvYUV1UHQ4Um1TQnZqcS1seGVHaFl4d1d2cjY2Y0hVUFh3bjY3Q3Y2bWd2ZWpGN2Z3aHR1VWhRZw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
           "label": "AI助攻專利審查：美國專利商標局",
           "title": "AI助攻專利審查：美國專利商標局啟動工具徵詢 - Yahoo股市",
           "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVUdLTGdWNF9SRzRhSDdUQkpWeHZaRnNmRjd6TzVYUWllWThWZ19hUnBrTXg3WlNTTDZsZ3NKQkc1QzJ1cDBidFdCSFpBYVZ2d3BkS3d5Z1AwOExjaG04Y1daSDZ3ekx5ZHlxXzd2NEV6T3lkR21tUVdUeU56bmVLSFl3Zm5YSTlZc1E3ajhkZ1ZXSkxZcWFic2ItRTNRTkEtNXd4VXZUVjBZYlh1MWpPYjJsWVItVzY3V2dkYUlQOS1aZG9nM1g2ejU4QWsyRE5TRnRDb3Qzc0lIWENER2x3cC1PazE5Rjl6NGprTXR5QXY4cjlaX3J6X2p0SzVQQVJEaFR2Um92ZjNmaU1uSVhBQXdQM3FRQnFxVDFwdkMwaWVHV09VTXljUmNUU0Z0YngtVTFtQnRIbEMxTHlwMDhydGtaRQ?oc=5",
           "group": "item"
         },
         {
-          "id": "i11",
-          "label": "USPTO全面升級抗詐欺技術，引",
-          "title": "USPTO全面升級抗詐欺技術，引入 AI 數位看門狗捍衛商標註冊真實性 - 北美智權",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BSklaOFYzaElWU3g4NlFOZDRVZk5JU2ZvY3NRekJKLVEzazIxbTlvRDc5UlVrbk5jRmJTeGxyX196c2h0bGhiag?oc=5",
-          "group": "item"
-        },
-        {
           "id": "i12",
-          "label": "AI-Generated Con",
-          "title": "AI-Generated Content and Copyright Law: What We Know - Built In",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVU83d2dSOFJxaW82Vlp5eTZyVG54d2NyNTh4VWxGOTNOYTllNlNYTkdMbXlpVGFMNW02TC1MOHEtLTM3Zm1vNmVKUVNBYVdzdXFnOW44VnRieldnbkFQY0RsNV9id0E?oc=5",
+          "label": "Can you trademar",
+          "title": "Can you trademark identity? The new legal strategy celebrities are using against AI - The Conversation",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb3BwNFBLVWJkcC0wakRnZTJnVlhIR0Y4Z0hmMndsUlpFNUk5TFZueGtYM0NHeDViS1g4RFFqZkZmSmRRWThqRXNDNktXWGtmanhoRzlWV1o4WjF6S29iQ2NwZDM4TktOVVdLNTlENC0zRkJlTjdlR3hEZ2FkNWdjTlV6RFdXZ0NQb2ItQVZCbk52eExtS3pDX2xBNU9xRE5YQ1hldHY1c1hYZEJIN0dJbmhQOS0xRTN1?oc=5",
           "group": "item"
         },
         {
           "id": "i13",
-          "label": "泰勒絲申請聲音商標自保：版權法管",
-          "title": "泰勒絲申請聲音商標自保：版權法管不了 AI 仿聲，商標戰或補上缺口 - 動區動趨",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHdTUWU3NTJXQXBkQ3J3b19nVjA2b2pGbTZCd2o2U3h4T0hkUzM0dDl0OERmU1FINVlET3pZUVJ0YjN2QUJLalJmeTlXOXY4dHBONDBtQlRnRTNkM0dtYU5TRkFMamwzbnVhb0xqRWw0alEwVlJBTlhIaDJucTI1N19VTG9KTkg3V255czg0dzVpS2pjaWRxVU1HOA?oc=5",
+          "label": "防堵AI深偽威脅泰勒絲申請聲音肖",
+          "title": "防堵AI深偽威脅泰勒絲申請聲音肖像註冊商標| 娛樂 - 中央社 CNA",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbFZTRDVfUlY0dHl3endORlZ1dzhaQXlveTd5RDZraV9QaHJVY3JQa3djbW45YmYtaHdNWFlRYUdueGotNDY4OU5NRENXaXJLYU1xM1RidEdWdVl5TWlR?oc=5",
           "group": "item"
         },
         {
           "id": "i14",
-          "label": "Open AI Lawsuit ",
-          "title": "Open AI Lawsuit and Taylor Swift's Trademarks Against AI - FOX 29 Philadelphia",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvclhIbWZMdHhQc0ptX2w2c0llalFRR1p4NjRxUXBQUmtuLVR3eG92RVZEQkx3amFFaUpOMEVnYXowWUp3OXNfaEpSQ2w3S2tEeENqQnFEaDlrdW5l0gFiQVVfeXFMTnJlcnBab1BpWml3NTJXd1ZORkctS2JXQjJmSllzQ1hFM3VKblU2bXJ6d05qYWcyUkE3MzdoNWVfYzhlRHNnMG5PQmtXZW5LZTlIRTBvcG1fa3Rjc3JsalpqZ0E?oc=5",
-          "group": "item"
-        },
-        {
-          "id": "i15",
-          "label": "防堵AI深偽威脅泰勒絲申請聲音肖",
-          "title": "防堵AI深偽威脅泰勒絲申請聲音肖像註冊商標| 娛樂 - 中央社 CNA",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbFZTRDVfUlY0dHl3endORlZ1dzhaQXlveTd5RDZraV9QaHJVY3JQa3djbW45YmYtaHdNWFlRYUdueGotNDY4OU5NRENXaXJLYU1xM1RidEdWdVl5TWlR?oc=5",
+          "label": "防範AI深偽侵害 泰勒絲申請聲音",
+          "title": "防範AI深偽侵害 泰勒絲申請聲音肖像註冊商標 - rti.org.tw",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBySC1PckNWeEphaE1sak9JSkM1X1U0WGpCT1k4b29pSmxfQnFNNDA1Yk9sRWxsSnp3S1E0VjI4aU44S0RTS0VkekdzTThMeFF5ck9scmIwTQ?oc=5",
           "group": "item"
         },
         {
@@ -1304,19 +1343,23 @@
         },
         {
           "from": "i10",
-          "to": "c_商標"
+          "to": "c_著作權"
         },
         {
           "from": "i10",
-          "to": "c_專利"
+          "to": "c_訴訟"
         },
         {
           "from": "i11",
           "to": "c_商標"
         },
         {
+          "from": "i11",
+          "to": "c_專利"
+        },
+        {
           "from": "i12",
-          "to": "c_著作權"
+          "to": "c_商標"
         },
         {
           "from": "i13",
@@ -1324,14 +1367,6 @@
         },
         {
           "from": "i14",
-          "to": "c_商標"
-        },
-        {
-          "from": "i14",
-          "to": "c_訴訟"
-        },
-        {
-          "from": "i15",
           "to": "c_商標"
         },
         {
@@ -1359,7 +1394,8 @@
           "to": "c_專利"
         }
       ]
-    }
+    },
+    "group": "ip"
   },
   {
     "id": "music-ip",
@@ -1389,19 +1425,46 @@
             "_sort": "2026-06-16"
           },
           {
-            "title": "黃大煒驟逝！「音樂版權全由他們處理」 親姊律師再度發聲 - FTNN 新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6bUhTbTRGenB5bHIxTHpHc2VNSm1GNU10bGVWSWZlUVdRZExFRkR6bzcwV21wOEtYSzhxRzhNcURRQTFxNkFnMFJUUQ?oc=5",
+            "title": "黃大煒驟逝「親姊律師再發聲」！音樂版權全由「他」處理 - Newtalk新聞",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ndVViSkFEWWpPcTVMakVDQ3U3OUlRcm9wTV84cTBZV0E1Q1hCeGVqTHViT09fdTZ3ZGM0dXZRUThzTTRYNE96aHRXYVN4bFpib2tBRUM5cy11SVE?oc=5",
             "date": "2026-06-16",
-            "meta": "FTNN 新聞網",
+            "meta": "Newtalk新聞",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
           },
           {
-            "title": "快訊／黃大煒遺願曝光「音樂版權由他們處理」！律師證實：他的意願 - ETtoday星光雲",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PWVNMUTdCVWMwRE5IcWRmaWdjNDZGaXFSbmhmVTJ2UHNDZDY5NkZTTVBiVk5acGlhRDZ6amVQUmhEVzlTSGg4Y29tNUxqZ9IBakFVX3lxTE5felloeXJKVXp6SjJWcVhtWXY0bXdLeDJ2cjRscTVvdVdHNllZMUtmMXZyVkZTeW03bzIzQTdKQi1LUWdfSjFIVEdWalpxcXp2MzhQcGpSaDdWLTkwOVFIbUdKbTBna3NkV2c?oc=5",
+            "title": "黃大煒驟逝！「音樂版權全由他們處理」 親姊律師再度發聲 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOTDdpcUZXdU92SWMycnU1dVduTzFraUtCVjJPc2hnZ212SDF5dWtOVlVpd3FnaXVqSEt2a2I3eWNDS3o1a3RZTFI4XzdsVFFnWnV5ak50dnhzd205ZnEwZHltQXVSTmh1Tl9Gekltako4X0k1bHdSRE4xTy1jVF85UHhhWWo2emZQNWYzcjZaNzgwZ0pyWHlqaVRrb1JiZlVwREk4TURpVG9qNzV4YlhqNHFCTU9naDhYYVVCbml4UW1pLS1TQmthb1JTWGpyNzZfNG9ZcFkzQ3h3eDBZV3YtMm03SWtaZ3pHQ0hZWDdiM1ZQSFlMOG1uWGpmX2RZRjNTcWxWSmFyN2lJUE1VOE44LXZaMm5TVEVyVzl6VUxUei1SVzR5ZzN0Y21Hd256WmNVdVNWVGVuSkR2ZHhjUnE4TzUtZHRUU25xTjA4NVZ5cnB3UmNjVnZMWVFCRDVBS1kyNy1wMlp0cE9ndw?oc=5",
             "date": "2026-06-16",
-            "meta": "ETtoday星光雲",
+            "meta": "Yahoo新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-06-16"
+          },
+          {
+            "title": "黃大煒音樂版權「根據他意願」 律師代胞姊發聲明：清者自清 - 壹蘋新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3ZMaWt2a3A1TDFXYVg4VWFiY3hVTlZPWVZrMzA2UWEtVHBCTUdnRmJ6QUtlaklYZ3JZSTY4eG5McE1yd1RVa0pNenJHQUp0Qi1KQWNHM0ZrUVNBdGNyaHctTTY5ZC1ydE5YUVE0ZS16NnhQR3ljbEVHV0FJTDNYNWhKUzhSaldNYWc?oc=5",
+            "date": "2026-06-16",
+            "meta": "壹蘋新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-06-16"
+          },
+          {
+            "title": "黃大煒經紀人女友怒槓！親姊律師發聲了 音樂版權「維持生前意願」 - 三立娛樂星聞",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83aktmSzRFQlJHbVdZcWs4ZTlFdVBJN1RrTnQ2dTNsdGFJVUZaZXk4TGRYcHNQbnc3WXhqNDZZMTgteWJoalRFaVRB?oc=5",
+            "date": "2026-06-16",
+            "meta": "三立娛樂星聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-06-16"
+          },
+          {
+            "title": "黃大煒驟逝掀爭產風波！親姊律師最新發聲 揭音樂版權未來安排 - 中天新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyejBGeG4wQ0FPeFRPMUZ3SlpvZlJFSXpJSFcwSUctd1dZMjlwQWhWMUNtTjcxSnhUeHJvd1o4ZG40SHFGYUo0aTBhNkZvc0NIclhj?oc=5",
+            "date": "2026-06-16",
+            "meta": "中天新聞網",
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-16"
@@ -1414,33 +1477,6 @@
             "summary": "",
             "is_new": true,
             "_sort": "2026-06-15"
-          },
-          {
-            "title": "AI 作曲無版權？日本 JASRAC 裁定純 AI 音樂屬公共領域 - unwire PRO",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yLTh5YlR5MVJILUdFZ29MY2d5NnJ3R1B1R1B3Q3NtZ1A1R08ta1ZfMEV5bWNZR3oxVkZtQ1paMTc5RC1uaVpUdnhYeGNWWGZBU3dpSlNwVXpOdld6U1Nfeko3a2RvRjJGeU1FLVZueDBRUQ?oc=5",
-            "date": "2026-06-15",
-            "meta": "unwire PRO",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-15"
-          },
-          {
-            "title": "AI生成音樂享有著作權保障嗎？日本音樂著作權協會：不行 - LINE TODAY",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hSEZoVEVwaXdQeXltTEx0a0I4RG9ncFo5ZjVuSXJ1c2VFMmI5WHNpRWdzNW5rVzhFUzVVRG1xa05TNG5MV0dLcjdaLWxXdzBtUFhmS1JlT3BPS05BN3dpZWtNZlVidVUzRFNLRmpzTHZPTWFF?oc=5",
-            "date": "2026-06-13",
-            "meta": "LINE TODAY",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-13"
-          },
-          {
-            "title": "Blueface's Music Royalties Seized to Pay Soulja Boy's Baby Mama $123,000 After Defamation Judgment - Complex",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0NaT0JqSmJnWVRFOGt5ZWFlTXg5YjlUVnRHdEtiQ2tTbmpFQTJoWWI1Ulo5ZmJWeGU0SEF3STR3UUI1WVdEbU9HUHBpSlJKZlAyVmljOUJDMHlqTGRsNnRyclYzQkI2WE9ZRmtTNlduVGpVRWtuQ1JNNGdKYXNJN0ZWeVpKemZsdWp4VjhDbmdleUstNGFlVHlYX1BWQjNSSnJKMFZ5dGxST2Z0VXp5QjRRUV8?oc=5",
-            "date": "2026-06-12",
-            "meta": "Complex",
-            "summary": "",
-            "is_new": true,
-            "_sort": "2026-06-12"
           }
         ]
       },
@@ -1580,8 +1616,8 @@
         {
           "ticker": "UMG.AS",
           "name": "Universal Music",
-          "last": 18.11,
-          "chg_1y": -34.3
+          "last": 18.23,
+          "chg_1y": -33.9
         },
         {
           "ticker": "SPOT",
@@ -1593,7 +1629,7 @@
           "ticker": "INDEX",
           "name": "音樂 IP 金融指數",
           "last": null,
-          "chg_1y": -5.9
+          "chg_1y": -5.8
         }
       ]
     },
@@ -1609,25 +1645,6 @@
         {
           "id": "c_著作權",
           "label": "著作權",
-          "group": "concept"
-        },
-        {
-          "id": "i6",
-          "label": "AI生成音樂享有著作權保障嗎？日",
-          "title": "AI生成音樂享有著作權保障嗎？日本音樂著作權協會：不行 - LINE TODAY",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hSEZoVEVwaXdQeXltTEx0a0I4RG9ncFo5ZjVuSXJ1c2VFMmI5WHNpRWdzNW5rVzhFUzVVRG1xa05TNG5MV0dLcjdaLWxXdzBtUFhmS1JlT3BPS05BN3dpZWtNZlVidVUzRFNLRmpzTHZPTWFF?oc=5",
-          "group": "item"
-        },
-        {
-          "id": "i7",
-          "label": "Blueface's Music",
-          "title": "Blueface's Music Royalties Seized to Pay Soulja Boy's Baby Mama $123,000 After Defamation Judgment - Complex",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0NaT0JqSmJnWVRFOGt5ZWFlTXg5YjlUVnRHdEtiQ2tTbmpFQTJoWWI1Ulo5ZmJWeGU0SEF3STR3UUI1WVdEbU9HUHBpSlJKZlAyVmljOUJDMHlqTGRsNnRyclYzQkI2WE9ZRmtTNlduVGpVRWtuQ1JNNGdKYXNJN0ZWeVpKemZsdWp4VjhDbmdleUstNGFlVHlYX1BWQjNSSnJKMFZ5dGxST2Z0VXp5QjRRUV8?oc=5",
-          "group": "item"
-        },
-        {
-          "id": "c_版稅",
-          "label": "版稅",
           "group": "concept"
         },
         {
@@ -1658,6 +1675,11 @@
           "title": "Smart Contracts as a Solution for Automated Royalty Distribution: Implications for Copyright Management in Digital Media",
           "url": "https://doi.org/10.69971/tipr.4.2.2026.99",
           "group": "item"
+        },
+        {
+          "id": "c_版稅",
+          "label": "版稅",
+          "group": "concept"
         },
         {
           "id": "i11",
@@ -1699,14 +1721,6 @@
         {
           "from": "i0",
           "to": "c_著作權"
-        },
-        {
-          "from": "i6",
-          "to": "c_著作權"
-        },
-        {
-          "from": "i7",
-          "to": "c_版稅"
         },
         {
           "from": "i8",
@@ -1773,7 +1787,8 @@
           "to": "c_著作權"
         }
       ]
-    }
+    },
+    "group": null
   },
   {
     "id": "blockchain-gov",
@@ -2146,7 +2161,8 @@
           "to": "c_鏈上"
         }
       ]
-    }
+    },
+    "group": null
   },
   {
     "id": "ip-authority",
@@ -2157,6 +2173,15 @@
       {
         "label": "📄 專利實務",
         "items": [
+          {
+            "title": "用途發明中用語“EFFECTIVE AMOUNT”的明確性議題 - Ex parte Skuballa (BPAI 1989)",
+            "url": "http://enpan.blogspot.com/2026/06/effective-amount-ex-parte-skuballa-bpai.html",
+            "date": "2026-06-16",
+            "meta": "enpan Patent",
+            "summary": "前言：MPEP 21732173.05(c) Numerical Ranges and Amounts Limitations...III. “EFFECTIVE AMOUNT”The common phrase “an effective amount” may or may not be indefinite. The proper test is whether or not one skilled in the art coul",
+            "is_new": true,
+            "_sort": "2026-06-16"
+          },
           {
             "title": "Has the Late-Continuation Surcharge Shifted Filing?",
             "url": "https://patentlyo.com/patent/2026/06/has-the-late-continuation-surcharge-shifted-filing.html",
@@ -2217,15 +2242,6 @@
             "date": "2026-06-11",
             "meta": "Patently-O",
             "summary": "Federal Circuit: receiving a passcode and token separately is not receiving the password. Dynapass v. BofA and the unclaimed embodiment. Continue reading this post on Patently-O.",
-            "is_new": true,
-            "_sort": "2026-06-11"
-          },
-          {
-            "title": "Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc. (2026)",
-            "url": "https://patentdocs.org/2026/06/11/hikma-pharmaceuticals-usa-inc-v-amarin-pharma-inc-2026/",
-            "date": "2026-06-11",
-            "meta": "Patent Docs",
-            "summary": "By Kevin E. Noonan – In a decision that, in retrospect, is not surprising (in view of the haste with which the Court took up the case after granting certiorari; see “Solicitor General Proves Persuasive; Supreme Court Gra",
             "is_new": true,
             "_sort": "2026-06-11"
           }
@@ -2389,7 +2405,7 @@
     "graph": {
       "nodes": [
         {
-          "id": "i0",
+          "id": "i1",
           "label": "Has the Late-Con",
           "title": "Has the Late-Continuation Surcharge Shifted Filing?",
           "url": "https://patentlyo.com/patent/2026/06/has-the-late-continuation-surcharge-shifted-filing.html",
@@ -2406,7 +2422,7 @@
           "group": "concept"
         },
         {
-          "id": "i1",
+          "id": "i2",
           "label": "Supreme Court De",
           "title": "Supreme Court Denies Certiorari in Newman v. Moore",
           "url": "https://patentdocs.org/2026/06/15/supreme-court-denies-certiorari-in-newman-v-moore/",
@@ -2418,31 +2434,24 @@
           "group": "concept"
         },
         {
-          "id": "i4",
+          "id": "i5",
           "label": "Hooked on Differ",
           "title": "Hooked on Differences: Design Patent Doctrine and Schedule A Litigation at the Federal Circuit",
           "url": "https://patentlyo.com/patent/2026/06/hooked-on-differences-design-patent-doctrine-and-schedule-a-litigation-at-the-federal-circuit.html",
           "group": "item"
         },
         {
-          "id": "i5",
+          "id": "i6",
           "label": "專利範圍過於明確形成的限制 - ",
           "title": "專利範圍過於明確形成的限制 - Dynapass IP Holdings LLC v. Bank of America Corp. (CAFC 2026)",
           "url": "http://enpan.blogspot.com/2026/06/dynapass-ip-holdings-llc-v-bank-of.html",
           "group": "item"
         },
         {
-          "id": "i6",
+          "id": "i7",
           "label": "It’s Not You, It",
           "title": "It’s Not You, It’s Your Claims: Disclosed but Unclaimed Embodiments at the Federal Circuit",
           "url": "https://patentlyo.com/patent/2026/06/its-not-you-its-your-claims-disclosed-but-unclaimed-embodiments-at-the-federal-circuit.html",
-          "group": "item"
-        },
-        {
-          "id": "i7",
-          "label": "Hikma Pharmaceut",
-          "title": "Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc. (2026)",
-          "url": "https://patentdocs.org/2026/06/11/hikma-pharmaceuticals-usa-inc-v-amarin-pharma-inc-2026/",
           "group": "item"
         },
         {
@@ -2542,23 +2551,15 @@
       ],
       "edges": [
         {
-          "from": "i0",
+          "from": "i1",
           "to": "c_專利"
-        },
-        {
-          "from": "i0",
-          "to": "c_USPTO"
         },
         {
           "from": "i1",
-          "to": "c_訴訟"
+          "to": "c_USPTO"
         },
         {
-          "from": "i4",
-          "to": "c_專利"
-        },
-        {
-          "from": "i4",
+          "from": "i2",
           "to": "c_訴訟"
         },
         {
@@ -2566,12 +2567,16 @@
           "to": "c_專利"
         },
         {
+          "from": "i5",
+          "to": "c_訴訟"
+        },
+        {
           "from": "i6",
           "to": "c_專利"
         },
         {
           "from": "i7",
-          "to": "c_訴訟"
+          "to": "c_專利"
         },
         {
           "from": "i8",
@@ -2662,6 +2667,7 @@
           "to": "c_中國"
         }
       ]
-    }
+    },
+    "group": "ip"
   }
 ]
