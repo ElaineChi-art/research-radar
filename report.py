@@ -329,6 +329,7 @@ def build_html(date_str, topics, generated_at):
   <a href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
   <a class="active" href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
   <a href="https://elainechi-art.github.io/judicial/">📚 司法官・律師複習</a>
+  <a href="https://elainechi-art.github.io/exam-radar/">⚖️ 申論實務雷達</a>
 </nav>
 <header>
   <h1>📡 研究雷達 · 台灣法律 / 智財 / 區塊鏈 / AI</h1>
