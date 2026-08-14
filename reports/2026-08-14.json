@@ -1,0 +1,2896 @@
+[
+  {
+    "id": "tw-financial-crime",
+    "name": "台灣經濟刑法",
+    "desc": "白領／經濟犯罪：內線交易・背信・掏空・洗錢・銀行法・組織犯罪…（重金庭領域）",
+    "area": "台灣",
+    "group": null,
+    "columns": [
+      {
+        "label": "⚖️ 判決・起訴",
+        "items": [
+          {
+            "title": "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女 - cna.com.tw",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVFQxdlVQWmJna1dUUFIxVHZzaUhiaDdaclU0WmNpeUlTNmtWNHV1Q1lUTDRucnZiTTBidlp3aXF0YWRzNGpyWi1tYWowT2Vla3dDODhfc3BTREEwQjBr?oc=5",
+            "date": "2026-08-13",
+            "meta": "cna.com.tw",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "詐欺型犯罪",
+                "sub": "投資詐欺",
+                "label": "詐欺·投資詐欺",
+                "ci": 5
+              }
+            ]
+          },
+          {
+            "title": "徐春鶯涉介選、地下匯兌與詐貸求刑21年6月 一審判刑7年 - 自由時報",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ZkdDdjd1TzBaSjFRNzdwNlN2d2JhaDZGZXhPUUdZTzZkYWd2M0NDeXN2eVk2NnEtdlF4NkM3a3FDcUN3YWd1VUxSZko0T043ekJjSXN3RUNXQ05RZHpzN05PUm9tQzN4SkE?oc=5",
+            "date": "2026-08-11",
+            "meta": "自由時報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              },
+              {
+                "cat": "銀行犯罪",
+                "sub": "詐欺銀行",
+                "label": "銀行·詐欺銀行",
+                "ci": 1
+              }
+            ]
+          },
+          {
+            "title": "徐春鶯涉犯反滲透法、地下匯兌、詐貸等4罪全成立 一審共判刑7年 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01ZjA3M1dLSHBxTWFnX2Rpa2VIZEJSNWxlV0Z3V2Izdnl3TnhfTE1vUEFHZHFjNThIcUNIWnVzcE9maUhHZUE1X1NPVDAtWk5W0gFWQVVfeXFMUE8tQzN4Sl9GcW91b0RRN1lEZ2ZESmtTcVoyUmp6UTVwVmZPZEpsWUhWMkd4dENVdnZITEdFR0ZKVzZlUmdBd003TUdFLW5FMlpZWEJ5S1E?oc=5",
+            "date": "2026-08-11",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              },
+              {
+                "cat": "銀行犯罪",
+                "sub": "詐欺銀行",
+                "label": "銀行·詐欺銀行",
+                "ci": 1
+              }
+            ]
+          },
+          {
+            "title": "陸配涉地下匯兌、收陸資站台候選人 反滲透法等判刑7 年 - 匯流新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tTTZlZ1pXRENjX3NpNHVlVjZENVR5QlJxd2gxTjBndnAyWmx2ai1aaElPX1YtLUNnWllOZVhoRWFfRlJUYmpmTC1B?oc=5",
+            "date": "2026-08-11",
+            "meta": "匯流新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "涉受陸官員指示為柯文哲站台造勢！徐春鶯還詐貸、搞地下匯兌 判決出爐 - 知新聞",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUGJ1WkY4RzM3UTFjWkVEanVzUzVYRlZwZUcwX3FBb3NZRnI4MHhHalQtdE9RRE9qMDlIYl8zakxUZ3IxZGlnWlY4X3BuRWNVMXRYMHdneFRNZ1VRM1lta3EwS0VlWF9XNV9RSk5wNA?oc=5",
+            "date": "2026-08-11",
+            "meta": "知新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              },
+              {
+                "cat": "銀行犯罪",
+                "sub": "詐欺銀行",
+                "label": "銀行·詐欺銀行",
+                "ci": 1
+              }
+            ]
+          },
+          {
+            "title": "中配徐春鶯涉反滲透法、地下匯兌、詐貸！ 一審判刑7年 - 華視新聞網",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiVGppMU0taFdNVWliTUFhYTVqZ1QwNVEtLWN1YkFaUXZ2eFFuM2lOaS1HREdqT2dKQVA5MTdZRGFzbW50NC1temY5eFQwV2t1S290SUxLenF4Sk1aaTBUV0s5NWt1MVNBTGh5aTVFbmw?oc=5",
+            "date": "2026-08-11",
+            "meta": "華視新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "地下匯兌",
+                "label": "金融秩序·地下匯兌",
+                "ci": 0
+              },
+              {
+                "cat": "銀行犯罪",
+                "sub": "詐欺銀行",
+                "label": "銀行·詐欺銀行",
+                "ci": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "📋 法規・修法",
+        "items": [
+          {
+            "title": "討論牆 | 政院通過《洗錢防制法》部分條文修正草案 強化犯罪打擊及金融秩序維護 - LINE TODAY",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odlVmQ3JQMHRIMVk0dlZtYW85ZDFwbUNDSG1jM1RtUGlDOTFwdU9pbnZnanhpZXhMdTFRUHI4MjItRU51MDh4Vklmb3JGaEI1V2UwS25hVG9Xc1owQ3VZYlNsOE4?oc=5",
+            "date": "2026-08-14",
+            "meta": "LINE TODAY",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-14",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "政院通過《洗錢防制法》部分條文修正草案 增虛擬資產、第三方支付規範 - taiwanhot.net",
+            "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOWjVhT2txX1RvODVhTDB0WXVDSzhWT0FiMnN3aGZGNDViMkVoMktiUXVPSWFDbXAyYTlVVm5GanRRU3ptZ2xuVS14N2hwdkpDVldVSG5XTDdDWnREaGlRSktpN2VwSDJud3JXVkM4QWMyU1pVUEpNdlVnWEJuNnpWQklnTmFNNU5odkYtN1p4LUZVeUlPdDBWWThBX1kzcE9FVjZIVXpUQUFJU1ZvMUg4THltaE9ySEZ3cnh0R1lDS05MTjZ4ZkRkdTdkM3ppQ3pLVElHNVpLaFllM2F6Ymo5Y3U5WlZ4VHJNOGpsWm42THk2RXFaaFczY25pMUc1cEhubHNOTlUyYk9tVERjdWFrMTdBOEZQRzdvWlVhb3dkRmpuYVlKR1VMSXlNZ2dvREh5TFVlUlh3aGtQdUxKX1hSYW1iaFoyTHBiZ3IzY0czT2hZbWRhdV9QaXZlV0tSS0lLNG03LTBYY2ktSmxsQzYxM1BvNEtCR0VTU1BPSjBaRTJOM0VZcnExVlZiV2xlcERFQ2N1eWE5dzB3YlV2R1JpNWVkb1BlQVV4UkZKRm1MaTJHNS1oOEVsSUp4WmNZSXJoaG1henU1VFF1Sk9yM1BjYW5R?oc=5",
+            "date": "2026-08-13",
+            "meta": "taiwanhot.net",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              },
+              {
+                "cat": "虛擬資產犯罪",
+                "sub": "虛擬貨幣洗錢",
+                "label": "虛擬資產·虛擬貨幣洗錢",
+                "ci": 4
+              }
+            ]
+          },
+          {
+            "title": "打擊虛幣與第三方支付黑數！政院拍板洗錢防制法3大修正 洗錢逾1億最重判10年 - news.cnyes.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MkpBVUhvdzFJSVMxNzFWcmw1RHNXUzRqS2JzZG5VY1lMYVlQQXB4cmp2S3hBVlp2cHc5YXJkMVFBWEhkOThpOXdlMnVNUVE?oc=5",
+            "date": "2026-08-13",
+            "meta": "news.cnyes.com",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "政院通過洗錢防制法修正草案 增虛擬資產與第三方支付規範 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNVUU5X3Q5SlQ0aFhpcTRhS2ViUXZqRWo4ZG1xUWxSYW0wZThJQzJDSzlQWTRPenN6ZXZZSXcyMF9VRXBEV0pMdGxyT3Z2UjBFdjJZNVdyVDJmempSQUR6NUFHamkxNVUwY210VEdDX1NGc0RlWmMtWHFRNEZrV1RYV2t1ODlXczk0Z0FjUjNFNmlZQnBZWHBrbzRMdHJMOUxkOG82NWxaLVNoUTdKeXNOd0U0VkI4eTJHUlJva0M2WDNDNmNfeHNOcjZLeE5yUlpod042ZmxRMDJLVzlkZUFmZERXMGxXYUVlYlVaRVk2NmJzSUQ5ekhxTDdvOENPVFJUalZkdVFmbGM3bHAwZnFkWkcxSklUVExYVGw5eHZuYVRNQmxPUHNnLWRFLUF3YmZtMkVkTkxEbzd4RFJxVHp5bl9QV1BLdFAtX2VhOHlwUklZMGJFLTBfMnJTVDVkb0hLS0s4UElvUldFWjY3UWo4S09nNzNVNVpYTUkzdVZHSlM2bmFpUVl0LW9zSFA?oc=5",
+            "date": "2026-08-13",
+            "meta": "Yahoo新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              },
+              {
+                "cat": "虛擬資產犯罪",
+                "sub": "虛擬貨幣洗錢",
+                "label": "虛擬資產·虛擬貨幣洗錢",
+                "ci": 4
+              }
+            ]
+          },
+          {
+            "title": "最重判10年！打擊虛幣與第三方支付黑數 政院拍板修正「洗錢防制法」 - 自由時報",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMDd5RmswVFFpT0FkQ2RBOU5RdVZEc3JXOXh3WUJxOTRMbFRrNEZzNS16RGl2Z2ROX1ZnYzdRRjk1ME9ReEI2NXVOZ29SdllhUm9QUjVIa3F0R2xuMjNHVGQ3NnF3X1dKOHc?oc=5",
+            "date": "2026-08-13",
+            "meta": "自由時報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "快新聞／行政院出手！通過《洗錢防制法》修正草案 祭重拳全面堵漏洞 - 民視新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFBXTEpjWHd0T1kybFpMXzhScjB5SFJkeXN0WHFESW9WeG5iM2Q1Wm5PenJoQ3ZPSzMtSjlOQmxLYVpybzF2Rkk2TnRyMzNuZ05KRXlmdnNCOWcyU2ZPaQ?oc=5",
+            "date": "2026-08-13",
+            "meta": "民視新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "🇺🇸 美國執法 DOJ／SEC／CFTC",
+        "items": [
+          {
+            "title": "North Carolina Man Sentenced for Cyber Extortion Scheme that Targeted International Technology Company in D.C.",
+            "url": "https://www.justice.gov/usao-dc/pr/north-carolina-man-sentenced-cyber-extortion-scheme-targeted-international-technology",
+            "date": "2026-08-13",
+            "meta": "DOJ 司法部",
+            "summary": "Cameron Curry, 27, of Charlotte, North Carolina, was sentenced today to 24 months in prison for carrying out an extensive cyber extortion scheme against a D.C.-based international technology company, announced U.S. Attor",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "Bergen County Man Sentenced to 24 Months’ Imprisonment for Covid-19 Relief Program Fraud",
+            "url": "https://www.justice.gov/usao-nj/pr/bergen-county-man-sentenced-24-months-imprisonment-covid-19-relief-program-fraud",
+            "date": "2026-08-13",
+            "meta": "DOJ 司法部",
+            "summary": "A Bergen County man, who orchestrated a scheme to fraudulently obtain approximately $670,292 in COVID-19 relief funding, was sentenced on August 12, 2026, to 24 months imprisonment.",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "Member of Maryland National Guard Pleads Guilty to Conspiracy to Commit Money Laundering",
+            "url": "https://www.justice.gov/usao-md/pr/member-maryland-national-guard-pleads-guilty-conspiracy-commit-money-laundering",
+            "date": "2026-08-13",
+            "meta": "DOJ 司法部",
+            "summary": "Greenbelt, Maryland – A member of the Maryland National Guard acknowledged his involvement in a money laundering scheme in federal court. This conspiracy laundered funds from at least 33 different victims. Alagborenepaka",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "Former Escrow Officer Sentenced to Prison for Bank Fraud",
+            "url": "https://www.justice.gov/usao-wdmo/pr/former-escrow-officer-sentenced-prison-bank-fraud",
+            "date": "2026-08-13",
+            "meta": "DOJ 司法部",
+            "summary": "Tracy L. Kellerstrass, 52, of Cameron, Mo., was sentenced in federal court for bank fraud in relation to an embezzlement scheme committed between December 2018 and February 2024.",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
+            "date": "2026-08-13",
+            "meta": "SEC 證管會",
+            "summary": "The Securities and Exchange Commission today charged three Toms River, New Jersey residents for their roles in an affinity investment fraud that raised approximately $47 million from more than 87 investors, who were prim",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "Chairman Selig Announces Agenda for August 20 Innovation Advisory Committee Meeting in Washington",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9283-26",
+            "date": "2026-08-13",
+            "meta": "CFTC 商品期貨",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13",
+            "tags": []
+          },
+          {
+            "title": "CFTC Releases Advisory on Self-Certification of Incentive Programs for Prediction Markets",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9282-26",
+            "date": "2026-08-12",
+            "meta": "CFTC 商品期貨",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12",
+            "tags": []
+          },
+          {
+            "title": "CFTC Exercises Emergency Authority to Ensure Market Stability",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+            "date": "2026-08-11",
+            "meta": "CFTC 商品期貨",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11",
+            "tags": []
+          }
+        ]
+      }
+    ],
+    "judgments": [],
+    "judgments_updated": "2026-08-13 17:55",
+    "judgments_note": "執行失敗：<urlopen error [Errno -3] Temporary failure in name resolution>",
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "假珠寶投資詐騙鎖定軍警 基隆地檢",
+          "title": "假珠寶投資詐騙鎖定軍警 基隆地檢署起訴2女 - cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVFQxdlVQWmJna1dUUFIxVHZzaUhiaDdaclU0WmNpeUlTNmtWNHV1Q1lUTDRucnZiTTBidlp3aXF0YWRzNGpyWi1tYWowT2Vla3dDODhfc3BTREEwQjBr?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_投資詐欺",
+          "label": "投資詐欺",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "徐春鶯涉介選、地下匯兌與詐貸求刑",
+          "title": "徐春鶯涉介選、地下匯兌與詐貸求刑21年6月 一審判刑7年 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ZkdDdjd1TzBaSjFRNzdwNlN2d2JhaDZGZXhPUUdZTzZkYWd2M0NDeXN2eVk2NnEtdlF4NkM3a3FDcUN3YWd1VUxSZko0T043ekJjSXN3RUNXQ05RZHpzN05PUm9tQzN4SkE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_地下匯兌",
+          "label": "地下匯兌",
+          "group": "concept"
+        },
+        {
+          "id": "c_詐欺銀行",
+          "label": "詐欺銀行",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "徐春鶯涉犯反滲透法、地下匯兌、詐",
+          "title": "徐春鶯涉犯反滲透法、地下匯兌、詐貸等4罪全成立 一審共判刑7年 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01ZjA3M1dLSHBxTWFnX2Rpa2VIZEJSNWxlV0Z3V2Izdnl3TnhfTE1vUEFHZHFjNThIcUNIWnVzcE9maUhHZUE1X1NPVDAtWk5W0gFWQVVfeXFMUE8tQzN4Sl9GcW91b0RRN1lEZ2ZESmtTcVoyUmp6UTVwVmZPZEpsWUhWMkd4dENVdnZITEdFR0ZKVzZlUmdBd003TUdFLW5FMlpZWEJ5S1E?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "陸配涉地下匯兌、收陸資站台候選人",
+          "title": "陸配涉地下匯兌、收陸資站台候選人 反滲透法等判刑7 年 - 匯流新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tTTZlZ1pXRENjX3NpNHVlVjZENVR5QlJxd2gxTjBndnAyWmx2ai1aaElPX1YtLUNnWllOZVhoRWFfRlJUYmpmTC1B?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "涉受陸官員指示為柯文哲站台造勢！",
+          "title": "涉受陸官員指示為柯文哲站台造勢！徐春鶯還詐貸、搞地下匯兌 判決出爐 - 知新聞",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUGJ1WkY4RzM3UTFjWkVEanVzUzVYRlZwZUcwX3FBb3NZRnI4MHhHalQtdE9RRE9qMDlIYl8zakxUZ3IxZGlnWlY4X3BuRWNVMXRYMHdneFRNZ1VRM1lta3EwS0VlWF9XNV9RSk5wNA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "中配徐春鶯涉反滲透法、地下匯兌、",
+          "title": "中配徐春鶯涉反滲透法、地下匯兌、詐貸！ 一審判刑7年 - 華視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiVGppMU0taFdNVWliTUFhYTVqZ1QwNVEtLWN1YkFaUXZ2eFFuM2lOaS1HREdqT2dKQVA5MTdZRGFzbW50NC1temY5eFQwV2t1S290SUxLenF4Sk1aaTBUV0s5NWt1MVNBTGh5aTVFbmw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "討論牆 | 政院通過《洗錢防制法",
+          "title": "討論牆 | 政院通過《洗錢防制法》部分條文修正草案 強化犯罪打擊及金融秩序維護 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odlVmQ3JQMHRIMVk0dlZtYW85ZDFwbUNDSG1jM1RtUGlDOTFwdU9pbnZnanhpZXhMdTFRUHI4MjItRU51MDh4Vklmb3JGaEI1V2UwS25hVG9Xc1owQ3VZYlNsOE4?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_洗錢",
+          "label": "洗錢",
+          "group": "concept"
+        },
+        {
+          "id": "i7",
+          "label": "政院通過《洗錢防制法》部分條文修",
+          "title": "政院通過《洗錢防制法》部分條文修正草案 增虛擬資產、第三方支付規範 - taiwanhot.net",
+          "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOWjVhT2txX1RvODVhTDB0WXVDSzhWT0FiMnN3aGZGNDViMkVoMktiUXVPSWFDbXAyYTlVVm5GanRRU3ptZ2xuVS14N2hwdkpDVldVSG5XTDdDWnREaGlRSktpN2VwSDJud3JXVkM4QWMyU1pVUEpNdlVnWEJuNnpWQklnTmFNNU5odkYtN1p4LUZVeUlPdDBWWThBX1kzcE9FVjZIVXpUQUFJU1ZvMUg4THltaE9ySEZ3cnh0R1lDS05MTjZ4ZkRkdTdkM3ppQ3pLVElHNVpLaFllM2F6Ymo5Y3U5WlZ4VHJNOGpsWm42THk2RXFaaFczY25pMUc1cEhubHNOTlUyYk9tVERjdWFrMTdBOEZQRzdvWlVhb3dkRmpuYVlKR1VMSXlNZ2dvREh5TFVlUlh3aGtQdUxKX1hSYW1iaFoyTHBiZ3IzY0czT2hZbWRhdV9QaXZlV0tSS0lLNG03LTBYY2ktSmxsQzYxM1BvNEtCR0VTU1BPSjBaRTJOM0VZcnExVlZiV2xlcERFQ2N1eWE5dzB3YlV2R1JpNWVkb1BlQVV4UkZKRm1MaTJHNS1oOEVsSUp4WmNZSXJoaG1henU1VFF1Sk9yM1BjYW5R?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_虛擬貨幣洗錢",
+          "label": "虛擬貨幣洗錢",
+          "group": "concept"
+        },
+        {
+          "id": "i8",
+          "label": "打擊虛幣與第三方支付黑數！政院拍",
+          "title": "打擊虛幣與第三方支付黑數！政院拍板洗錢防制法3大修正 洗錢逾1億最重判10年 - news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MkpBVUhvdzFJSVMxNzFWcmw1RHNXUzRqS2JzZG5VY1lMYVlQQXB4cmp2S3hBVlp2cHc5YXJkMVFBWEhkOThpOXdlMnVNUVE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "政院通過洗錢防制法修正草案 增虛",
+          "title": "政院通過洗錢防制法修正草案 增虛擬資產與第三方支付規範 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNVUU5X3Q5SlQ0aFhpcTRhS2ViUXZqRWo4ZG1xUWxSYW0wZThJQzJDSzlQWTRPenN6ZXZZSXcyMF9VRXBEV0pMdGxyT3Z2UjBFdjJZNVdyVDJmempSQUR6NUFHamkxNVUwY210VEdDX1NGc0RlWmMtWHFRNEZrV1RYV2t1ODlXczk0Z0FjUjNFNmlZQnBZWHBrbzRMdHJMOUxkOG82NWxaLVNoUTdKeXNOd0U0VkI4eTJHUlJva0M2WDNDNmNfeHNOcjZLeE5yUlpod042ZmxRMDJLVzlkZUFmZERXMGxXYUVlYlVaRVk2NmJzSUQ5ekhxTDdvOENPVFJUalZkdVFmbGM3bHAwZnFkWkcxSklUVExYVGw5eHZuYVRNQmxPUHNnLWRFLUF3YmZtMkVkTkxEbzd4RFJxVHp5bl9QV1BLdFAtX2VhOHlwUklZMGJFLTBfMnJTVDVkb0hLS0s4UElvUldFWjY3UWo4S09nNzNVNVpYTUkzdVZHSlM2bmFpUVl0LW9zSFA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i10",
+          "label": "最重判10年！打擊虛幣與第三方支",
+          "title": "最重判10年！打擊虛幣與第三方支付黑數 政院拍板修正「洗錢防制法」 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMDd5RmswVFFpT0FkQ2RBOU5RdVZEc3JXOXh3WUJxOTRMbFRrNEZzNS16RGl2Z2ROX1ZnYzdRRjk1ME9ReEI2NXVOZ29SdllhUm9QUjVIa3F0R2xuMjNHVGQ3NnF3X1dKOHc?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "快新聞／行政院出手！通過《洗錢防",
+          "title": "快新聞／行政院出手！通過《洗錢防制法》修正草案 祭重拳全面堵漏洞 - 民視新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFBXTEpjWHd0T1kybFpMXzhScjB5SFJkeXN0WHFESW9WeG5iM2Q1Wm5PenJoQ3ZPSzMtSjlOQmxLYVpybzF2Rkk2TnRyMzNuZ05KRXlmdnNCOWcyU2ZPaQ?oc=5",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_投資詐欺"
+        },
+        {
+          "from": "i1",
+          "to": "c_地下匯兌"
+        },
+        {
+          "from": "i1",
+          "to": "c_詐欺銀行"
+        },
+        {
+          "from": "i2",
+          "to": "c_地下匯兌"
+        },
+        {
+          "from": "i2",
+          "to": "c_詐欺銀行"
+        },
+        {
+          "from": "i3",
+          "to": "c_地下匯兌"
+        },
+        {
+          "from": "i4",
+          "to": "c_地下匯兌"
+        },
+        {
+          "from": "i4",
+          "to": "c_詐欺銀行"
+        },
+        {
+          "from": "i5",
+          "to": "c_地下匯兌"
+        },
+        {
+          "from": "i5",
+          "to": "c_詐欺銀行"
+        },
+        {
+          "from": "i6",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i7",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i7",
+          "to": "c_虛擬貨幣洗錢"
+        },
+        {
+          "from": "i8",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i9",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i9",
+          "to": "c_虛擬貨幣洗錢"
+        },
+        {
+          "from": "i10",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i11",
+          "to": "c_洗錢"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tw-ip",
+    "name": "台灣智財（著作權／商標／專利）",
+    "desc": "三大領域各自蒐集（判決・侵權・修法）",
+    "area": "台灣",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "© 著作權",
+        "items": [
+          {
+            "title": "很像，就是抄襲嗎？著作權法認定侵權2關鍵 - 經理人",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlU2ZZdVFMTV9IUWxjQmdlZEtxQ1labnpGVDhRRk5teU1oWXUyekIyMHdXbkd2emZSRnI0b0ZONEo3Y19kcnJIcV9YVThHdXh2ZjE1QVZMcUcwRVhGa1RJ?oc=5",
+            "date": "2026-08-11",
+            "meta": "經理人",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "從早安圖索賠到AI搜圖：台灣著作權制度是否需要「善意侵權通知」機制？ - TNL The News Lens 關鍵評論網",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBocnNsSjJ4d19NYmx1dlhMbVhmbTJWTXpLM3JsdGwzYlI5eXhSQWNnZDEwZmNvX1ZxR1RkNGNHNWFYb3lQQXgtUk5CYnRKTTVXTDVIcg?oc=5",
+            "date": "2026-08-03",
+            "meta": "TNL The News Lens 關鍵評論網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-03"
+          },
+          {
+            "title": "AI音樂侵權首例 Suno遭德國法院判定侵犯著作權 - 放言Fount Media",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUcjZaeWhzRlFCSmtKRS0xT3cwbkhUZmZTQldtU01VajgwMkNUZHMwOG51T0l0WnZEbTVkSk9DczdwWjdzSktKeXBDdFMtaXRFa2c?oc=5",
+            "date": "2026-08-01",
+            "meta": "放言Fount Media",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-01"
+          },
+          {
+            "title": "AI作曲軟體Suno德國敗訴 歐洲音樂版權確立新原則 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWhCblNqUC01d2U3UnlBVFozLUJMMDRIRDJQUTNIalhUTU5mdTE2YTFEUWE5Q1NmXzBTQlMzbTZVNzBSeXZaZEtvakNzTmEtRjgyYlZNeGM2ZDhHdHdyMUZRbU16LUpSekxRdldmVGtmQmNjLXJiTDRuR1RsanF5TlZqSWZrc0ltVnR1Mw?oc=5",
+            "date": "2026-08-01",
+            "meta": "PChome Online 新聞",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-01"
+          },
+          {
+            "title": "Anthropic 以史上最高 15 億美元和解著作權訴訟：但作者與出版社不覺得贏了 - 動區動趨",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblpiOGRUNE9jY2hxZVpWSU0tQTJpSmhoUnlkb2p6cWNSVFpnY3VObHZtUzZBcjEzSlMxWW83V2V2ZVVHQUxpNW1LWTFUdDBFOHltZXpZY3d3aTVBemQzZFQ1VGtkdGFSTHMxMDgxdjM2S1BtQ1lCdGE5N2taSW9VUkl4eDB5djR5SGlYaDktS24yLVdsMXdua2J0VkZIM3pySlVKRk5UMUtlZk0?oc=5",
+            "date": "2026-07-21",
+            "meta": "動區動趨",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-21"
+          },
+          {
+            "title": "Anthropic以15億美元和解AI著作權訴訟，創史上最大規模 - BigGo 財經",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CREx1U0dDbnI3Y2tPMnJXbDdENHBBUXF1OUp2eGZVYXRhR090RzkwM21WSkQtT1dtYTZEejFSNmJKTEF4V2k3dmY5TXJtOWR6M1A4MlB5Mm1VcERXUkhnYWJZQi14c3RBRXI2VEtyeGs1WHppQVdOelZ3?oc=5",
+            "date": "2026-07-21",
+            "meta": "BigGo 財經",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-21"
+          }
+        ]
+      },
+      {
+        "label": "™ 商標",
+        "items": [
+          {
+            "title": "廣西山寨奶茶店仿冒「霸王茶姬」商標裝潢 法院判賠35萬元 - Singtaousa",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkt6N0lvRkZ4c1RMNF9uanhmdWxzU2ViTm9PNmNJSkM1Z1I5OERiVlBFWHNUd0huU0dhRV9aVlFRVUZlN1ZTZ1VIa1k2WkxuaDhiR1hMX1RqV2FMT0pKV2Vta2dOQTA5ZElFRnlxY3NINzJFS3JQVDVpRUgweDVkNHV3TEI0T0pqUlgzcU93cWNqakE0OFY4?oc=5",
+            "date": "2026-08-10",
+            "meta": "Singtaousa",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "商標侵權 珠寶Tiffany提告陸企衛生棉Alffany - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWFBrNGJ1VXVKN1YwSDhGel9XVHlKWjFmaXR6TXU4elNFdFdHNGQyWF9SV1hGdmxEVnBuNkk4ZFRUay04OWxnXzl4OFFrYmdI?oc=5",
+            "date": "2026-07-19",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-19"
+          },
+          {
+            "title": "尋求商業法律顧問珊騰天下助企業防商標侵權 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQYU51TzFWLXlKNVA5Q0tmUW1kaC03aVh2S3FyRDJlMzFpMHhIc3dfOHNkWXBnYUVpMFRFLThIRko1aDBMNlBzdHZTVW5OLUlsZnRraV9laWt4SmJnT0J3Mzl2S3JwUW14OGFZaEViRTdiSkxUUFBEcnYwNWNYazBtc3lPaHZSYThSWUYwaldoZEJNcjUwWi03d0xmOGFJV1NybUNnMmRkc1d2WEd3cjZPN1JlUkhVTFdMYzBrUEh1Vm0xMDB4RXFrd3RZZmgxSWVjZUlCd1QyY29BbTltQkxRSVJsd0J1N1lacnVJSEFEZzd0N2ZnR3JIM0J6OW43NERkUFUxemdNTlo5TXpBYTZ1ZXMxbkNTZi1Ub015ZjUxYUhVZWxnSTlGNnhwanFhYXFnV0d5YWxrSU1ad1dQUFRiYkpOVQ?oc=5",
+            "date": "2026-07-17",
+            "meta": "Yahoo新聞",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-17"
+          },
+          {
+            "title": "抄襲LV四葉花慘了！中國手搖飲商標侵權 法院判賠4845萬元 - 自由時報",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YYTRBNllaZjNfNVRCTzNoS0pCd1IteWFFekxWMGFoQnlEX0Z0Nmw4WUZFOTFNZzR4Qld4a3BrcnFNbkV4Z3FBTGV3eUxoNVl4V2dFbUx6dlVqMUVOQ0xudDJRQ1dtd9IBa0FVX3lxTFBwUVMybmZydnFZWUpXcFhoREZSN0dBMF9IRXNKNXFjVngza3l6NzIzWU9wenJGejBsY3ZpS3ZFYTNpWHhFcWxVZmd0eVV2RUs0UmQtSGlERzdFdjB2VEpjd1lOZTduc2dQc0Y4?oc=5",
+            "date": "2026-07-03",
+            "meta": "自由時報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-03"
+          },
+          {
+            "title": "【北美智權報 404期】燒王船燒出商標侵權疑問？ | 16 | 侵權訴訟, 商標要聞, 要聞 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92YlZEY0NoSW1CeUE5eUVvbkQ1SlhNakhwaUM0VmdqR1VfWTIwcjNGNFZWZFgzdDFjaU5tRlVPZTZ0c3VNc2VmVw?oc=5",
+            "date": "2026-05-16",
+            "meta": "北美智權",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-05-16"
+          },
+          {
+            "title": "Zoom遭日企控撞名侵權東京法院判賠1.8億日圓| 國際 - cna.com.tw",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bFJIVzVoTk03RXRENUxjTUVidEx4R3pqUjlpV3liM21ZNnZmSGMwOVVVcEF2MVlGVWtma3FOblBlS0JIcGlNY0VQYlNOdXZVZFNpTk4wYUoxSEM1blpN?oc=5",
+            "date": "2026-04-25",
+            "meta": "cna.com.tw",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-25"
+          }
+        ]
+      },
+      {
+        "label": "⚙ 專利",
+        "items": [
+          {
+            "title": "Angelaligner 將就中國法院有關前臼齒拔除方案的判決提出上訴，客戶不受影響 - PChome Online 新聞",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODZQWk9rRTFyY2d6VjlmbVZwaGdNWlpHTXRLaklRQWZkY21lcjI1cFBpamJFM1ZmMzE2QmlzVUM1WEdTbXI4ZV90MXRrSXB2MnFVemlJR2Y3YTdkUWFyQW1GM0xRakNCNUJjU1AxLVcyZHBTdTN5TzE5MjZ3d0JFNDJrVUd0NXNJRlFF?oc=5",
+            "date": "2026-08-13",
+            "meta": "PChome Online 新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "華碩陷Wi-Fi專利爭議 美國市場面臨潛在進口禁令風險 - 商傳媒",
+            "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUV9jQmNKN3FUYmtod2FJVEF1LWtrOWFUZE85MS1Sd1h0WHZ0WlJnQUViVVdjRXRwRGkyWF9SSk12Q3lxLVlpTDcxWnFqblZQUTg0eEpFaDFrQ2ZlV3l1UlNmM19pelN1c09HRG1kcktIaVVReml3Tl9GeUl2NTR4dnZkMHRIVFJpN0pNZ01ZdnJFcjJPSm5CcjJ1TmhsOURYZ1BlYVp5aEFoVUxKMi1sX2ZSeTdsVXNQZDhIaXZvenh6LWlpWld4ZGJhaTBQc2lvSXFnUkQtQnF1ZVNyMUVwbFNlNHpRajVxRmJjdml3TzJrQUtPbGJ4c1FRUy1wQjBDTk00TVlxbWdnQmptNDVIUDJPMWwwTlAySzY5cXp1eUtlV2hERUgwN3EyQXRVYlZSMGtDY2s1MVhDUTRXb3FFNUlHQlNIRlBEa3FUZEFRazhWN0ZQVjRxOHZCbmpoUFpnbnp4S1NMU05QLV9oQXc?oc=5",
+            "date": "2026-08-13",
+            "meta": "商傳媒",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "隱形牙套專利戰！愛齊科技在中國告贏時代天使獲賠千萬 | 民視新聞網 - LINE TODAY",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CNEg4YU9ReWxfNkx2SUhuWXFYOTRrMEt0TnFZMFN6QmpYTi1za0JBeDlwSTlqNzVYOTVYbGRtQW9ZQ0FuU0dXc2pfWm1aNHhhb0QwZGRB?oc=5",
+            "date": "2026-08-12",
+            "meta": "LINE TODAY",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Netlist股價飆升14.5%，對美光等公司提起ITC專利侵權訴訟 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbnF3emQ0MXRHZzBZTVgxZ1FDY2ZiZGNfajFIbkw2dGp5ZmMzVG96ZUd0YnFFUXFmeEtIMk11Z2F4bGdTT1BaMjU3TE1MeW15aEJGSU56bHFpQTlMUl9laWlHNENIVTdTbGduV1hRTXhmOVgxTU1r?oc=5",
+            "date": "2026-08-12",
+            "meta": "Investing.com 香港 - 股市報價& 財經新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "GaN 專利戰升溫！納微反告瑞薩侵權，雙方不到一個月互告 - TechNews 科技新報",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGRKbXdyOWtpMHBjYVZuOW9qazgyZVFCajZHZ2pBaE9QaTBYd1d0WkZzZXNVU3VDRFEwM0J2d1ZDRWtYRnhzS0JMRmlpUDhsUDJOb0JvRmpJOHZRVkt1YWFBcGNWdTJmN1lORDRGeUZTTHdsSGpCYnlXeFYzcm9adWkwY1o1Q0RqWGp6em90MnNBeWhCQjZubUpzSlN2ck5tUTRJMG5hRThUdV9vUExuLWlXTE9NejkzSEFhdEZDUQ?oc=5",
+            "date": "2026-08-11",
+            "meta": "TechNews 科技新報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "億光在美控告日亞化 提起LED專利侵權訴訟 - news.cnyes.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82amtLbzZNSFpFLVUzR0V3Z1RvLXBaQl9uaHU5S0YtblRVUDFibERoR3dkY3dUMWJEU3NwQ1JBcmRFa3kyVDhRYVBlSHdIYmc?oc=5",
+            "date": "2026-08-04",
+            "meta": "news.cnyes.com",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-04"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "很像，就是抄襲嗎？著作權法認定侵",
+          "title": "很像，就是抄襲嗎？著作權法認定侵權2關鍵 - 經理人",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlU2ZZdVFMTV9IUWxjQmdlZEtxQ1labnpGVDhRRk5teU1oWXUyekIyMHdXbkd2emZSRnI0b0ZONEo3Y19kcnJIcV9YVThHdXh2ZjE1QVZMcUcwRVhGa1RJ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "c_侵權",
+          "label": "侵權",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "從早安圖索賠到AI搜圖：台灣著作",
+          "title": "從早安圖索賠到AI搜圖：台灣著作權制度是否需要「善意侵權通知」機制？ - TNL The News Lens 關鍵評論網",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBocnNsSjJ4d19NYmx1dlhMbVhmbTJWTXpLM3JsdGwzYlI5eXhSQWNnZDEwZmNvX1ZxR1RkNGNHNWFYb3lQQXgtUk5CYnRKTTVXTDVIcg?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i2",
+          "label": "AI音樂侵權首例 Suno遭德國",
+          "title": "AI音樂侵權首例 Suno遭德國法院判定侵犯著作權 - 放言Fount Media",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUcjZaeWhzRlFCSmtKRS0xT3cwbkhUZmZTQldtU01VajgwMkNUZHMwOG51T0l0WnZEbTVkSk9DczdwWjdzSktKeXBDdFMtaXRFa2c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i4",
+          "label": "Anthropic 以史上最高 ",
+          "title": "Anthropic 以史上最高 15 億美元和解著作權訴訟：但作者與出版社不覺得贏了 - 動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblpiOGRUNE9jY2hxZVpWSU0tQTJpSmhoUnlkb2p6cWNSVFpnY3VObHZtUzZBcjEzSlMxWW83V2V2ZVVHQUxpNW1LWTFUdDBFOHltZXpZY3d3aTVBemQzZFQ1VGtkdGFSTHMxMDgxdjM2S1BtQ1lCdGE5N2taSW9VUkl4eDB5djR5SGlYaDktS24yLVdsMXdua2J0VkZIM3pySlVKRk5UMUtlZk0?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "Anthropic以15億美元和",
+          "title": "Anthropic以15億美元和解AI著作權訴訟，創史上最大規模 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CREx1U0dDbnI3Y2tPMnJXbDdENHBBUXF1OUp2eGZVYXRhR090RzkwM21WSkQtT1dtYTZEejFSNmJKTEF4V2k3dmY5TXJtOWR6M1A4MlB5Mm1VcERXUkhnYWJZQi14c3RBRXI2VEtyeGs1WHppQVdOelZ3?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "廣西山寨奶茶店仿冒「霸王茶姬」商",
+          "title": "廣西山寨奶茶店仿冒「霸王茶姬」商標裝潢 法院判賠35萬元 - Singtaousa",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkt6N0lvRkZ4c1RMNF9uanhmdWxzU2ViTm9PNmNJSkM1Z1I5OERiVlBFWHNUd0huU0dhRV9aVlFRVUZlN1ZTZ1VIa1k2WkxuaDhiR1hMX1RqV2FMT0pKV2Vta2dOQTA5ZElFRnlxY3NINzJFS3JQVDVpRUgweDVkNHV3TEI0T0pqUlgzcU93cWNqakE0OFY4?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_商標",
+          "label": "商標",
+          "group": "concept"
+        },
+        {
+          "id": "i7",
+          "label": "商標侵權 珠寶Tiffany提告",
+          "title": "商標侵權 珠寶Tiffany提告陸企衛生棉Alffany - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWFBrNGJ1VXVKN1YwSDhGel9XVHlKWjFmaXR6TXU4elNFdFdHNGQyWF9SV1hGdmxEVnBuNkk4ZFRUay04OWxnXzl4OFFrYmdI?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "尋求商業法律顧問珊騰天下助企業防",
+          "title": "尋求商業法律顧問珊騰天下助企業防商標侵權 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQYU51TzFWLXlKNVA5Q0tmUW1kaC03aVh2S3FyRDJlMzFpMHhIc3dfOHNkWXBnYUVpMFRFLThIRko1aDBMNlBzdHZTVW5OLUlsZnRraV9laWt4SmJnT0J3Mzl2S3JwUW14OGFZaEViRTdiSkxUUFBEcnYwNWNYazBtc3lPaHZSYThSWUYwaldoZEJNcjUwWi03d0xmOGFJV1NybUNnMmRkc1d2WEd3cjZPN1JlUkhVTFdMYzBrUEh1Vm0xMDB4RXFrd3RZZmgxSWVjZUlCd1QyY29BbTltQkxRSVJsd0J1N1lacnVJSEFEZzd0N2ZnR3JIM0J6OW43NERkUFUxemdNTlo5TXpBYTZ1ZXMxbkNTZi1Ub015ZjUxYUhVZWxnSTlGNnhwanFhYXFnV0d5YWxrSU1ad1dQUFRiYkpOVQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "抄襲LV四葉花慘了！中國手搖飲商",
+          "title": "抄襲LV四葉花慘了！中國手搖飲商標侵權 法院判賠4845萬元 - 自由時報",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YYTRBNllaZjNfNVRCTzNoS0pCd1IteWFFekxWMGFoQnlEX0Z0Nmw4WUZFOTFNZzR4Qld4a3BrcnFNbkV4Z3FBTGV3eUxoNVl4V2dFbUx6dlVqMUVOQ0xudDJRQ1dtd9IBa0FVX3lxTFBwUVMybmZydnFZWUpXcFhoREZSN0dBMF9IRXNKNXFjVngza3l6NzIzWU9wenJGejBsY3ZpS3ZFYTNpWHhFcWxVZmd0eVV2RUs0UmQtSGlERzdFdjB2VEpjd1lOZTduc2dQc0Y4?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i10",
+          "label": "【北美智權報 404期】燒王船燒",
+          "title": "【北美智權報 404期】燒王船燒出商標侵權疑問？ | 16 | 侵權訴訟, 商標要聞, 要聞 - 北美智權",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92YlZEY0NoSW1CeUE5eUVvbkQ1SlhNakhwaUM0VmdqR1VfWTIwcjNGNFZWZFgzdDFjaU5tRlVPZTZ0c3VNc2VmVw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "Zoom遭日企控撞名侵權東京法院",
+          "title": "Zoom遭日企控撞名侵權東京法院判賠1.8億日圓| 國際 - cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51bFJIVzVoTk03RXRENUxjTUVidEx4R3pqUjlpV3liM21ZNnZmSGMwOVVVcEF2MVlGVWtma3FOblBlS0JIcGlNY0VQYlNOdXZVZFNpTk4wYUoxSEM1blpN?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "Angelaligner 將就中",
+          "title": "Angelaligner 將就中國法院有關前臼齒拔除方案的判決提出上訴，客戶不受影響 - PChome Online 新聞",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODZQWk9rRTFyY2d6VjlmbVZwaGdNWlpHTXRLaklRQWZkY21lcjI1cFBpamJFM1ZmMzE2QmlzVUM1WEdTbXI4ZV90MXRrSXB2MnFVemlJR2Y3YTdkUWFyQW1GM0xRakNCNUJjU1AxLVcyZHBTdTN5TzE5MjZ3d0JFNDJrVUd0NXNJRlFF?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "華碩陷Wi-Fi專利爭議 美國市",
+          "title": "華碩陷Wi-Fi專利爭議 美國市場面臨潛在進口禁令風險 - 商傳媒",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUV9jQmNKN3FUYmtod2FJVEF1LWtrOWFUZE85MS1Sd1h0WHZ0WlJnQUViVVdjRXRwRGkyWF9SSk12Q3lxLVlpTDcxWnFqblZQUTg0eEpFaDFrQ2ZlV3l1UlNmM19pelN1c09HRG1kcktIaVVReml3Tl9GeUl2NTR4dnZkMHRIVFJpN0pNZ01ZdnJFcjJPSm5CcjJ1TmhsOURYZ1BlYVp5aEFoVUxKMi1sX2ZSeTdsVXNQZDhIaXZvenh6LWlpWld4ZGJhaTBQc2lvSXFnUkQtQnF1ZVNyMUVwbFNlNHpRajVxRmJjdml3TzJrQUtPbGJ4c1FRUy1wQjBDTk00TVlxbWdnQmptNDVIUDJPMWwwTlAySzY5cXp1eUtlV2hERUgwN3EyQXRVYlZSMGtDY2s1MVhDUTRXb3FFNUlHQlNIRlBEa3FUZEFRazhWN0ZQVjRxOHZCbmpoUFpnbnp4S1NMU05QLV9oQXc?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "i14",
+          "label": "隱形牙套專利戰！愛齊科技在中國告",
+          "title": "隱形牙套專利戰！愛齊科技在中國告贏時代天使獲賠千萬 | 民視新聞網 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CNEg4YU9ReWxfNkx2SUhuWXFYOTRrMEt0TnFZMFN6QmpYTi1za0JBeDlwSTlqNzVYOTVYbGRtQW9ZQ0FuU0dXc2pfWm1aNHhhb0QwZGRB?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "Netlist股價飆升14.5%",
+          "title": "Netlist股價飆升14.5%，對美光等公司提起ITC專利侵權訴訟 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HbnF3emQ0MXRHZzBZTVgxZ1FDY2ZiZGNfajFIbkw2dGp5ZmMzVG96ZUd0YnFFUXFmeEtIMk11Z2F4bGdTT1BaMjU3TE1MeW15aEJGSU56bHFpQTlMUl9laWlHNENIVTdTbGduV1hRTXhmOVgxTU1r?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "GaN 專利戰升溫！納微反告瑞薩",
+          "title": "GaN 專利戰升溫！納微反告瑞薩侵權，雙方不到一個月互告 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGRKbXdyOWtpMHBjYVZuOW9qazgyZVFCajZHZ2pBaE9QaTBYd1d0WkZzZXNVU3VDRFEwM0J2d1ZDRWtYRnhzS0JMRmlpUDhsUDJOb0JvRmpJOHZRVkt1YWFBcGNWdTJmN1lORDRGeUZTTHdsSGpCYnlXeFYzcm9adWkwY1o1Q0RqWGp6em90MnNBeWhCQjZubUpzSlN2ck5tUTRJMG5hRThUdV9vUExuLWlXTE9NejkzSEFhdEZDUQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i17",
+          "label": "億光在美控告日亞化 提起LED專",
+          "title": "億光在美控告日亞化 提起LED專利侵權訴訟 - news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82amtLbzZNSFpFLVUzR0V3Z1RvLXBaQl9uaHU5S0YtblRVUDFibERoR3dkY3dUMWJEU3NwQ1JBcmRFa3kyVDhRYVBlSHdIYmc?oc=5",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i0",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i1",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i1",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i2",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i2",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i2",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i4",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i5",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i5",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i6",
+          "to": "c_商標"
+        },
+        {
+          "from": "i6",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i7",
+          "to": "c_商標"
+        },
+        {
+          "from": "i7",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i8",
+          "to": "c_商標"
+        },
+        {
+          "from": "i8",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i9",
+          "to": "c_商標"
+        },
+        {
+          "from": "i9",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i9",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i10",
+          "to": "c_商標"
+        },
+        {
+          "from": "i10",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i10",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i11",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i11",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i12",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i13",
+          "to": "c_專利"
+        },
+        {
+          "from": "i14",
+          "to": "c_專利"
+        },
+        {
+          "from": "i15",
+          "to": "c_專利"
+        },
+        {
+          "from": "i15",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i15",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i16",
+          "to": "c_專利"
+        },
+        {
+          "from": "i16",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i17",
+          "to": "c_專利"
+        },
+        {
+          "from": "i17",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i17",
+          "to": "c_訴訟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-ip",
+    "name": "AI 智財（著作權／商標／專利）",
+    "desc": "生成式 AI 對三大智財領域的衝擊（國際＋台灣）",
+    "area": "國際",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "© AI 著作權",
+        "items": [
+          {
+            "title": "AI Copyright and Governance: Can Machines Own Creative Work? - Mexico Business News",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREUyZ1NCX2ptQl9OcFdWT3R5OVQyYmZyZVdOdnRYZ3ViN2RyS0dIV2RMVFVfSDN0cUJzV19XWlkxQzdoUnNtUXdNU0pGOWctLXNrSW1qU2Vta2pZaTZpNTJWbUZSUERVN1pyOGs2Y2ViWmRrS2pEZlE0MFB2T051cVlQZ040bFdYT0gxUE1SSjJ4M3VsVThVUWtBbGdyRVdUUXJ4c2J5blYwX3FxTTY1R3B5OA?oc=5",
+            "date": "2026-08-13",
+            "meta": "Mexico Business News",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "China Issues Draft Regulations on AI Copyright Infringement - Sixth Tone",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjI5aUotVDhmbXBRNV9qNmlRTlhNTjZHNk1qVDk3czNrMXVXUmNmVHE1S1JyWUd2NFlpWHVfYm1zbHZmNnc5emNZWDNjLUFZNEUyS3lfQ1lYTTA4QkpLMlFXTHE3cnhCV29JR2NGOUZEUERxX1l0T004ZFFaUXFTeDFHd2ZhQkpJZUV4QW05T3J1WmZVVkowNWw3dUtLbUU?oc=5",
+            "date": "2026-08-12",
+            "meta": "Sixth Tone",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Zuckerberg Must Sit For Deposition In AI Copyright Suits - Law360",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVJXcDNfb1N0Z2Y1VnU3N3hoRWc0MUxMVnZOeFUtRm1Cb1d1TzZJQmRhWk1YakJOeXNCZDRuWHFfYkhaYzhOazhRbE1MNmlSVVJXZ2lGdXIyX0ViNkRGZHBvX3plRG9XcjczaHB0c2VtX2N6LXNWbnpQUi1KTEE3YnVtUk9ZOGQxWkNwOVJqdUZFTWdzOEUycXNiVnbSAVZBVV95cUxPVi1kRW9mMjdtZ09DcXpkXzRnSEFYSzFLUXpIMmp0eTN5Rnh5RVRvQ2VWaG1VWklTTU5hQTR6bHpabUdaV0dzLVdZZWRDOWJSb1VES3NwUQ?oc=5",
+            "date": "2026-08-12",
+            "meta": "Law360",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Meta Fails to Block Zuckerberg Deposition in AI, Copyright Suit - Bloomberg Law News",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVBvZnhsbUdld29SU1FvWGJDNEJTWUI2dXdJRkdMOUpud1lLNlJzS0x1NF9YU0lfUmlNVjBFRG4tQ1FBdkZVcHRCbDFSTzgweHJqVnpGX2RfVFIzUVNVOGp6Z0ZONmRDMFpUT3h6eVhuRGI5NmE1VFVvZUZCTjNGT3laNXNNZ3l1UDFWdVJVVUVTZ2g5SWwyQnhUUXFNUXBNZUs0?oc=5",
+            "date": "2026-08-11",
+            "meta": "Bloomberg Law News",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "SAG-AFTRA’s Jeffrey Bennett Discusses Generative AI, Copyright and Protecting Human Performance - SAG-AFTRA",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMm03OXdLUU5aNlE3Vzg2M1gydVFLUkpuMF9WblJLbUdidlBWMjNLNF9HX3hKendMWFQwSHc0WnU3Z19NQmZJbWF4ZHdmck54MjF1YURjZEhvUnNLYnpEX3BOXzBRcmk4VTNucm1JUjhMNnFyWHhpUlZFZDBwcmdUcnFSbjQyX1hNNDV3SUlpaS1Sd0diYjFFQ1g5ZUJtVmFEcEVrWHVsQTY0b0hiMmI4bV9XV2JJX2RYM3c?oc=5",
+            "date": "2026-08-10",
+            "meta": "SAG-AFTRA",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "AI音樂Suno日產700萬首歌，卻遭德國法院判侵權 - Meet創業小聚",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ZDREMWNUYUxGeXhkSXJOclZVdEphYktmVEtSY2tZTUF4aklhZm9oY0dfX21SRm5yWm9XQjM1Yk5WNlRZVW04RmlCdXlibktzUTYyY0xWNHM?oc=5",
+            "date": "2026-08-08",
+            "meta": "Meet創業小聚",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-08"
+          },
+          {
+            "title": "Axel Springer Lobbies on AI Copyright Protections - Legis1",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YTzlBQ29KWmFXUTA5UDFtX1JZUDhsQ3ZWU3h5U0hWQ3FHWldjWXdhZ1JHOWttRGkxNVFXMy0zYmRoQVU3cmRKNlp6V3ktMWkxa2RJTnBGb0hLdTBRS2lpdXU0emV2NFJ1SEJyd2VHcWRobmxKbHU5SlRR?oc=5",
+            "date": "2026-08-06",
+            "meta": "Legis1",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-06"
+          },
+          {
+            "title": "生成式AI 引用媒體資料須授權- 上市櫃 - 旺得富理財網",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43WDAxeTBrQWZhVVNwSmx3OTRVWUFiSDBEOUJ6RkoyYk1fNHJ5ZXJ4a2pIaER6cXRwVXg5ekN3YlVWZjNadk9sNFM1MGZQWjcyOVJmcF90aVotWjNUX1ZfMzU5NEt5UHhzMUE?oc=5",
+            "date": "2026-08-05",
+            "meta": "旺得富理財網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-05"
+          }
+        ]
+      },
+      {
+        "label": "™ AI 商標",
+        "items": [
+          {
+            "title": "Anthropic says an AI security startup's logo looks too much like its own - Axios",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNFNpaDFwbVZnTjhKcGNWQWpSd1hZV0ZNcEVXVjZlOUluRGg5cy1IZ0NSazdaLUV0c01WV1RWTkxSVHl5Z0FYYWdRTzBBbW9USFdlX3FuV0NfS3JmMGFXcGhseGttMlpRWTBYdWFIQkhURlUwZ09R?oc=5",
+            "date": "2026-07-21",
+            "meta": "Axios",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-21"
+          },
+          {
+            "title": "智慧局商標檢索增自動推薦功能提升申請便利性| 財經焦點| 產經 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRmtxTjBJWkRwbDhXdURPVEx0SWM4TVpuQlBFTFFBZjI4ejI5YTFDbXpjNWhac0dRQUJrSXZGd2xBUDdUVnYtaW9IckY0c3Ri?oc=5",
+            "date": "2026-07-13",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-13"
+          },
+          {
+            "title": "SS&C Advent sues software company Advent AI for trademark infringement - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblE0M0xOendLNlhaSTlGR3pXTzB1aFVrQ3ZkdnF4NW0tcGF6dGVPZUNPSVVaTHkxUUNtLVlQZTFobHdCMkRIMWRfaWVuejdvQ1o3UzNnMXk3NHNjLXRLbkplRFhmUjQ2cHcybk9EUEZ5M1BWNUVnMWF4dWh3T3hDSGtDOGhoWXA5U25IWW92emd2aE1Kc3c1RW5XalJnN3p3TzFkUHdTa0JlOVlYTVFXSl9lWjFpQ0ZVWF9fUjh3?oc=5",
+            "date": "2026-06-23",
+            "meta": "Reuters",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-23"
+          },
+          {
+            "title": "YouTube AI Lawsuit, Lionel Richie Trademark, Diddy Case Ruling & More Top Music Law News - Billboard",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3NBZEVIcnQyZjFVVUNNWjJtbFRPZll5NFJYNHlEMlhvOFNwMVFoUDF1bnZDSGR2YTV5dFdfUjJtN1h3MU5OMnRUcjlfQVlERV80Uy1mcE5EaHdfNG1pU3MteEZjYjA3VVF3UUp3eUt1bnJvZnpJQzA1eE1nRGpVbzlJYjJwOF9yWXQ3emdGaG5Udw?oc=5",
+            "date": "2026-06-16",
+            "meta": "Billboard",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-16"
+          },
+          {
+            "title": "Trademark Law Meets Generative AI: Key Takeaways from the Getty v. Stability AI Ruling (via Passle) - Baker Botts",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajBRZWpSZVZoT3d5dlk2WjRJSjB0UVhNR0U2eTNTVDZwbU5uR1ZwUWM4RHduWFNKZnhuSFBPemswdmNGUjlZTHp2Q2NVZGtCWFlMWEF3dDI1a0s0NWdDRUcwWTg0N2NwdEF2N3NDTWZxUTFVbHowWGtwUF92NXNiSVBHVy1sME54RDFwdXJ3THQzVGJvZVFZbUgxb3ozdC1hakxuajB6NjFZMFFtZ1VnOEExc3FxUHpVdXJsNzVPX1I?oc=5",
+            "date": "2026-06-15",
+            "meta": "Baker Botts",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-15"
+          },
+          {
+            "title": "防堵AI深偽威脅泰勒絲申請聲音肖像註冊商標| 娛樂 - cna.com.tw",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbFZTRDVfUlY0dHl3endORlZ1dzhaQXlveTd5RDZraV9QaHJVY3JQa3djbW45YmYtaHdNWFlRYUdueGotNDY4OU5NRENXaXJLYU1xM1RidEdWdVl5TWlR?oc=5",
+            "date": "2026-04-28",
+            "meta": "cna.com.tw",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-28"
+          },
+          {
+            "title": "泰勒絲註冊聲紋、肖像商標 防AI深偽侵害 - 公視新聞網PNN",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhT1F2QndzNGZONTVRUWx2LXI0NFFoRXdLMmZfMlFMc3VCUDFqQnRqUS00OURtX3JxTGlhWWpDTjdfVG9fWjJGS3luYUZWX1k?oc=5",
+            "date": "2026-04-28",
+            "meta": "公視新聞網PNN",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-28"
+          },
+          {
+            "title": "對抗AI深偽技術！泰勒絲註冊「聲紋與肖像」商標 擴大法律保護 - news.cnyes.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmZlVuYWxhQ1A4cmRHbExfRGNMNUM0c3hpYnVxRlZKd2VSSWM1dGhQWjBOY1RNME8yY3pBN2dvZzJQWmJlVjRCM2lhemVNZzA?oc=5",
+            "date": "2026-04-28",
+            "meta": "news.cnyes.com",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-04-28"
+          }
+        ]
+      },
+      {
+        "label": "⚙ AI 專利",
+        "items": [
+          {
+            "title": "點名「3大廠」靠技術攻城掠地！謝金河解碼「滑軌龍頭」登頂關鍵：怎麼都繞不過他的專利 - FTNN 新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBINmFYLXF4a2IxX2VmRmEzZmFVaDdWOXFRYWFnaWt3WTNTcjluR1VYQkNBamNLMDR6ZzJlYy1pWURDRE4wNWZOY3pYcw?oc=5",
+            "date": "2026-08-13",
+            "meta": "FTNN 新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Seer公司重申2026年預測收入1600萬至1800萬美元，強調專利、AI驅動的蛋白質組學及股票回購計畫 - CMoney投資網誌",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemd0TFdIVEpnMVU1TFZGVkZQT0JfTnUwY2d1YVU5SXFzT3Jxb19zUDdvWXNSZ01fYmRSSmdiNDE4cnBnX283Ykx0SXlfdkZGbVloaDN1MGN6ZUUxNHVCNG9ZcVFvaWJGazNPN3F2ZzlJNUQ3WlpYUDJLZFQ1eUJRdXo0RUZ1c1lfX3VnTnl3?oc=5",
+            "date": "2026-08-12",
+            "meta": "CMoney投資網誌",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Apple 申請專利 改善通知摘要與減少打擾專注模式 - 流動日報",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0d2V1BxamFDYlJJb2RSR1BUMXdGX29aaFZuREQ4TzJvTVJfampyLWFCTjlkZ19LX0RLc0c1YVdLSXFxZnRCZXV1dUdkX0JJQldHaXB2XzBWdDlMbkNITmVMbjBYMWtfQ0h5ejRhVENDb0s0NTRZOWNlYUNwRWFXeWE0R1R5WndMLTV2N1VLWQ?oc=5",
+            "date": "2026-08-12",
+            "meta": "流動日報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Amici Address Section 1498 Scope in Moderna COVID-19 Infringement Appeal: In Favor of Affirmance",
+            "url": "https://patentdocs.org/2026/08/12/amici-address-section-1498-scope-in-moderna-covid-19-infringement-appeal-in-favor-of-affirmance/",
+            "date": "2026-08-12",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – The parties in the appeal of the District Court’s grant of summary judgment to Arbutus and Genevant over Moderna, holding Moderna liable for $1.3 billion in patent infringement damages attracted a fa",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Rise of AI Patents and their Corresponding Eligibility Rejections - Patently-O",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLU1rTlR2ZEhGM1hjRVJsdWx1SnFqWGswSGhUM0NLaDl2NHlTUXNSa0Zmcld2SmZZTkJQNkIxTXZQWmRMV1JBRHdLOHBsTmwyUFBjWUlNVmRheTNWcDlzOFhaOHI3amtFR2dWbERrVTZfN01pcnZrQzBfRHZQaHF6b3REUEota2lIX0lqVUtXdGpJT2xGM0lvT212dDNWSFhMdnR1X3lFbEJpeGc?oc=5",
+            "date": "2026-08-08",
+            "meta": "Patently-O",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-08"
+          },
+          {
+            "title": "Stewart exits USPTO as Squires pivots to AI, patent eligibility - MLex",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUFBSzYwMTN5eVl3NVNiMlU4OWpFYjZJaEZQWjBxVHZpLXJsYXYyNVBJbWRQSnh1Um80VXdEdVBVeHMzM3BLUnVRbzV2QU5lU2JncEpCdl9qS2ZOQkdPQUlqUXljZzhLcXA0T0xPMHNpMDVnTUtqTzZMWXZ2dm1LcFFPQzJxYVNUUGxURDVQem83a3VhZmtLZUZuYW1MZ3FWOXNuUWJnSDPSAVpBVV95cUxQOTZKNW1ZclRxNlpDbHF0WWw2R25OZHZ4dTUwZVVTdUNyc2JZSXVINVZRd19GYUtUVk0yaHFsYVY2OGt5MmxlZksybWcyRm9velVCY01KbmFsNXc?oc=5",
+            "date": "2026-08-07",
+            "meta": "MLex",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-07"
+          },
+          {
+            "title": "Arbutus Responds to Moderna’s Appeal of District Court Infringement Judgment over COVID Vaccines",
+            "url": "https://patentdocs.org/2026/08/06/arbutus-responds-to-modernas-appeal-of-district-court-infringement-judgment-over-covid-vaccines/",
+            "date": "2026-08-06",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – Arbutus Biopharma and Genevant Sciences, having prevailed in district court litigation against Moderna involving infringement of U.S. Patent Nos. 8,058,069, 8,492,359, 8,822,668, 9,364,435, 9,504,651",
+            "is_new": false,
+            "_sort": "2026-08-06"
+          },
+          {
+            "title": "Moderna Appeals District Court Infringement Judgment over COVID Vaccines",
+            "url": "https://patentdocs.org/2026/08/04/moderna-appeals-district-court-infringement-judgment-over-covid-vaccines/",
+            "date": "2026-08-05",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – One of the beneficial characteristics of the response to the COVID-19 pandemic were pledges from companies involved in developing vaccines (such as Moderna, Pfizer, BioNTech, and others) not to enfor",
+            "is_new": false,
+            "_sort": "2026-08-05"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "AI Copyright and",
+          "title": "AI Copyright and Governance: Can Machines Own Creative Work? - Mexico Business News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREUyZ1NCX2ptQl9OcFdWT3R5OVQyYmZyZVdOdnRYZ3ViN2RyS0dIV2RMVFVfSDN0cUJzV19XWlkxQzdoUnNtUXdNU0pGOWctLXNrSW1qU2Vta2pZaTZpNTJWbUZSUERVN1pyOGs2Y2ViWmRrS2pEZlE0MFB2T051cVlQZ040bFdYT0gxUE1SSjJ4M3VsVThVUWtBbGdyRVdUUXJ4c2J5blYwX3FxTTY1R3B5OA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "China Issues Dra",
+          "title": "China Issues Draft Regulations on AI Copyright Infringement - Sixth Tone",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjI5aUotVDhmbXBRNV9qNmlRTlhNTjZHNk1qVDk3czNrMXVXUmNmVHE1S1JyWUd2NFlpWHVfYm1zbHZmNnc5emNZWDNjLUFZNEUyS3lfQ1lYTTA4QkpLMlFXTHE3cnhCV29JR2NGOUZEUERxX1l0T004ZFFaUXFTeDFHd2ZhQkpJZUV4QW05T3J1WmZVVkowNWw3dUtLbUU?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "Zuckerberg Must ",
+          "title": "Zuckerberg Must Sit For Deposition In AI Copyright Suits - Law360",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVJXcDNfb1N0Z2Y1VnU3N3hoRWc0MUxMVnZOeFUtRm1Cb1d1TzZJQmRhWk1YakJOeXNCZDRuWHFfYkhaYzhOazhRbE1MNmlSVVJXZ2lGdXIyX0ViNkRGZHBvX3plRG9XcjczaHB0c2VtX2N6LXNWbnpQUi1KTEE3YnVtUk9ZOGQxWkNwOVJqdUZFTWdzOEUycXNiVnbSAVZBVV95cUxPVi1kRW9mMjdtZ09DcXpkXzRnSEFYSzFLUXpIMmp0eTN5Rnh5RVRvQ2VWaG1VWklTTU5hQTR6bHpabUdaV0dzLVdZZWRDOWJSb1VES3NwUQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Meta Fails to Bl",
+          "title": "Meta Fails to Block Zuckerberg Deposition in AI, Copyright Suit - Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVBvZnhsbUdld29SU1FvWGJDNEJTWUI2dXdJRkdMOUpud1lLNlJzS0x1NF9YU0lfUmlNVjBFRG4tQ1FBdkZVcHRCbDFSTzgweHJqVnpGX2RfVFIzUVNVOGp6Z0ZONmRDMFpUT3h6eVhuRGI5NmE1VFVvZUZCTjNGT3laNXNNZ3l1UDFWdVJVVUVTZ2g5SWwyQnhUUXFNUXBNZUs0?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "SAG-AFTRA’s Jeff",
+          "title": "SAG-AFTRA’s Jeffrey Bennett Discusses Generative AI, Copyright and Protecting Human Performance - SAG-AFTRA",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMm03OXdLUU5aNlE3Vzg2M1gydVFLUkpuMF9WblJLbUdidlBWMjNLNF9HX3hKendMWFQwSHc0WnU3Z19NQmZJbWF4ZHdmck54MjF1YURjZEhvUnNLYnpEX3BOXzBRcmk4VTNucm1JUjhMNnFyWHhpUlZFZDBwcmdUcnFSbjQyX1hNNDV3SUlpaS1Sd0diYjFFQ1g5ZUJtVmFEcEVrWHVsQTY0b0hiMmI4bV9XV2JJX2RYM3c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_生成式AI",
+          "label": "生成式AI",
+          "group": "concept"
+        },
+        {
+          "id": "i6",
+          "label": "Axel Springer Lo",
+          "title": "Axel Springer Lobbies on AI Copyright Protections - Legis1",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YTzlBQ29KWmFXUTA5UDFtX1JZUDhsQ3ZWU3h5U0hWQ3FHWldjWXdhZ1JHOWttRGkxNVFXMy0zYmRoQVU3cmRKNlp6V3ktMWkxa2RJTnBGb0hLdTBRS2lpdXU0emV2NFJ1SEJyd2VHcWRobmxKbHU5SlRR?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "生成式AI 引用媒體資料須授權-",
+          "title": "生成式AI 引用媒體資料須授權- 上市櫃 - 旺得富理財網",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43WDAxeTBrQWZhVVNwSmx3OTRVWUFiSDBEOUJ6RkoyYk1fNHJ5ZXJ4a2pIaER6cXRwVXg5ekN3YlVWZjNadk9sNFM1MGZQWjcyOVJmcF90aVotWjNUX1ZfMzU5NEt5UHhzMUE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "智慧局商標檢索增自動推薦功能提升",
+          "title": "智慧局商標檢索增自動推薦功能提升申請便利性| 財經焦點| 產經 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rRmtxTjBJWkRwbDhXdURPVEx0SWM4TVpuQlBFTFFBZjI4ejI5YTFDbXpjNWhac0dRQUJrSXZGd2xBUDdUVnYtaW9IckY0c3Ri?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_商標",
+          "label": "商標",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "SS&C Advent sues",
+          "title": "SS&C Advent sues software company Advent AI for trademark infringement - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblE0M0xOendLNlhaSTlGR3pXTzB1aFVrQ3ZkdnF4NW0tcGF6dGVPZUNPSVVaTHkxUUNtLVlQZTFobHdCMkRIMWRfaWVuejdvQ1o3UzNnMXk3NHNjLXRLbkplRFhmUjQ2cHcybk9EUEZ5M1BWNUVnMWF4dWh3T3hDSGtDOGhoWXA5U25IWW92emd2aE1Kc3c1RW5XalJnN3p3TzFkUHdTa0JlOVlYTVFXSl9lWjFpQ0ZVWF9fUjh3?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "YouTube AI Lawsu",
+          "title": "YouTube AI Lawsuit, Lionel Richie Trademark, Diddy Case Ruling & More Top Music Law News - Billboard",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3NBZEVIcnQyZjFVVUNNWjJtbFRPZll5NFJYNHlEMlhvOFNwMVFoUDF1bnZDSGR2YTV5dFdfUjJtN1h3MU5OMnRUcjlfQVlERV80Uy1mcE5EaHdfNG1pU3MteEZjYjA3VVF3UUp3eUt1bnJvZnpJQzA1eE1nRGpVbzlJYjJwOF9yWXQ3emdGaG5Udw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "Trademark Law Me",
+          "title": "Trademark Law Meets Generative AI: Key Takeaways from the Getty v. Stability AI Ruling (via Passle) - Baker Botts",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajBRZWpSZVZoT3d5dlk2WjRJSjB0UVhNR0U2eTNTVDZwbU5uR1ZwUWM4RHduWFNKZnhuSFBPemswdmNGUjlZTHp2Q2NVZGtCWFlMWEF3dDI1a0s0NWdDRUcwWTg0N2NwdEF2N3NDTWZxUTFVbHowWGtwUF92NXNiSVBHVy1sME54RDFwdXJ3THQzVGJvZVFZbUgxb3ozdC1hakxuajB6NjFZMFFtZ1VnOEExc3FxUHpVdXJsNzVPX1I?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "防堵AI深偽威脅泰勒絲申請聲音肖",
+          "title": "防堵AI深偽威脅泰勒絲申請聲音肖像註冊商標| 娛樂 - cna.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fbFZTRDVfUlY0dHl3endORlZ1dzhaQXlveTd5RDZraV9QaHJVY3JQa3djbW45YmYtaHdNWFlRYUdueGotNDY4OU5NRENXaXJLYU1xM1RidEdWdVl5TWlR?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i14",
+          "label": "泰勒絲註冊聲紋、肖像商標 防AI",
+          "title": "泰勒絲註冊聲紋、肖像商標 防AI深偽侵害 - 公視新聞網PNN",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhT1F2QndzNGZONTVRUWx2LXI0NFFoRXdLMmZfMlFMc3VCUDFqQnRqUS00OURtX3JxTGlhWWpDTjdfVG9fWjJGS3luYUZWX1k?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "對抗AI深偽技術！泰勒絲註冊「聲",
+          "title": "對抗AI深偽技術！泰勒絲註冊「聲紋與肖像」商標 擴大法律保護 - news.cnyes.com",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmZlVuYWxhQ1A4cmRHbExfRGNMNUM0c3hpYnVxRlZKd2VSSWM1dGhQWjBOY1RNME8yY3pBN2dvZzJQWmJlVjRCM2lhemVNZzA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "點名「3大廠」靠技術攻城掠地！謝",
+          "title": "點名「3大廠」靠技術攻城掠地！謝金河解碼「滑軌龍頭」登頂關鍵：怎麼都繞不過他的專利 - FTNN 新聞網",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBINmFYLXF4a2IxX2VmRmEzZmFVaDdWOXFRYWFnaWt3WTNTcjluR1VYQkNBamNLMDR6ZzJlYy1pWURDRE4wNWZOY3pYcw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "i17",
+          "label": "Seer公司重申2026年預測收",
+          "title": "Seer公司重申2026年預測收入1600萬至1800萬美元，強調專利、AI驅動的蛋白質組學及股票回購計畫 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemd0TFdIVEpnMVU1TFZGVkZQT0JfTnUwY2d1YVU5SXFzT3Jxb19zUDdvWXNSZ01fYmRSSmdiNDE4cnBnX283Ykx0SXlfdkZGbVloaDN1MGN6ZUUxNHVCNG9ZcVFvaWJGazNPN3F2ZzlJNUQ3WlpYUDJLZFQ1eUJRdXo0RUZ1c1lfX3VnTnl3?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i18",
+          "label": "Apple 申請專利 改善通知摘",
+          "title": "Apple 申請專利 改善通知摘要與減少打擾專注模式 - 流動日報",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0d2V1BxamFDYlJJb2RSR1BUMXdGX29aaFZuREQ4TzJvTVJfampyLWFCTjlkZ19LX0RLc0c1YVdLSXFxZnRCZXV1dUdkX0JJQldHaXB2XzBWdDlMbkNITmVMbjBYMWtfQ0h5ejRhVENDb0s0NTRZOWNlYUNwRWFXeWE0R1R5WndMLTV2N1VLWQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i19",
+          "label": "Amici Address Se",
+          "title": "Amici Address Section 1498 Scope in Moderna COVID-19 Infringement Appeal: In Favor of Affirmance",
+          "url": "https://patentdocs.org/2026/08/12/amici-address-section-1498-scope-in-moderna-covid-19-infringement-appeal-in-favor-of-affirmance/",
+          "group": "item"
+        },
+        {
+          "id": "i20",
+          "label": "Rise of AI Paten",
+          "title": "Rise of AI Patents and their Corresponding Eligibility Rejections - Patently-O",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLU1rTlR2ZEhGM1hjRVJsdWx1SnFqWGswSGhUM0NLaDl2NHlTUXNSa0Zmcld2SmZZTkJQNkIxTXZQWmRMV1JBRHdLOHBsTmwyUFBjWUlNVmRheTNWcDlzOFhaOHI3amtFR2dWbERrVTZfN01pcnZrQzBfRHZQaHF6b3REUEota2lIX0lqVUtXdGpJT2xGM0lvT212dDNWSFhMdnR1X3lFbEJpeGc?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i21",
+          "label": "Stewart exits US",
+          "title": "Stewart exits USPTO as Squires pivots to AI, patent eligibility - MLex",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUFBSzYwMTN5eVl3NVNiMlU4OWpFYjZJaEZQWjBxVHZpLXJsYXYyNVBJbWRQSnh1Um80VXdEdVBVeHMzM3BLUnVRbzV2QU5lU2JncEpCdl9qS2ZOQkdPQUlqUXljZzhLcXA0T0xPMHNpMDVnTUtqTzZMWXZ2dm1LcFFPQzJxYVNUUGxURDVQem83a3VhZmtLZUZuYW1MZ3FWOXNuUWJnSDPSAVpBVV95cUxQOTZKNW1ZclRxNlpDbHF0WWw2R25OZHZ4dTUwZVVTdUNyc2JZSXVINVZRd19GYUtUVk0yaHFsYVY2OGt5MmxlZksybWcyRm9velVCY01KbmFsNXc?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i22",
+          "label": "Arbutus Responds",
+          "title": "Arbutus Responds to Moderna’s Appeal of District Court Infringement Judgment over COVID Vaccines",
+          "url": "https://patentdocs.org/2026/08/06/arbutus-responds-to-modernas-appeal-of-district-court-infringement-judgment-over-covid-vaccines/",
+          "group": "item"
+        },
+        {
+          "id": "i23",
+          "label": "Moderna Appeals ",
+          "title": "Moderna Appeals District Court Infringement Judgment over COVID Vaccines",
+          "url": "https://patentdocs.org/2026/08/04/moderna-appeals-district-court-infringement-judgment-over-covid-vaccines/",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i1",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i1",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i2",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i3",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_生成式AI"
+        },
+        {
+          "from": "i6",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i7",
+          "to": "c_生成式AI"
+        },
+        {
+          "from": "i9",
+          "to": "c_商標"
+        },
+        {
+          "from": "i10",
+          "to": "c_商標"
+        },
+        {
+          "from": "i10",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i11",
+          "to": "c_商標"
+        },
+        {
+          "from": "i11",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i12",
+          "to": "c_商標"
+        },
+        {
+          "from": "i12",
+          "to": "c_生成式AI"
+        },
+        {
+          "from": "i12",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i13",
+          "to": "c_商標"
+        },
+        {
+          "from": "i14",
+          "to": "c_商標"
+        },
+        {
+          "from": "i15",
+          "to": "c_商標"
+        },
+        {
+          "from": "i16",
+          "to": "c_專利"
+        },
+        {
+          "from": "i17",
+          "to": "c_專利"
+        },
+        {
+          "from": "i18",
+          "to": "c_專利"
+        },
+        {
+          "from": "i19",
+          "to": "c_專利"
+        },
+        {
+          "from": "i19",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i20",
+          "to": "c_專利"
+        },
+        {
+          "from": "i21",
+          "to": "c_專利"
+        },
+        {
+          "from": "i22",
+          "to": "c_專利"
+        },
+        {
+          "from": "i22",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i23",
+          "to": "c_訴訟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-ip",
+    "name": "音樂智財與投資",
+    "desc": "音樂 NFT・版稅・數位音樂授權・IP 金融（論文核心）",
+    "area": "國際",
+    "group": null,
+    "columns": [
+      {
+        "label": "📰 新聞（中・英）",
+        "items": [
+          {
+            "title": "Nearly One-Fifth of Hungarian Music Royalties Could Be Lost to AI by 2028 - Hungarian Conservative",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2ppZnd3a2p3amFITndGcjFBSGNMNlVEVmQxZTZROGtkUUNWc0RxLTlmZWRtT2YtbnMtT3VldGZIZUZtNkgwU1B2UWc0YTJhUUQ4UFd1eUY2bTNuWVNRR19TTmdFekpZOUxJSmJGd2FCODRHTmZTZ3Mzc19tYUVhMEVQN3R5cWhBdnFxVXBPMDk1Q3dRRDItZWk3dFo5V3g0NncwMg?oc=5",
+            "date": "2026-08-13",
+            "meta": "Hungarian Conservative",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Anghami co-founder Eddy Maroun launches Arabic music IP platform IPNation, targeting $100m with backing from Influence Media Partners - Music Business Worldwide",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa1V4dHpfWXZDMmpBZ292MVUtd3VHdEdkRW5DYXRGZmpCMy02X0FmVDN2YUZQRmhUREdIampBR3RCZzloSWtWUVpZNUY5allwOG9BSG9ZanN0NENqT0FXeTBHT0FNZFJaUzdyblR1RmFEaUQwcUdtdWYtZ0owVENUdHk2eW8ycGFmSVB5TjhZd2VyTlNjM1c1Wm5FX25La2wzcElZc25FRVM2bmpUT3hNMFpNTnB4UW9tTlQ5YUdwZ1hGUjRCUkVOQjRqbEJiNl91YVZDUG03RVNHTHllNElTdWQyd09IelZFRTJHQVhLOGRKem4xc2xpWl9pNExYNnAw?oc=5",
+            "date": "2026-08-12",
+            "meta": "Music Business Worldwide",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "IPNation And Influence Media Launch $100M MENA Music IP Investment Platform - famemagazine.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlZhVFUxZll2U3l1cS1TYlhBMDhBYmwxb3EwTjdGeHhucmtjQldUQlZTclRrZS0wR1I1VUx6QURUOGpjM2NvTzNHMGkzekEtN1hDQzJnY0lOS3NHejRFNF9VMlJQYkFIcGZCUmoySncwRUhvZnNqQWU3cDdQdnRXX0dnLTFsZ05qaVNFU0V0ZXpoMXdYTkZQSUQ5N3FJc0d3TlZaak9JMGxSZw?oc=5",
+            "date": "2026-08-12",
+            "meta": "famemagazine.co.uk",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "South Korea reverses ban on AI-assisted music copyright - Mixmag Asia",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXlEX2VjSGozeTZEcU8xX3lLY19WajhJUldsbkl6WEJXalN3TDN5UmNPU19IZFFfc2JwSUtzbm9lcnRQM1M0Z21Ha2JMUDhNczZiT3gzV3R3c29kZjVlUWViemFTcWF0bFhaQ3oyTlR1LW5PbGlaOWtTYU1LandTbENhOHRJMWx2TDVaRmltQTkzbjhYdm1V?oc=5",
+            "date": "2026-08-11",
+            "meta": "Mixmag Asia",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "Door Opens for AI-Assisted Music Royalties, but Verifying ‘Human Creation’ Remains a Challenge - IT조선",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhcWMtMldKZkhjYkRXNm5Jajh6LUY1VnRyRjJCUDlHLWhXbUJzQlBFQ3NGdGs2dlNyLVlXOU8xT3VjenJWZmFTZUFDX3ZuakxsYTNmZGF1NFpMU0ZDTDJTLWFuODBDQll3SVZjSm9McDHSAXRBVV95cUxQRVEycWFGTTVhZGs1NEZZUGk5LVgtVGJUZ3ptYXE0T0FJOUxZTXhmeUJlNjc4TkdIS0NScUVNV0pkdHNFVmN6NG1PeEJ4M3RfZWFWU2pYbk0xWUNfc1ExYnViclpFUk82TmlsX2lUR1NFUkRvbw?oc=5",
+            "date": "2026-08-10",
+            "meta": "IT조선",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "AI作曲軟體Suno德國敗訴 歐洲音樂版權確立新原則 - marketersgo.com",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZl9mYmFVdzBaRG16bWRhYk5JV2poX29MdUhWRkozdTlDZF9SWXJpVE1IX2QtNkVldGE2TTFRT2lqYUxJek50NVFvTmU4NTd5eE9RTFJaTmU2WjNIVTJuQm5PNVAtSnByU0VLU2NyLXZneUJjSFBJaEFMa3lJSVVpbzJKYmlTeXFETUlva2drVlhLalhEZ011RWhTdHI4VXIxdllhcEc4OVdCdHI3dkpmWkF2elg5QzJBWHVMN3dlUkdBVl80UFdfNkx5a3JwX2dHWFJoWXhrOFMtSTVRRm93S2QxanRCejdBM1J1VnFydGFGZDdfakRwd2FlanZsN1IzSlB5MHNsMVg3elFDVFViWTNhMmpjakFKWHY2c1FmYjEyTko0OHN6MXVmRzRNbDU1ckl2dFcwZVYwZ01hSXQ3Sy10bXZSWUJsaksxaWRab3VoZEx3dm14dlZaZ09VaFBl?oc=5",
+            "date": "2026-08-01",
+            "meta": "marketersgo.com",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-01"
+          },
+          {
+            "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio - Billboard",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnlWTTNHWDB5Z0gzUXo5VTBuVmNWYjlxNUNDaEIxeGJzZUtKWlZDNGRXbU1UajNvcE9YeVRhNmNsb3ZHajhSejJFdWNNcHJfWDVYMVVOWVJMa0N6NjBsU2ZnSjQyR2Fhd19LdE1yS0l1Mk1uaEF6SmVkX2FlSXA2LQ?oc=5",
+            "date": "2026-07-20",
+            "meta": "Billboard",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-20"
+          },
+          {
+            "title": "FRAND licensing needs a taxonomy: valuation absent context is misvaluation",
+            "url": "http://www.ip.finance/2026/07/frand-licensing-needs-taxonomy.html",
+            "date": "2026-07-13",
+            "meta": "IP Finance",
+            "summary": "The World Intellectual Property Organization's recent report on SEP valuation methodologies provides a useful overview of comparable licences, bottom-up valuation and top-down approaches. However, in my view, the most im",
+            "is_new": false,
+            "_sort": "2026-07-13"
+          }
+        ]
+      },
+      {
+        "label": "📚 學術論文（NFT・版權・智能合約）",
+        "items": [
+          {
+            "title": "Access-based consumption revisited",
+            "url": "https://doi.org/10.1007/s11747-026-01176-y",
+            "date": "2026-07-13",
+            "meta": "OpenAlex · Fleura Bardhi, Giana Eckhardt, Greta Vignali · Journal of the Academy of Marketing Science",
+            "summary": "Abstract Access-based consumption, defined as transactions that may be market mediated in which no transfer of ownership takes place, is conceptualized by Bardhi and Eckhardt (2012). While it was introduced to explore co",
+            "is_new": false,
+            "_sort": "2026-07-13"
+          },
+          {
+            "title": "<b>THE LEGAL STATUS OF NON-FUNGIBLE</b> <b>TOKENS FROM AN ISLAMIC PERSPECTIVE</b>",
+            "url": "https://doi.org/10.22452/fiqh.vol23no1.3",
+            "date": "2026-06-30",
+            "meta": "OpenAlex · Siti Nurhidayah Md Tahir, Mohd Fuad Md Sawari, Mohamad Sabri Zakaria · Jurnal Figh/Jurnal fiqh",
+            "summary": "This study investigates the legal status of Non-Fungible Tokens (NFTs) from an Islamic perspective. NFTs, as unique digital assets recorded on blockchain, raise complex questions in Shariah due to their intangible nature",
+            "is_new": false,
+            "_sort": "2026-06-30"
+          },
+          {
+            "title": "Generative AI and intellectual property: a systematic literature review of possible issues and mitigations",
+            "url": "https://doi.org/10.7717/peerj-cs.3928",
+            "date": "2026-06-29",
+            "meta": "OpenAlex · Anna Arnaudo, Riccardo Coppola, Maurizio Morisio · PeerJ Computer Science",
+            "summary": "The voracious appetite of Generative Artificial Intelligence (GenAI) for data has raised a number of issues regarding copyright. We conducted a systematic literature review (SLR), focusing on the types of copyright-prote",
+            "is_new": false,
+            "_sort": "2026-06-29"
+          },
+          {
+            "title": "Development of a Smart Contract for the Transfer of Copyrights in an Artwork Linked to an NFT",
+            "url": "https://doi.org/10.3390/laws15020032",
+            "date": "2026-04-16",
+            "meta": "OpenAlex · William Fernando Martínez Luna, Ana María Moreno Ballesteros, Edgar José Ruiz Dorantes · Laws",
+            "summary": "Non-fungible tokens (NFTs) are transforming the commercialisation of digital art by establishing unique blockchain identifiers that ensure authenticity and certify subsequent transactions. However, the transfer of contro",
+            "is_new": false,
+            "_sort": "2026-04-16"
+          },
+          {
+            "title": "ORAgen Fables: Advancing the Design and Management of Content Attribution",
+            "url": "https://doi.org/10.1145/3772318.3791227",
+            "date": "2026-04-13",
+            "meta": "OpenAlex · Frances Liddell, Billy Dixon, Ella Tallyn",
+            "summary": "As the internet thrives on the circulation of easily copied content, ensuring attribution is properly given has been a perennial challenge. Following the rise of synthetic media and generative AI tools, and corresponding",
+            "is_new": false,
+            "_sort": "2026-04-13"
+          },
+          {
+            "title": "The Extended Reality of the Meta-IP-Verse in the Modern Fashion Industry",
+            "url": "https://hdl.handle.net/10315/43895",
+            "date": "2026-04-09",
+            "meta": "OpenAlex · Amrita Chopra Suri · York University Digital Library (York University)",
+            "summary": "The metaverse presents the fashion industry with unprecedented commercial possibilities, yet its transnational, decentralized, and jurisdictionally indeterminate architecture demands measured and deliberate engagement fr",
+            "is_new": false,
+            "_sort": "2026-04-09"
+          },
+          {
+            "title": "Smart Contracts as a Solution for Automated Royalty Distribution: Implications for Copyright Management in Digital Media",
+            "url": "https://doi.org/10.69971/tipr.4.2.2026.99",
+            "date": "2026-04-09",
+            "meta": "OpenAlex · Aman Kumar Jha, Aditi Raikwar, Tanishk Bhawsar · Trends in intellectual property research.",
+            "summary": "Although the digital media ecosystem has changed creation and sharing of content, existing copyright management systems suffer from inefficiencies, such as slow payment of royalties, a lack of transparency about how much",
+            "is_new": false,
+            "_sort": "2026-04-09"
+          },
+          {
+            "title": "NFT Art: A Systematic Review of Research and Market Dynamics",
+            "url": "https://doi.org/10.5392/ijoc.2026.22.1.060",
+            "date": "2026-03-31",
+            "meta": "OpenAlex · Zihan Lin, Jin-Woo Lee · International Journal of Contents",
+            "summary": "NFT (Non-Fungible Token) art, fueled by blockchain technology and its connection to virtual currencies, gained significant attention beyond the art world. However, after peaking in 2021, interest and trading activity dec",
+            "is_new": false,
+            "_sort": "2026-03-31"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 美國判決",
+        "items": [
+          {
+            "title": "Cox Communications, Inc. v. Sony Music Entertainment",
+            "url": "https://www.courtlistener.com/opinion/10814782/cox-communications-inc-v-sony-music-entertainment/",
+            "date": "2026-03-25",
+            "meta": "Supreme Court of the United States",
+            "summary": "(Slip Opinion) OCTOBER TERM, 2025 1 Syllabus NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes",
+            "is_new": false,
+            "_sort": "2026-03-25"
+          },
+          {
+            "title": "Warner Chappell Music, Inc. v. Nealy",
+            "url": "https://www.courtlistener.com/opinion/10600095/warner-chappell-music-inc-v-nealy/",
+            "date": "2024-05-09",
+            "meta": "Supreme Court of the United States",
+            "summary": "PRELIMINARY PRINT Volume 601 U. S. Part 2 Pages 366–376 OFFICIAL REPORTS OF THE SUPREME COURT May 9, 2024 Page Proof Pending Publication REBECCA A. WOMELDORF reporter of decisions NOTICE: This preliminary print is subjec",
+            "is_new": false,
+            "_sort": "2024-05-09"
+          },
+          {
+            "title": "Arias v. Universal Music Group",
+            "url": "https://www.courtlistener.com/opinion/8510467/arias-v-universal-music-group/",
+            "date": "2022-11-10",
+            "meta": "District Court, District of Columbia",
+            "summary": "UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA _________________________________________ ) STEVEN LEONEL ARIAS, ) ) Plaintiff, ) ) v. ) ) Case No. 21-cv-02551 (APM) UNIVERSAL MUSIC GROUP",
+            "is_new": false,
+            "_sort": "2022-11-10"
+          },
+          {
+            "title": "ABKCO Music, Inc. v. Sagan",
+            "url": "https://www.courtlistener.com/opinion/8246883/abkco-music-inc-v-sagan/",
+            "date": "2022-10-06",
+            "meta": "Court of Appeals for the Second Circuit",
+            "summary": "20-3816 ABKCO Music, Inc. v. Sagan 1 UNITED STATES COURT OF APPEALS 2 FOR THE SECOND CIRCUIT 3 ____________________ 4 5 August Term, 2021 6 7 (Argued: March 14, 2022 Decided: October 6, 2022) 8 9 Docket Nos. 20-3816(L),",
+            "is_new": false,
+            "_sort": "2022-10-06"
+          },
+          {
+            "title": "Ennio Morricone Music v. Bixio Music Group",
+            "url": "https://www.courtlistener.com/opinion/4654333/ennio-morricone-music-v-bixio-music-group/",
+            "date": "2019-08-21",
+            "meta": "Court of Appeals for the Second Circuit",
+            "summary": "17‐3595‐cv Ennio Morricone Music v. Bixio Music Group United States Court of Appeals for the Second Circuit AUGUST TERM 2018 No. 17‐3595‐cv ENNIO MORRICONE MUSIC INC., Plaintiff‐Appellant, v. BIXIO MUSIC GROUP LTD.,",
+            "is_new": false,
+            "_sort": "2019-08-21"
+          }
+        ]
+      }
+    ],
+    "charts": {
+      "index_table": [
+        {
+          "ticker": "RSVR",
+          "name": "Reservoir Media",
+          "last": 9.95,
+          "chg_1y": 30.6
+        },
+        {
+          "ticker": "WMG",
+          "name": "Warner Music",
+          "last": 25.34,
+          "chg_1y": -21.4
+        },
+        {
+          "ticker": "UMG.AS",
+          "name": "Universal Music",
+          "last": 14.88,
+          "chg_1y": -39.1
+        },
+        {
+          "ticker": "SPOT",
+          "name": "Spotify",
+          "last": 498.24,
+          "chg_1y": -28.7
+        },
+        {
+          "ticker": "INDEX",
+          "name": "音樂 IP 金融指數",
+          "last": null,
+          "chg_1y": -14.7
+        }
+      ]
+    },
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "Nearly One-Fifth",
+          "title": "Nearly One-Fifth of Hungarian Music Royalties Could Be Lost to AI by 2028 - Hungarian Conservative",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2ppZnd3a2p3amFITndGcjFBSGNMNlVEVmQxZTZROGtkUUNWc0RxLTlmZWRtT2YtbnMtT3VldGZIZUZtNkgwU1B2UWc0YTJhUUQ4UFd1eUY2bTNuWVNRR19TTmdFekpZOUxJSmJGd2FCODRHTmZTZ3Mzc19tYUVhMEVQN3R5cWhBdnFxVXBPMDk1Q3dRRDItZWk3dFo5V3g0NncwMg?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_版稅",
+          "label": "版稅",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "IPNation And Inf",
+          "title": "IPNation And Influence Media Launch $100M MENA Music IP Investment Platform - famemagazine.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlZhVFUxZll2U3l1cS1TYlhBMDhBYmwxb3EwTjdGeHhucmtjQldUQlZTclRrZS0wR1I1VUx6QURUOGpjM2NvTzNHMGkzekEtN1hDQzJnY0lOS3NHejRFNF9VMlJQYkFIcGZCUmoySncwRUhvZnNqQWU3cDdQdnRXX0dnLTFsZ05qaVNFU0V0ZXpoMXdYTkZQSUQ5N3FJc0d3TlZaak9JMGxSZw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_投資/基金",
+          "label": "投資/基金",
+          "group": "concept"
+        },
+        {
+          "id": "i3",
+          "label": "South Korea reve",
+          "title": "South Korea reverses ban on AI-assisted music copyright - Mixmag Asia",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXlEX2VjSGozeTZEcU8xX3lLY19WajhJUldsbkl6WEJXalN3TDN5UmNPU19IZFFfc2JwSUtzbm9lcnRQM1M0Z21Ha2JMUDhNczZiT3gzV3R3c29kZjVlUWViemFTcWF0bFhaQ3oyTlR1LW5PbGlaOWtTYU1LandTbENhOHRJMWx2TDVaRmltQTkzbjhYdm1V?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "i4",
+          "label": "Door Opens for A",
+          "title": "Door Opens for AI-Assisted Music Royalties, but Verifying ‘Human Creation’ Remains a Challenge - IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhcWMtMldKZkhjYkRXNm5Jajh6LUY1VnRyRjJCUDlHLWhXbUJzQlBFQ3NGdGs2dlNyLVlXOU8xT3VjenJWZmFTZUFDX3ZuakxsYTNmZGF1NFpMU0ZDTDJTLWFuODBDQll3SVZjSm9McDHSAXRBVV95cUxQRVEycWFGTTVhZGs1NEZZUGk5LVgtVGJUZ3ptYXE0T0FJOUxZTXhmeUJlNjc4TkdIS0NScUVNV0pkdHNFVmN6NG1PeEJ4M3RfZWFWU2pYbk0xWUNfc1ExYnViclpFUk82TmlsX2lUR1NFUkRvbw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "Why Sony Just Fi",
+          "title": "Why Sony Just Filed a New AI Music Copyright Lawsuit Against Udio - Billboard",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVnlWTTNHWDB5Z0gzUXo5VTBuVmNWYjlxNUNDaEIxeGJzZUtKWlZDNGRXbU1UajNvcE9YeVRhNmNsb3ZHajhSejJFdWNNcHJfWDVYMVVOWVJMa0N6NjBsU2ZnSjQyR2Fhd19LdE1yS0l1Mk1uaEF6SmVkX2FlSXA2LQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "FRAND licensing ",
+          "title": "FRAND licensing needs a taxonomy: valuation absent context is misvaluation",
+          "url": "http://www.ip.finance/2026/07/frand-licensing-needs-taxonomy.html",
+          "group": "item"
+        },
+        {
+          "id": "c_授權",
+          "label": "授權",
+          "group": "concept"
+        },
+        {
+          "id": "i9",
+          "label": "<b>THE LEGAL STA",
+          "title": "<b>THE LEGAL STATUS OF NON-FUNGIBLE</b> <b>TOKENS FROM AN ISLAMIC PERSPECTIVE</b>",
+          "url": "https://doi.org/10.22452/fiqh.vol23no1.3",
+          "group": "item"
+        },
+        {
+          "id": "c_NFT",
+          "label": "NFT",
+          "group": "concept"
+        },
+        {
+          "id": "c_區塊鏈",
+          "label": "區塊鏈",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "Generative AI an",
+          "title": "Generative AI and intellectual property: a systematic literature review of possible issues and mitigations",
+          "url": "https://doi.org/10.7717/peerj-cs.3928",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "Development of a",
+          "title": "Development of a Smart Contract for the Transfer of Copyrights in an Artwork Linked to an NFT",
+          "url": "https://doi.org/10.3390/laws15020032",
+          "group": "item"
+        },
+        {
+          "id": "c_智能合約",
+          "label": "智能合約",
+          "group": "concept"
+        },
+        {
+          "id": "i14",
+          "label": "Smart Contracts ",
+          "title": "Smart Contracts as a Solution for Automated Royalty Distribution: Implications for Copyright Management in Digital Media",
+          "url": "https://doi.org/10.69971/tipr.4.2.2026.99",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "NFT Art: A Syste",
+          "title": "NFT Art: A Systematic Review of Research and Market Dynamics",
+          "url": "https://doi.org/10.5392/ijoc.2026.22.1.060",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i2",
+          "to": "c_投資/基金"
+        },
+        {
+          "from": "i3",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i6",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i7",
+          "to": "c_授權"
+        },
+        {
+          "from": "i9",
+          "to": "c_NFT"
+        },
+        {
+          "from": "i9",
+          "to": "c_區塊鏈"
+        },
+        {
+          "from": "i10",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i11",
+          "to": "c_NFT"
+        },
+        {
+          "from": "i11",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i11",
+          "to": "c_區塊鏈"
+        },
+        {
+          "from": "i11",
+          "to": "c_智能合約"
+        },
+        {
+          "from": "i14",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i14",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i14",
+          "to": "c_智能合約"
+        },
+        {
+          "from": "i15",
+          "to": "c_NFT"
+        },
+        {
+          "from": "i15",
+          "to": "c_區塊鏈"
+        }
+      ]
+    }
+  },
+  {
+    "id": "blockchain-gov",
+    "name": "區塊鏈演算法治理",
+    "desc": "DAO・on-chain governance・智能合約治理（論文範圍）",
+    "area": "國際",
+    "group": null,
+    "columns": [
+      {
+        "label": "📰 新聞（中・英）",
+        "items": [
+          {
+            "title": "HTX Ventures 最新研報解讀Open USD：當技術開放之後 穩定幣的收益與規則如何重新分配 - news.cnyes.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xX25KdVI2WmRPUEpZNzJyYlQ1YmdKd01FRmt5ZVg2U19hUXhGNkFGUURHYXNXZU1LeFpBYjJtMTVVOWtwcXdSTEVIcWU2dWs?oc=5",
+            "date": "2026-08-13",
+            "meta": "news.cnyes.com",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Blockchain for Good Alliance與Bybit共同參與毛里求斯互聯網治理論壇，攜手推進小島嶼國家的數字信任建設 - E創傳媒",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fbmdTaWFNNnVOc2QzNC1LOEgxVDRqZ3RIamE5Z0hGcF91a1ZiWk5vZzY3QWExcThIOFhxZGJXRnplV0pndnAxMVBlZzQzLXZtd2c?oc=5",
+            "date": "2026-08-12",
+            "meta": "E創傳媒",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "中大攜坤侑科技簽MOU 聚焦可信任AI、治理與資料主權 | 產學研訓 | 商情 - 經濟日報",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMnhic2NkeG00b3pEdmdvbDY4NGJRZlJsMTVjU0lyZ0hPcFFwd0Ywa05wT2hPMFBYX3NacXBkOHIxUEhwTTVVWDhWZXdpWmxNaTdxVWpGYUN3QQ?oc=5",
+            "date": "2026-08-12",
+            "meta": "經濟日報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Blockchain for Good 聯盟與 Bybit 參與模里西斯網際網路治理論壇 推動小島國數位信任建設 - Yellow.com",
+            "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNWFlYUTRpdmFKYXBxaHVaSkU4eUZlV2tCbFJNZWdyUUdzSFZDelktSk5FUm9MUU85SEJlQ2RBV2RrZkNhWGhXTzRHY3JoV1BMT1FaY3lnUElvT29MUndHdWVnaGFXTGlCNFdCMm1Oby1MWVg0eWtxZTRUaTJFbVpJeVUyYlhabEhUdkt0cjhpNnRLX0dYMmZLVjJfdThDOXM2aV9LbkJPLV9HcXYyVkd2WUJQM0gtYVNvd21KR3VReFc3TGotU2RjaWNyRFFIcTVlS19HU19ITzhQTmpnUGhmQUhxRnlkZTNEb0kzaEsxVmF0WXVla2RxdkVzcy1aWmRmRllYY2FDYXpXRjllbFRWenBqdmdBeTJHanNlNFN3aE12aThqelpDTUhzSEFndHZDUzRtUGhJZG1lWGUxUFFITlZCRmdSYkRRdVdHVmthN1JIclhDWjZiUktKeVVQREdSRldkZjBuV1llbUk2VS1ldmcwWG5ITmQzYVlaNlpVZUZ4YTk0N2pleFVYVXVYUjlMNlAwWDZaYThvdEozc2F5S21IalowcUoxS3lRRGVDR3V0X0F3aHJBV0Z3bUc1VGx4MV9JVDBXWQ?oc=5",
+            "date": "2026-08-11",
+            "meta": "Yellow.com",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "A New Approach to DAO Governance Through Sub-DAOs - Value The Markets",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXp4M0xlRWhYQ25RT2htOFRwcWZ0ZXlLYS1tZFd4NlBlRUhoOEVlWWhEby1ocC00WnRzbHotM3B0WlE1ZWN2YmJLM0dPYlJsV2R3VVRINFA1TnJsXzR0Y2MyVkhZdjlTS2VuRDV5b01vU09lTGY3eWhrUkVUdXFMNWN5ZEJXUHd5OUtlOEFzZVZoZHpwMHRCdFhNc1VQR2ZjVWpn?oc=5",
+            "date": "2026-08-10",
+            "meta": "Value The Markets",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "策略評析： 從數位資產到DePIN：建構永續社會經濟基礎設施 - 科技產業資訊室",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bWVzZ1NRMHg3OWozdzZMcU5fYlpEdGN4VHRTcExQWDBEY2tCVGNYV2NSODRCU1U3aXJVdFp2TUxfaUtER0pLS1BzUnhHSUxfZ2diSXhyZWNtRGZFMThBb0V4c1lqWXhEcUE?oc=5",
+            "date": "2026-08-06",
+            "meta": "科技產業資訊室",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-06"
+          },
+          {
+            "title": "ENS Co-Founder Proposes Delegating 5M ENS Tokens to Reform DAO Governance - The Defiant",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTVYdGNBOU1PU2J0dkhacWdVR3Z5Tm1nUHVILXZFUXFwRnBIRHh1WlM5OUVPa1FIeWlwRzNoSHNIMnNiUzRBb25DcmpzZ3F5RG1fbGNIbm5CTUdXbHZNLWJnUC01WFppTWhUTVk5N2pPVVZ4ZTBnTlRRcWVKNGNISW0tYVliRzJGOW1FYlZYYzZsUHIxV2ZnUWs2VTJrdVRXbFV1Y3BhYUU?oc=5",
+            "date": "2026-07-06",
+            "meta": "The Defiant",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-06"
+          },
+          {
+            "title": "當區塊鏈風險離開鏈上——跨鏈世代的資安盲點與治理挑戰 - cio.com.tw",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VZzFkUEw5QjJQaEFsNE9ud2lPSGlJaG9ib3pCUW1WVHptM2JsQTVTX19VVXhRd3haZDA3dHZlR2VnNWp4?oc=5",
+            "date": "2026-06-10",
+            "meta": "cio.com.tw",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-10"
+          }
+        ]
+      },
+      {
+        "label": "📚 學術論文",
+        "items": [
+          {
+            "title": "Wrapper Architecture as Coordination Device: Multiple Equilibria in Autonomous-Agent Organizations",
+            "url": "https://doi.org/10.5281/zenodo.21907085",
+            "date": "2026-08-12",
+            "meta": "OpenAlex · Ian Staley · Zenodo (CERN European Organization for Nuclear Research)",
+            "summary": "Decentralized autonomous organizations (DAOs) and AI-agent systems combine cryptographic execution with blockchain-based governance, yet observed organizations almost universally combine these mechanisms with a conventio",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Artificial Externality: A Three-Layer Model of Reality from Substrate to Smart Contract",
+            "url": "https://doi.org/10.1007/s13347-026-01158-6",
+            "date": "2026-08-11",
+            "meta": "OpenAlex · Keisuke Suzuki · Philosophy & Technology",
+            "summary": "What is real has always been something we find , not something we make —or so philosophy has assumed. This paper argues otherwise. Characterizing reality through resistance rather than substance (the ways the world refus",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "The Challenges Posed by Decentralized Finance to Traditional Financial Regulatory Frameworks and Pathways for Restructuring",
+            "url": "https://doi.org/10.54254/2754-1169/2026.ld36054",
+            "date": "2026-08-11",
+            "meta": "OpenAlex · Yingzhu Chen · Advances in Economics Management and Political Sciences",
+            "summary": "Decentralized Finance (DeFi) refers to an open financial ecosystem built on blockchain technology that does not require the participation of centralized institutions. The technology and operational mechanisms it employs",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "The Architecture of Modern Digital Finance: Blockchain, Stablecoins, CBDCs, Digital Assets, and Embedded Payment Systems",
+            "url": "https://doi.org/10.70593/978-93-7185-969-1",
+            "date": "2026-08-08",
+            "meta": "OpenAlex · Sriram Ramakrishnan",
+            "summary": "This book discusses “architectures”, which refers to the structural design and arrangement of various components of digital money. It focuses on the complete digital finance stack, comprising blockchain, digital assets,",
+            "is_new": true,
+            "_sort": "2026-08-08"
+          },
+          {
+            "title": "Quantum-Resistant Blockchain Framework for Remote eVoting Via Integration of Adaptive Governance, Homomorphic Encryption, and Audit for Secure Digital Democracy Scenarios",
+            "url": "https://doi.org/10.59543/jidmis.v3.1485",
+            "date": "2026-08-08",
+            "meta": "OpenAlex · Pravin R Pachorkar · Journal of Intelligent Decision Making and Information Science",
+            "summary": "Online voting platforms that rely on classical cryptography and centralized trust anchors face escalating challenges as the demand for secure and transparent digital elections grows. Such systems remain exposed to quantu",
+            "is_new": true,
+            "_sort": "2026-08-08"
+          },
+          {
+            "title": "A unified framework and comparative study of decentralized finance derivatives protocols",
+            "url": "https://doi.org/10.1007/s12525-026-00925-9",
+            "date": "2026-08-06",
+            "meta": "OpenAlex · Luca Pennella, Pietro Saggese, Fabio Pinelli · Electronic Markets",
+            "summary": "Abstract Decentralized Finance (DeFi) applications introduce novel financial instruments replicating and extending traditional ones through blockchain-based smart contracts. Among these applications, DeFi derivatives pro",
+            "is_new": false,
+            "_sort": "2026-08-06"
+          },
+          {
+            "title": "Decentralized Finance, Financial Inclusion, and Bank Stability in BRICS Plus Economies",
+            "url": "https://doi.org/10.20944/preprints202608.0356.v1",
+            "date": "2026-08-06",
+            "meta": "OpenAlex · Osama Wagdi, Mary Rafik · Preprints.org",
+            "summary": "The rapid diffusion of decentralized finance (DeFi) protocols across emerging econo-mies raises two related policy questions: whether these platforms broaden access to fi-nancial services and whether their expansion affe",
+            "is_new": false,
+            "_sort": "2026-08-06"
+          },
+          {
+            "title": "AIGen: Automating AI Bill of Materials Generation Through Hybrid MLOps Integration",
+            "url": "https://arxiv.org/abs/2607.26652v1",
+            "date": "2026-07-29",
+            "meta": "arXiv · Federica Pepe, Daniele Bifolco, Costantino Martignetti et al.",
+            "summary": "The responsible development and deployment of artificial intelligence (AI) systems requires rigorous documentation of their constituent artifacts, e.g., datasets, model weights, training pipelines, and runtime dependenci",
+            "is_new": false,
+            "_sort": "2026-07-29"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 美國判決",
+        "items": [
+          {
+            "title": "Hash Asset Management Ltd. v. DMA Labs, Inc., Ichi Foundation, Nick Poore, Bryan Gross",
+            "url": "https://www.courtlistener.com/opinion/10786021/hash-asset-management-ltd-v-dma-labs-inc-ichi-foundation-nick-poore/",
+            "date": "2026-02-09",
+            "meta": "Court of Chancery of Delaware",
+            "summary": "IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE HASH ASSET MANAGEMENT LTD., ) ) Plaintiff, ) ) v. ) C.A. No. 2025-0374-BWD ) DMA LABS, INC., ICHI ) FOUNDATION, NICK POORE, ) BRYAN GROSS, TYLER CHRISTIAN ) PINTAR, and J",
+            "is_new": false,
+            "_sort": "2026-02-09"
+          },
+          {
+            "title": "ParaFi Digital Opportunities v. Egorov",
+            "url": "https://www.courtlistener.com/opinion/10314470/parafi-digital-opportunities-v-egorov/",
+            "date": "2025-01-15",
+            "meta": "California Court of Appeal",
+            "summary": "Filed 1/15/25 CERTIFIED FOR PUBLICATION IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA FIRST APPELLATE DISTRICT DIVISION TWO PARAFI DIGITAL OPPORTUNITIES LP et al., Plaintiffs and Appellants, A168960 v. (San Francisco",
+            "is_new": false,
+            "_sort": "2025-01-15"
+          },
+          {
+            "title": "Van Loon v. TREA",
+            "url": "https://www.courtlistener.com/opinion/10284289/van-loon-v-trea/",
+            "date": "2024-11-26",
+            "meta": "Court of Appeals for the Fifth Circuit",
+            "summary": "Case: 23-50669 Document: 123-1 Page: 1 Date Filed: 11/26/2024 United States Court of Appeals for the Fifth Circuit United States Court of Appeals Fifth Circuit ____________ FILED November 26, 2024",
+            "is_new": false,
+            "_sort": "2024-11-26"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i1",
+          "label": "Blockchain for G",
+          "title": "Blockchain for Good Alliance與Bybit共同參與毛里求斯互聯網治理論壇，攜手推進小島嶼國家的數字信任建設 - E創傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fbmdTaWFNNnVOc2QzNC1LOEgxVDRqZ3RIamE5Z0hGcF91a1ZiWk5vZzY3QWExcThIOFhxZGJXRnplV0pndnAxMVBlZzQzLXZtd2c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_治理",
+          "label": "治理",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "中大攜坤侑科技簽MOU 聚焦可信",
+          "title": "中大攜坤侑科技簽MOU 聚焦可信任AI、治理與資料主權 | 產學研訓 | 商情 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfMnhic2NkeG00b3pEdmdvbDY4NGJRZlJsMTVjU0lyZ0hPcFFwd0Ywa05wT2hPMFBYX3NacXBkOHIxUEhwTTVVWDhWZXdpWmxNaTdxVWpGYUN3QQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Blockchain for G",
+          "title": "Blockchain for Good 聯盟與 Bybit 參與模里西斯網際網路治理論壇 推動小島國數位信任建設 - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNWFlYUTRpdmFKYXBxaHVaSkU4eUZlV2tCbFJNZWdyUUdzSFZDelktSk5FUm9MUU85SEJlQ2RBV2RrZkNhWGhXTzRHY3JoV1BMT1FaY3lnUElvT29MUndHdWVnaGFXTGlCNFdCMm1Oby1MWVg0eWtxZTRUaTJFbVpJeVUyYlhabEhUdkt0cjhpNnRLX0dYMmZLVjJfdThDOXM2aV9LbkJPLV9HcXYyVkd2WUJQM0gtYVNvd21KR3VReFc3TGotU2RjaWNyRFFIcTVlS19HU19ITzhQTmpnUGhmQUhxRnlkZTNEb0kzaEsxVmF0WXVla2RxdkVzcy1aWmRmRllYY2FDYXpXRjllbFRWenBqdmdBeTJHanNlNFN3aE12aThqelpDTUhzSEFndHZDUzRtUGhJZG1lWGUxUFFITlZCRmdSYkRRdVdHVmthN1JIclhDWjZiUktKeVVQREdSRldkZjBuV1llbUk2VS1ldmcwWG5ITmQzYVlaNlpVZUZ4YTk0N2pleFVYVXVYUjlMNlAwWDZaYThvdEozc2F5S21IalowcUoxS3lRRGVDR3V0X0F3aHJBV0Z3bUc1VGx4MV9JVDBXWQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "A New Approach t",
+          "title": "A New Approach to DAO Governance Through Sub-DAOs - Value The Markets",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXp4M0xlRWhYQ25RT2htOFRwcWZ0ZXlLYS1tZFd4NlBlRUhoOEVlWWhEby1ocC00WnRzbHotM3B0WlE1ZWN2YmJLM0dPYlJsV2R3VVRINFA1TnJsXzR0Y2MyVkhZdjlTS2VuRDV5b01vU09lTGY3eWhrUkVUdXFMNWN5ZEJXUHd5OUtlOEFzZVZoZHpwMHRCdFhNc1VQR2ZjVWpn?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_DAO",
+          "label": "DAO",
+          "group": "concept"
+        },
+        {
+          "id": "i6",
+          "label": "ENS Co-Founder P",
+          "title": "ENS Co-Founder Proposes Delegating 5M ENS Tokens to Reform DAO Governance - The Defiant",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTVYdGNBOU1PU2J0dkhacWdVR3Z5Tm1nUHVILXZFUXFwRnBIRHh1WlM5OUVPa1FIeWlwRzNoSHNIMnNiUzRBb25DcmpzZ3F5RG1fbGNIbm5CTUdXbHZNLWJnUC01WFppTWhUTVk5N2pPVVZ4ZTBnTlRRcWVKNGNISW0tYVliRzJGOW1FYlZYYzZsUHIxV2ZnUWs2VTJrdVRXbFV1Y3BhYUU?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_代幣",
+          "label": "代幣",
+          "group": "concept"
+        },
+        {
+          "id": "i7",
+          "label": "當區塊鏈風險離開鏈上——跨鏈世代",
+          "title": "當區塊鏈風險離開鏈上——跨鏈世代的資安盲點與治理挑戰 - cio.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VZzFkUEw5QjJQaEFsNE9ud2lPSGlJaG9ib3pCUW1WVHptM2JsQTVTX19VVXhRd3haZDA3dHZlR2VnNWp4?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_鏈上",
+          "label": "鏈上",
+          "group": "concept"
+        },
+        {
+          "id": "i8",
+          "label": "Wrapper Architec",
+          "title": "Wrapper Architecture as Coordination Device: Multiple Equilibria in Autonomous-Agent Organizations",
+          "url": "https://doi.org/10.5281/zenodo.21907085",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "Artificial Exter",
+          "title": "Artificial Externality: A Three-Layer Model of Reality from Substrate to Smart Contract",
+          "url": "https://doi.org/10.1007/s13347-026-01158-6",
+          "group": "item"
+        },
+        {
+          "id": "c_智能合約",
+          "label": "智能合約",
+          "group": "concept"
+        },
+        {
+          "id": "i12",
+          "label": "Quantum-Resistan",
+          "title": "Quantum-Resistant Blockchain Framework for Remote eVoting Via Integration of Adaptive Governance, Homomorphic Encryption, and Audit for Secure Digital Democracy Scenarios",
+          "url": "https://doi.org/10.59543/jidmis.v3.1485",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "A unified framew",
+          "title": "A unified framework and comparative study of decentralized finance derivatives protocols",
+          "url": "https://doi.org/10.1007/s12525-026-00925-9",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i1",
+          "to": "c_治理"
+        },
+        {
+          "from": "i2",
+          "to": "c_治理"
+        },
+        {
+          "from": "i3",
+          "to": "c_治理"
+        },
+        {
+          "from": "i4",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i4",
+          "to": "c_治理"
+        },
+        {
+          "from": "i6",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i6",
+          "to": "c_治理"
+        },
+        {
+          "from": "i6",
+          "to": "c_代幣"
+        },
+        {
+          "from": "i7",
+          "to": "c_治理"
+        },
+        {
+          "from": "i7",
+          "to": "c_鏈上"
+        },
+        {
+          "from": "i8",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i8",
+          "to": "c_治理"
+        },
+        {
+          "from": "i9",
+          "to": "c_智能合約"
+        },
+        {
+          "from": "i12",
+          "to": "c_治理"
+        },
+        {
+          "from": "i13",
+          "to": "c_智能合約"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ip-authority",
+    "name": "國際智財・專利 權威來源",
+    "desc": "專利實務、訴訟救濟、中國IP（你指定的權威 feeds）",
+    "area": "國際",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "📄 專利實務",
+        "items": [
+          {
+            "title": "關於全球SEP授權與FRAND原則的重要案例 - Unwired Planet v Huawei [2020] UKSC 37, United Kingdom",
+            "url": "http://enpan.blogspot.com/2017/04/unwired-planet-v-huawei-ewhc-711-5-apr.html",
+            "date": "2026-08-13",
+            "meta": "enpan Patent",
+            "summary": "前言，經了解前篇「英國最高法院判定通過平台實施SEP授權的FRAND義務 - Tesla, Inc. v. InterDigital Patent Holdings, Inc., [2026] UKSC 27 (27 July 2026)（https://enpan.blogspot.com/2026/08/tesla-inc-v-interdigital-patent.html）」案例後，知道這個案例依據的前例就是本篇討論 - Unw",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Amici Address Section 1498 Scope in Moderna COVID-19 Infringement Appeal: In Favor of Affirmance",
+            "url": "https://patentdocs.org/2026/08/12/amici-address-section-1498-scope-in-moderna-covid-19-infringement-appeal-in-favor-of-affirmance/",
+            "date": "2026-08-12",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – The parties in the appeal of the District Court’s grant of summary judgment to Arbutus and Genevant over Moderna, holding Moderna liable for $1.3 billion in patent infringement damages attracted a fa",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "The Trail Guide Problem: Judge, Jury, and Design Patent Claim Construction",
+            "url": "https://patentlyo.com/patent/2026/08/the-trail-guide-problem-judge-jury-and-design-patent-claim-construction.html",
+            "date": "2026-08-11",
+            "meta": "Patently-O",
+            "summary": "The Federal Circuit denies en banc rehearing in Range of Motion v. Armaid. Chief Judge Moore says Markman was built for text, not pictures. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-08-11"
+          },
+          {
+            "title": "Provisional Prior Art",
+            "url": "https://patentlyo.com/patent/2026/08/provisional-prior-art.html",
+            "date": "2026-08-10",
+            "meta": "Patently-O",
+            "summary": "How a reference gets its provisional filing date as prior art after the Federal Circuit rejected thirteen years of USPTO examination policy. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "Ex parte Baurin and the Anti-Harassment Rationale for Double Patenting",
+            "url": "https://patentlyo.com/patent/2026/08/ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting.html",
+            "date": "2026-08-10",
+            "meta": "Patently-O",
+            "summary": "Ex parte Baurin sustains double patenting on an anti-harassment theory the USPTO distrusts, with the Federal Circuit's In re Ablynx up next. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "英國最高法院判定通過平台實施SEP授權的FRAND義務 - Tesla, Inc. v. InterDigital Patent Holdings, Inc., [2026] UKSC 27 (27 July 2026)",
+            "url": "http://enpan.blogspot.com/2026/08/tesla-inc-v-interdigital-patent.html",
+            "date": "2026-08-10",
+            "meta": "enpan Patent",
+            "summary": "本案「Tesla, Inc. v. InterDigital Patent Holdings, Inc., [2026] UKSC 27」為英格蘭及威爾斯上訴法院（England and Wales Court of Appeal，EWCA）於2025年「涉及標準且必要專利(SEP)與公平、合理且無歧視(FRAND)授權條款」判決的最高法院上訴案。本上訴案Tesla與InterDigital同時是上訴人與被上訴人（Respondents",
+            "is_new": true,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "Examiner Allowance Rates Under Director Squires",
+            "url": "https://patentlyo.com/patent/2026/08/examiner-allowance-rates-under-director-squires.html",
+            "date": "2026-08-09",
+            "meta": "Patently-O",
+            "summary": "Examiner allowance rate data through January 2026 shows no Squires bump. The rate sits near 75%, well below the 2022-2023 peak above 82%. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-08-09"
+          },
+          {
+            "title": "Rise of AI Patents and their Corresponding Eligibility Rejections",
+            "url": "https://patentlyo.com/patent/2026/08/rise-of-ai-patents-and-their-corresponding-eligibility-rejections.html",
+            "date": "2026-08-08",
+            "meta": "Patently-O",
+            "summary": "AI applications draw §101 rejections at 42% against 7% for everything else, while §103 rates are identical. The 2019 guidance effect has eroded. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-08-08"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 訴訟・救濟",
+        "items": [
+          {
+            "title": "New ‘Patent Friction Index’ Ranks USPTO Last Among Five Peer Offices",
+            "url": "https://ipwatchdog.com/2026/08/13/new-patent-friction-index-ranks-uspto-last-among-five-peer-offices/",
+            "date": "2026-08-13",
+            "meta": "IPWatchdog",
+            "summary": "Red Tape Index (RTI), a project of the regulatory intelligence platform Labrynth, published a patent index today placing the United States Patent and Trademark Office (USPTO) below every peer office measured on the price",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Structuring IP and Legal Teams in Conglomerates: Missteps and Masterstrokes",
+            "url": "https://ipwatchdog.com/2026/08/13/structuring-ip-legal-teams-conglomerates-missteps-masterstrokes/",
+            "date": "2026-08-13",
+            "meta": "IPWatchdog",
+            "summary": "A conglomerate—a large enterprise comprising multiple discrete companies, divisions, or business units—may come into being organically or inorganically, due to business growth, expansion into new markets, internal restru",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Knobbe Martens is Seeking a Patent Scientist – Physics",
+            "url": "https://ipwatchdog.com/2026/08/13/knobbe-martens-is-seeking-a-patent-scientist-physics/",
+            "date": "2026-08-13",
+            "meta": "IPWatchdog",
+            "summary": "Knobbe Martens is seeking a Patent Scientist with a background in physics. Responsibilities include: reviewing new client technologies to determine potentially patentable features, creating technical diagrams and drawing",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "China’s top court hands U.S. patentee landmark patent damages award",
+            "url": "https://ipfray.com/chinas-top-court-hands-u-s-patentee-landmark-patent-damages-award/",
+            "date": "2026-08-13",
+            "meta": "ip fray",
+            "summary": "U.S. insecticide producer FMC Agriculture Singapore has been awarded a record of nearly 33 million Chinese yuan ($4.84 million) in patent infringement damages in a decision in which the defendant’s legal representative h",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "As ink dries on $898M Samsung settlement, Netlist goes after Micron, HPE, Lenovo at ITC, district court",
+            "url": "https://ipfray.com/as-ink-dries-on-898m-samsung-settlement-netlist-goes-after-micron-hpe-lenovo-others-at-itc-district-court/",
+            "date": "2026-08-13",
+            "meta": "ip fray",
+            "summary": "As part of their settlement, Samsung agreed to provide Netlist with information that could assist it in future ITC proceedings against third parties.",
+            "is_new": true,
+            "_sort": "2026-08-13"
+          },
+          {
+            "title": "Magistrate Judge Recommends Denying Motion to Dismiss Trade Secret Case Against SAP",
+            "url": "https://ipwatchdog.com/2026/08/12/magistrate-judge-recommends-denying-motion-to-dismiss-trade-secret-case-against-sap/",
+            "date": "2026-08-12",
+            "meta": "IPWatchdog",
+            "summary": "Yesterday, U.S. Magistrate Judge David Horan of the Northern District of Texas entered a report and recommendation urging the district court to deny motions for dismissal or a more definitive statement filed by German so",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "AI Chatbots and Trademark Confusion: No Human Means No Confusion, and No Confusion Means No Case",
+            "url": "https://ipwatchdog.com/2026/08/12/ai-chatbots-and-trademark-confusion-no-human-means-no-confusion-and-no-confusion-means-no-case/",
+            "date": "2026-08-12",
+            "meta": "IPWatchdog",
+            "summary": "As AI assistants take over product discovery and purchase, the likelihood of confusion test is losing the consumer it was built around. And brands are therefore losing their primary line of defense. For decades, building",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          },
+          {
+            "title": "Court of Appeal for England and Wales Issues Important Ruling on Disgorgement of Profits",
+            "url": "http://comparativepatentremedies.blogspot.com/2026/08/court-of-appeal-for-england-and-wales.html",
+            "date": "2026-08-12",
+            "meta": "Comparative Patent Remedies",
+            "summary": "The decision, which I just became aware of today though it was released on July 27, is Lufthansa Technik AG v. Astronics Advanced Electronic Systems, [2026] EWCA Civ 964. The principal opinion is by Lord Justice Arnold,",
+            "is_new": true,
+            "_sort": "2026-08-12"
+          }
+        ]
+      },
+      {
+        "label": "🌏 中國IP・綜合",
+        "items": [
+          {
+            "title": "China Understands the Strategic Value of Intellectual Property. Does the United States?",
+            "url": "https://chinaipr.com/2026/07/29/china-understands-the-strategic-value-of-intellectual-property-does-the-united-states/",
+            "date": "2026-07-29",
+            "meta": "China IPR",
+            "summary": "Why does China increasingly treat intellectual property as a strategic instrument of national development, international influence, and global governance while the United States often continues to view it primarily throu",
+            "is_new": false,
+            "_sort": "2026-07-29"
+          },
+          {
+            "title": "Data as Intellectual Property: China’s Experiment",
+            "url": "https://chinaipr.com/2026/07/28/data-as-intellectual-property-chinas-experiment/",
+            "date": "2026-07-28",
+            "meta": "China IPR",
+            "summary": "This article analyzes China’s Data IP experiment based on the “Three Types Separation” rule from the 2022 Data Twenty Measures. Three parallel registration systems run by the China National Intellectual Property Administ",
+            "is_new": false,
+            "_sort": "2026-07-28"
+          },
+          {
+            "title": "QBPC, RDPAC and Distinct Foreign Voices in China’s IP System",
+            "url": "https://chinaipr.com/2026/06/19/qbpc-rdpac-and-distinct-foreign-voices-in-chinas-ip-system/",
+            "date": "2026-06-19",
+            "meta": "China IPR",
+            "summary": "The closure of the Quality Brands Protection Committee (QBPC) and the apparent absorption of the Research and Development Pharmaceutical Association Committee of China (RDPAC) into new institutional structures marks the",
+            "is_new": false,
+            "_sort": "2026-06-19"
+          },
+          {
+            "title": "Measuring FRAND Value in ZTE v. Samsung",
+            "url": "https://chinaipr.com/2026/06/17/measuring-frand-value-in-zte-v-samsung/",
+            "date": "2026-06-17",
+            "meta": "China IPR",
+            "summary": "China's recent global FRAND determination in ZTE v. Samsung has attracted attention because it valued ZTE's SEP portfolio at nearly twice the level of a contemporaneous English court decision. This article argues that th",
+            "is_new": false,
+            "_sort": "2026-06-17"
+          },
+          {
+            "title": "Using and Misusing Chinese Patent Data",
+            "url": "https://chinaipr.com/2026/06/10/using-and-misusing-chinese-patent-data/",
+            "date": "2026-06-10",
+            "meta": "China IPR",
+            "summary": "Patent statistics are frequently cited as evidence of China's growing technological strength, but patent counts by themselves do not address qualitative concerns. Moreover, they often measure much more than innovation al",
+            "is_new": false,
+            "_sort": "2026-06-10"
+          },
+          {
+            "title": "Notice concerning Further Strengthening Management over Cultural and Artistic Programmes and Their Personnel",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/09/02/notice-concerning-further-strengthening-management-over-cultural-and-artistic-programmes-and-their-personnel/",
+            "date": "2021-09-02",
+            "meta": "China Copyright & Media",
+            "summary": "National Radio and Television Administration General Office Guang Dian Ban Fa (2021) 267 All provincial, autonomous region and municipal radio and television bureaus, the Xinjiang Production-Construction Corps Culture, S",
+            "is_new": false,
+            "_sort": "2021-09-02"
+          },
+          {
+            "title": "Notice concerning Further Strengthening Control over the “Fan Circle” Mess",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/08/25/notice-concerning-further-strengthening-control-over-the-fan-circle-mess/",
+            "date": "2021-08-25",
+            "meta": "China Copyright & Media",
+            "summary": "All provincial, autonomous region and municipal Party Committee cybersecurity and informatization offices, the Xinjiang Production-Construction Corps Party Committee Cybersecurity and Informatization Office” Since the “C",
+            "is_new": false,
+            "_sort": "2021-08-25"
+          },
+          {
+            "title": "Chinese Banking and Insurance Supervisory Commission Notice concerning Further Standardizing Commercial Banks’Internet Lending Operations",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/02/19/chinese-banking-and-insurance-supervisory-commission-notice-concerning-further-standardizing-commercial-banksinternet-lending-operations/",
+            "date": "2021-02-19",
+            "meta": "China Copyright & Media",
+            "summary": "YBJBF No. (2021)24 All banking supervisory bureaus, all large-scale banks, shareholding-type banks and foreign invested banks: In order to promote commercial banks to effectively implement the “Provisional Rules for the",
+            "is_new": false,
+            "_sort": "2021-02-19"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "關於全球SEP授權與FRAND原",
+          "title": "關於全球SEP授權與FRAND原則的重要案例 - Unwired Planet v Huawei [2020] UKSC 37, United Kingdom",
+          "url": "http://enpan.blogspot.com/2017/04/unwired-planet-v-huawei-ewhc-711-5-apr.html",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "Amici Address Se",
+          "title": "Amici Address Section 1498 Scope in Moderna COVID-19 Infringement Appeal: In Favor of Affirmance",
+          "url": "https://patentdocs.org/2026/08/12/amici-address-section-1498-scope-in-moderna-covid-19-infringement-appeal-in-favor-of-affirmance/",
+          "group": "item"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "The Trail Guide ",
+          "title": "The Trail Guide Problem: Judge, Jury, and Design Patent Claim Construction",
+          "url": "https://patentlyo.com/patent/2026/08/the-trail-guide-problem-judge-jury-and-design-patent-claim-construction.html",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Provisional Prio",
+          "title": "Provisional Prior Art",
+          "url": "https://patentlyo.com/patent/2026/08/provisional-prior-art.html",
+          "group": "item"
+        },
+        {
+          "id": "c_USPTO",
+          "label": "USPTO",
+          "group": "concept"
+        },
+        {
+          "id": "i4",
+          "label": "Ex parte Baurin ",
+          "title": "Ex parte Baurin and the Anti-Harassment Rationale for Double Patenting",
+          "url": "https://patentlyo.com/patent/2026/08/ex-parte-baurin-and-the-anti-harassment-rationale-for-double-patenting.html",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "英國最高法院判定通過平台實施SE",
+          "title": "英國最高法院判定通過平台實施SEP授權的FRAND義務 - Tesla, Inc. v. InterDigital Patent Holdings, Inc., [2026] UKSC 27 (27 July 2026)",
+          "url": "http://enpan.blogspot.com/2026/08/tesla-inc-v-interdigital-patent.html",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "Examiner Allowan",
+          "title": "Examiner Allowance Rates Under Director Squires",
+          "url": "https://patentlyo.com/patent/2026/08/examiner-allowance-rates-under-director-squires.html",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "Rise of AI Paten",
+          "title": "Rise of AI Patents and their Corresponding Eligibility Rejections",
+          "url": "https://patentlyo.com/patent/2026/08/rise-of-ai-patents-and-their-corresponding-eligibility-rejections.html",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "New ‘Patent Fric",
+          "title": "New ‘Patent Friction Index’ Ranks USPTO Last Among Five Peer Offices",
+          "url": "https://ipwatchdog.com/2026/08/13/new-patent-friction-index-ranks-uspto-last-among-five-peer-offices/",
+          "group": "item"
+        },
+        {
+          "id": "c_商標",
+          "label": "商標",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "Knobbe Martens i",
+          "title": "Knobbe Martens is Seeking a Patent Scientist – Physics",
+          "url": "https://ipwatchdog.com/2026/08/13/knobbe-martens-is-seeking-a-patent-scientist-physics/",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "China’s top cour",
+          "title": "China’s top court hands U.S. patentee landmark patent damages award",
+          "url": "https://ipfray.com/chinas-top-court-hands-u-s-patentee-landmark-patent-damages-award/",
+          "group": "item"
+        },
+        {
+          "id": "c_中國",
+          "label": "中國",
+          "group": "concept"
+        },
+        {
+          "id": "i12",
+          "label": "As ink dries on ",
+          "title": "As ink dries on $898M Samsung settlement, Netlist goes after Micron, HPE, Lenovo at ITC, district court",
+          "url": "https://ipfray.com/as-ink-dries-on-898m-samsung-settlement-netlist-goes-after-micron-hpe-lenovo-others-at-itc-district-court/",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "Magistrate Judge",
+          "title": "Magistrate Judge Recommends Denying Motion to Dismiss Trade Secret Case Against SAP",
+          "url": "https://ipwatchdog.com/2026/08/12/magistrate-judge-recommends-denying-motion-to-dismiss-trade-secret-case-against-sap/",
+          "group": "item"
+        },
+        {
+          "id": "i14",
+          "label": "AI Chatbots and ",
+          "title": "AI Chatbots and Trademark Confusion: No Human Means No Confusion, and No Confusion Means No Case",
+          "url": "https://ipwatchdog.com/2026/08/12/ai-chatbots-and-trademark-confusion-no-human-means-no-confusion-and-no-confusion-means-no-case/",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "Court of Appeal ",
+          "title": "Court of Appeal for England and Wales Issues Important Ruling on Disgorgement of Profits",
+          "url": "http://comparativepatentremedies.blogspot.com/2026/08/court-of-appeal-for-england-and-wales.html",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "China Understand",
+          "title": "China Understands the Strategic Value of Intellectual Property. Does the United States?",
+          "url": "https://chinaipr.com/2026/07/29/china-understands-the-strategic-value-of-intellectual-property-does-the-united-states/",
+          "group": "item"
+        },
+        {
+          "id": "i17",
+          "label": "Data as Intellec",
+          "title": "Data as Intellectual Property: China’s Experiment",
+          "url": "https://chinaipr.com/2026/07/28/data-as-intellectual-property-chinas-experiment/",
+          "group": "item"
+        },
+        {
+          "id": "i18",
+          "label": "QBPC, RDPAC and ",
+          "title": "QBPC, RDPAC and Distinct Foreign Voices in China’s IP System",
+          "url": "https://chinaipr.com/2026/06/19/qbpc-rdpac-and-distinct-foreign-voices-in-chinas-ip-system/",
+          "group": "item"
+        },
+        {
+          "id": "i19",
+          "label": "Measuring FRAND ",
+          "title": "Measuring FRAND Value in ZTE v. Samsung",
+          "url": "https://chinaipr.com/2026/06/17/measuring-frand-value-in-zte-v-samsung/",
+          "group": "item"
+        },
+        {
+          "id": "i20",
+          "label": "Using and Misusi",
+          "title": "Using and Misusing Chinese Patent Data",
+          "url": "https://chinaipr.com/2026/06/10/using-and-misusing-chinese-patent-data/",
+          "group": "item"
+        },
+        {
+          "id": "i23",
+          "label": "Chinese Banking ",
+          "title": "Chinese Banking and Insurance Supervisory Commission Notice concerning Further Standardizing Commercial Banks’Internet Lending Operations",
+          "url": "https://chinacopyrightandmedia.wordpress.com/2021/02/19/chinese-banking-and-insurance-supervisory-commission-notice-concerning-further-standardizing-commercial-banksinternet-lending-operations/",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_專利"
+        },
+        {
+          "from": "i1",
+          "to": "c_專利"
+        },
+        {
+          "from": "i1",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i2",
+          "to": "c_專利"
+        },
+        {
+          "from": "i3",
+          "to": "c_專利"
+        },
+        {
+          "from": "i3",
+          "to": "c_USPTO"
+        },
+        {
+          "from": "i4",
+          "to": "c_專利"
+        },
+        {
+          "from": "i4",
+          "to": "c_USPTO"
+        },
+        {
+          "from": "i5",
+          "to": "c_專利"
+        },
+        {
+          "from": "i5",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i6",
+          "to": "c_專利"
+        },
+        {
+          "from": "i7",
+          "to": "c_專利"
+        },
+        {
+          "from": "i8",
+          "to": "c_專利"
+        },
+        {
+          "from": "i8",
+          "to": "c_USPTO"
+        },
+        {
+          "from": "i8",
+          "to": "c_商標"
+        },
+        {
+          "from": "i10",
+          "to": "c_專利"
+        },
+        {
+          "from": "i11",
+          "to": "c_專利"
+        },
+        {
+          "from": "i11",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i11",
+          "to": "c_中國"
+        },
+        {
+          "from": "i12",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i13",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i14",
+          "to": "c_商標"
+        },
+        {
+          "from": "i15",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i16",
+          "to": "c_中國"
+        },
+        {
+          "from": "i17",
+          "to": "c_中國"
+        },
+        {
+          "from": "i18",
+          "to": "c_中國"
+        },
+        {
+          "from": "i19",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i19",
+          "to": "c_中國"
+        },
+        {
+          "from": "i20",
+          "to": "c_專利"
+        },
+        {
+          "from": "i20",
+          "to": "c_中國"
+        },
+        {
+          "from": "i23",
+          "to": "c_中國"
+        }
+      ]
+    }
+  }
+]
