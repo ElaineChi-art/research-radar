@@ -1,0 +1,2725 @@
+[
+  {
+    "id": "tw-financial-crime",
+    "name": "台灣經濟刑法",
+    "desc": "白領／經濟犯罪：內線交易・背信・掏空・洗錢・銀行法・組織犯罪…（重金庭領域）",
+    "area": "台灣",
+    "group": null,
+    "columns": [
+      {
+        "label": "⚖️ 判決・起訴",
+        "items": [
+          {
+            "title": "四海幫牽線月收中共30萬、網軍力挺 民眾黨周曉芸反滲透法起訴 - TVBS新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xb1pmVUhxVEJUSHdBdXoza1g1Wl9EZ1ZtbVI4QVNDUnVQQ2ZxalpCLVhUbml0YWVIMXQxTE5sTmVaQ0hzVS1IOFJ0SS1ydm8?oc=5",
+            "date": "2026-11-20",
+            "meta": "TVBS新聞網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "詐貸4.2億、掏空金毓泰13.2億 互立集團執行長遭起訴、老闆通緝中 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pM09RNW5ZcFNadkV0REVQZjdtakQwaUpwZWg2OVl3T3lQLW1NUm5adC1aeVBWWERzMmN3RGZSdC1iN05udjVPVXQzOTJmNGJY0gFWQVVfeXFMTldJT0ozdndXODNHd21qVTdhVU5SZEViWHlpWHQ5UXRXOVJ4TGFEclhja0J5TzdKU2F4dlRDc1VRUnljR2pRamxod0taWWZpMThvbGwtMVE?oc=5",
+            "date": "2026-11-17",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-17",
+            "tags": [
+              {
+                "cat": "銀行犯罪",
+                "sub": "詐欺銀行",
+                "label": "銀行·詐欺銀行",
+                "ci": 1
+              },
+              {
+                "cat": "公司犯罪",
+                "sub": "掏空公司",
+                "label": "公司·掏空公司",
+                "ci": 3
+              }
+            ]
+          },
+          {
+            "title": "涉開賭場洗錢 天道盟主「鐵霸」兄弟起訴 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BWW9nNmlNbi02N1BtV19lTFZCUTJQLV83QURtQ2duV0dnRXVKNUFpV2F5UTJicVFnU29qRWppeXpnRXN4bUVBTEhTQm83dHF60gFWQVVfeXFMTi1paUxWU0loTW14cHltcU0xcjlYRWpKcVhwZkFtVF9hRDVMNTludTZZYmFrY3NEeE42VW1xX3lVLU9aOTM1VmhJcUJTc2pOQVBqOF9jN2c?oc=5",
+            "date": "2026-11-16",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "柯文哲涉政治獻金、背信案律師批一審違反罪刑法定原則| 社會 - 中央社 CNA",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05WmIyNHE0bzBmbmpJNXMyZGtZVEJYaEFwalhUVXA1QmhTc0JzX1YwTzlsdGk1d2xpSzljQ3ZUOXl2QndnQ0tsckdSS3NVa1F0dDRqVW9jTHJFcUZhOUdV?oc=5",
+            "date": "2026-11-16",
+            "meta": "中央社 CNA",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16",
+            "tags": []
+          },
+          {
+            "title": "天道盟盟主「鐵霸」等涉開賭場結合第三方支付洗錢 檢方起訴18人 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPSnlrdl9KbG9yWWVMaU1NLVFhUzdEQWttczRyWXdfZzVoU1BnVnUzT3p5US1GMWI4VTZuQURzMWFXc3ZUUnlEbTM5MFlET1M5c1VDd0hFOFJMeTJTbGttdkhnNlpOaFRyRHRBa0FDOTQzTTZ1VmNsQWdObGFqY3p5cDg5ZXhzVHYzeFh2V0U1TjllaTJMNlFDV0RfNmNld2p0aFYxQk1kSjRuMVd3Y0huaEFvMzFMV25KWkJYOGhGX0JkRVZUMW9DMGprV1ZMTWVMamdsUVdDck1iMWhkdEQyOTJFMTZ0Q2VZM3A2RU50R3RtMXIzVVZnbHVpZ3Bzdm9YRzRrb2V6RzB0LUQzZ2tKbFFVeW5XdE9kMnhyUkJQb2Z5ZzlkMmtadUFxOW9Fa1dESlFqRlE0X2kxMGREVHZ2TzEwcXVGV1JCdmFBZU9xSGd0VTZodUxxWU5HbUt3Z1hfckhzUWoxdnhld3AtNXpOTmVsU0RpaTc5YVlmMTRncjNWb3hNM1o4MnQxejd3QVM1WlE?oc=5",
+            "date": "2026-11-16",
+            "meta": "Yahoo新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "李文宗認部分背信罪 柯文哲16日出庭答辯 - Rti 中央廣播電臺",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15LUJObENydmllY0lMWmpJRS1NekdWbUI4UHBjcldoZ0xxNlZLbVk0MnlVQU1pVm5Ma0E4dnI4UTB6U3lNR2xWanRqeTRYb2EwWnlwWjBNZTQ?oc=5",
+            "date": "2026-11-15",
+            "meta": "Rti 中央廣播電臺",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-15",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "label": "📋 法規・修法",
+        "items": [
+          {
+            "title": "追查賭博網站集團 檢警攻堅22處博弈機房 - 公視新聞",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOTRTaEc0NDh0c0VTSldaUjVxaVo3SmR1VnN0b2lLSTltUDFDRDhHN0prbnRZUVpzdzhxRlNVOV9nUUJ4cFhpQWhLN3k2bnM?oc=5",
+            "date": "2026-11-19",
+            "meta": "公視新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-19",
+            "tags": []
+          },
+          {
+            "title": "點名綠委為炒股罪犯修法脫罪 民眾黨團：蘇巧慧、賴瑞隆等分別連署 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05TVFoY0tndWdOYjE0NGk0ZHRFWGh6NHBrb1pzRzI2TXZQU1c1OC1ycUdCXzNlWDJTQTBqZGJ6QnJkV2ZCT0VMUl9tTXY1U2Vx0gFWQVVfeXFMTUZEZTFyNFdQYzh0MjQtbUp4dlR5RjZHcnJsRHE2VUwwMjA0Wnh3VWRVMnplemoyRVNaMTZCeUdwckRWRHJ0WlRBVVp0clVJU3BoWTBRZmc?oc=5",
+            "date": "2026-11-11",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-11",
+            "tags": [
+              {
+                "cat": "證券犯罪",
+                "sub": "操縱股價",
+                "label": "證券·操縱股價",
+                "ci": 2
+              }
+            ]
+          },
+          {
+            "title": "政院通過《洗錢防制法》部分條文修正草案強化犯罪打擊及金融秩序維護| 政治 - Newtalk新聞",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iRTJPQXNkTTRxbUZYSlBJQ1NGYXNZVGtkMmZsRWpNYm91c1pndGJyZnpESUJ2Z3ppRTJjU2hXMGxNUHg0U3F1S0l0ZkdFeEpNeEU3Y1ZROVR3NWs?oc=5",
+            "date": "2026-08-13",
+            "meta": "Newtalk新聞",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          },
+          {
+            "title": "政院通過《洗錢防制法》部分條文修正草案 增虛擬資產、第三方支付規範 - 台灣好新聞",
+            "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOWjVhT2txX1RvODVhTDB0WXVDSzhWT0FiMnN3aGZGNDViMkVoMktiUXVPSWFDbXAyYTlVVm5GanRRU3ptZ2xuVS14N2hwdkpDVldVSG5XTDdDWnREaGlRSktpN2VwSDJud3JXVkM4QWMyU1pVUEpNdlVnWEJuNnpWQklnTmFNNU5odkYtN1p4LUZVeUlPdDBWWThBX1kzcE9FVjZIVXpUQUFJU1ZvMUg4THltaE9ySEZ3cnh0R1lDS05MTjZ4ZkRkdTdkM3ppQ3pLVElHNVpLaFllM2F6Ymo5Y3U5WlZ4VHJNOGpsWm42THk2RXFaaFczY25pMUc1cEhubHNOTlUyYk9tVERjdWFrMTdBOEZQRzdvWlVhb3dkRmpuYVlKR1VMSXlNZ2dvREh5TFVlUlh3aGtQdUxKX1hSYW1iaFoyTHBiZ3IzY0czT2hZbWRhdV9QaXZlV0tSS0lLNG03LTBYY2ktSmxsQzYxM1BvNEtCR0VTU1BPSjBaRTJOM0VZcnExVlZiV2xlcERFQ2N1eWE5dzB3YlV2R1JpNWVkb1BlQVV4UkZKRm1MaTJHNS1oOEVsSUp4WmNZSXJoaG1henU1VFF1Sk9yM1BjYW5R?oc=5",
+            "date": "2026-08-13",
+            "meta": "台灣好新聞",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              },
+              {
+                "cat": "虛擬資產犯罪",
+                "sub": "虛擬貨幣洗錢",
+                "label": "虛擬資產·虛擬貨幣洗錢",
+                "ci": 4
+              }
+            ]
+          },
+          {
+            "title": "政院通過洗錢防制法修正草案 增虛擬資產與第三方支付規範 - 公視新聞",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZUEtTWZFYlBUMldOSVU1VFNwdXI4Tndtd0pQRVZiXzI3bW9tUkc0djRPQktDaHAxM1E2TUtwUnNIQ240N1JxdEwzR1huYXM?oc=5",
+            "date": "2026-08-13",
+            "meta": "公視新聞",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              },
+              {
+                "cat": "虛擬資產犯罪",
+                "sub": "虛擬貨幣洗錢",
+                "label": "虛擬資產·虛擬貨幣洗錢",
+                "ci": 4
+              }
+            ]
+          },
+          {
+            "title": "洗錢防制法翻修 罰則加重 - 經濟日報",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaVJfTldUczNjemNQTmdCOXlDVjJQYXFUemcwMGRQVDZSdmt6TzBpVjd3SjZBT09nUXBTbFRlek5ydDJUZHEyaTJUYVl0QVM4eVhUc0pMSm9aQdIBX0FVX3lxTFBJalAwempZV2VvUkpydERYcmxwai1JZWM0bTRBSmtZcVl2Y3o3M09NM213S0kxMS00VHVRX29ObEE1by13a2hzQk90aFFZS2l0RXcyMC1TSnNNeEg3NHFZ?oc=5",
+            "date": "2026-08-13",
+            "meta": "經濟日報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-13",
+            "tags": [
+              {
+                "cat": "金融秩序犯罪",
+                "sub": "洗錢",
+                "label": "金融秩序·洗錢",
+                "ci": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "🇺🇸 美國執法 DOJ／SEC／CFTC",
+        "items": [
+          {
+            "title": "Federal grand jury indicts Albion man for defrauding the VA out of hundreds of thousands of dollars",
+            "url": "https://www.justice.gov/usao-wdny/pr/federal-grand-jury-indicts-albion-man-defrauding-va-out-hundreds-thousands-dollars",
+            "date": "2026-11-20",
+            "meta": "DOJ 司法部",
+            "summary": "U.S. Attorney Michael DiGiacomo announced today that a federal grand jury has returned an indictment charging Timmie L. Haynes, 64, of Albion, NY, with five counts of wire fraud, which carries a maximum penalty of 20 yea",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "Cheyenne Resident Charged with Wire Fraud and Money Laundering in Connection with $270,000 Fraud Scheme",
+            "url": "https://www.justice.gov/usao-wy/pr/cheyenne-resident-charged-wire-fraud-and-money-laundering-connection-270000-fraud-scheme",
+            "date": "2026-11-20",
+            "meta": "DOJ 司法部",
+            "summary": "CHEYENNE, Wyo. – A federal indictment has been unsealed charging Ariyan Devonte Trawick, of Cheyenne, in connection with a scheme to defraud three victims between March and August 2024.",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "Former Middle School Teacher Pleads Guilty to Money Laundering",
+            "url": "https://www.justice.gov/usao-wdtx/pr/former-middle-school-teacher-pleads-guilty-money-laundering",
+            "date": "2026-11-20",
+            "meta": "DOJ 司法部",
+            "summary": "Jeremy Jarod Jackson pleaded guilty in federal court for his scheme to launder more than $500,000 of stolen federal tax refunds",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "Federal Jury Finds Couple Guilty of Wire Fraud and Money Laundering in Scheme to Defraud Medicare, Medicaid, and Private Insurers Out of Over $15 Million",
+            "url": "https://www.justice.gov/usao-mn/pr/federal-jury-finds-couple-guilty-wire-fraud-and-money-laundering-scheme-defraud-medicare",
+            "date": "2026-11-20",
+            "meta": "DOJ 司法部",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "Indian National Sentenced to Over 19 Years in Prison for Plotting to Assassinate U.S. Citizen In New York City",
+            "url": "https://www.justice.gov/opa/pr/indian-national-sentenced-over-19-years-prison-plotting-assassinate-us-citizen-new-york-city",
+            "date": "2026-11-20",
+            "meta": "DOJ 司法部",
+            "summary": "Nikhil Gupta, also known as “Nick,” 55, an Indian national, was sentenced today to 235 months in prison for his participation in a scheme directed by a government of India employee to assassinate an attorney and politica",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+            "date": "2026-11-20",
+            "meta": "SEC 證管會",
+            "summary": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+            "date": "2026-11-20",
+            "meta": "SEC 證管會",
+            "summary": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-found",
+            "is_new": true,
+            "_sort": "2026-11-20",
+            "tags": []
+          },
+          {
+            "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+            "date": "2026-11-19",
+            "meta": "SEC 證管會",
+            "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lu",
+            "is_new": true,
+            "_sort": "2026-11-19",
+            "tags": []
+          }
+        ]
+      }
+    ],
+    "judgments": [],
+    "judgments_updated": "2026-11-20 22:57",
+    "judgments_note": "執行失敗：<urlopen error timed out>",
+    "graph": {
+      "nodes": [
+        {
+          "id": "i1",
+          "label": "詐貸4.2億、掏空金毓泰13.2",
+          "title": "詐貸4.2億、掏空金毓泰13.2億 互立集團執行長遭起訴、老闆通緝中 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pM09RNW5ZcFNadkV0REVQZjdtakQwaUpwZWg2OVl3T3lQLW1NUm5adC1aeVBWWERzMmN3RGZSdC1iN05udjVPVXQzOTJmNGJY0gFWQVVfeXFMTldJT0ozdndXODNHd21qVTdhVU5SZEViWHlpWHQ5UXRXOVJ4TGFEclhja0J5TzdKU2F4dlRDc1VRUnljR2pRamxod0taWWZpMThvbGwtMVE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_詐欺銀行",
+          "label": "詐欺銀行",
+          "group": "concept"
+        },
+        {
+          "id": "c_掏空公司",
+          "label": "掏空公司",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "涉開賭場洗錢 天道盟主「鐵霸」兄",
+          "title": "涉開賭場洗錢 天道盟主「鐵霸」兄弟起訴 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BWW9nNmlNbi02N1BtV19lTFZCUTJQLV83QURtQ2duV0dnRXVKNUFpV2F5UTJicVFnU29qRWppeXpnRXN4bUVBTEhTQm83dHF60gFWQVVfeXFMTi1paUxWU0loTW14cHltcU0xcjlYRWpKcVhwZkFtVF9hRDVMNTludTZZYmFrY3NEeE42VW1xX3lVLU9aOTM1VmhJcUJTc2pOQVBqOF9jN2c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_洗錢",
+          "label": "洗錢",
+          "group": "concept"
+        },
+        {
+          "id": "i4",
+          "label": "天道盟盟主「鐵霸」等涉開賭場結合",
+          "title": "天道盟盟主「鐵霸」等涉開賭場結合第三方支付洗錢 檢方起訴18人 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPSnlrdl9KbG9yWWVMaU1NLVFhUzdEQWttczRyWXdfZzVoU1BnVnUzT3p5US1GMWI4VTZuQURzMWFXc3ZUUnlEbTM5MFlET1M5c1VDd0hFOFJMeTJTbGttdkhnNlpOaFRyRHRBa0FDOTQzTTZ1VmNsQWdObGFqY3p5cDg5ZXhzVHYzeFh2V0U1TjllaTJMNlFDV0RfNmNld2p0aFYxQk1kSjRuMVd3Y0huaEFvMzFMV25KWkJYOGhGX0JkRVZUMW9DMGprV1ZMTWVMamdsUVdDck1iMWhkdEQyOTJFMTZ0Q2VZM3A2RU50R3RtMXIzVVZnbHVpZ3Bzdm9YRzRrb2V6RzB0LUQzZ2tKbFFVeW5XdE9kMnhyUkJQb2Z5ZzlkMmtadUFxOW9Fa1dESlFqRlE0X2kxMGREVHZ2TzEwcXVGV1JCdmFBZU9xSGd0VTZodUxxWU5HbUt3Z1hfckhzUWoxdnhld3AtNXpOTmVsU0RpaTc5YVlmMTRncjNWb3hNM1o4MnQxejd3QVM1WlE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "點名綠委為炒股罪犯修法脫罪 民眾",
+          "title": "點名綠委為炒股罪犯修法脫罪 民眾黨團：蘇巧慧、賴瑞隆等分別連署 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05TVFoY0tndWdOYjE0NGk0ZHRFWGh6NHBrb1pzRzI2TXZQU1c1OC1ycUdCXzNlWDJTQTBqZGJ6QnJkV2ZCT0VMUl9tTXY1U2Vx0gFWQVVfeXFMTUZEZTFyNFdQYzh0MjQtbUp4dlR5RjZHcnJsRHE2VUwwMjA0Wnh3VWRVMnplemoyRVNaMTZCeUdwckRWRHJ0WlRBVVp0clVJU3BoWTBRZmc?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_操縱股價",
+          "label": "操縱股價",
+          "group": "concept"
+        },
+        {
+          "id": "i8",
+          "label": "政院通過《洗錢防制法》部分條文修",
+          "title": "政院通過《洗錢防制法》部分條文修正草案強化犯罪打擊及金融秩序維護| 政治 - Newtalk新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iRTJPQXNkTTRxbUZYSlBJQ1NGYXNZVGtkMmZsRWpNYm91c1pndGJyZnpESUJ2Z3ppRTJjU2hXMGxNUHg0U3F1S0l0ZkdFeEpNeEU3Y1ZROVR3NWs?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "政院通過《洗錢防制法》部分條文修",
+          "title": "政院通過《洗錢防制法》部分條文修正草案 增虛擬資產、第三方支付規範 - 台灣好新聞",
+          "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxOWjVhT2txX1RvODVhTDB0WXVDSzhWT0FiMnN3aGZGNDViMkVoMktiUXVPSWFDbXAyYTlVVm5GanRRU3ptZ2xuVS14N2hwdkpDVldVSG5XTDdDWnREaGlRSktpN2VwSDJud3JXVkM4QWMyU1pVUEpNdlVnWEJuNnpWQklnTmFNNU5odkYtN1p4LUZVeUlPdDBWWThBX1kzcE9FVjZIVXpUQUFJU1ZvMUg4THltaE9ySEZ3cnh0R1lDS05MTjZ4ZkRkdTdkM3ppQ3pLVElHNVpLaFllM2F6Ymo5Y3U5WlZ4VHJNOGpsWm42THk2RXFaaFczY25pMUc1cEhubHNOTlUyYk9tVERjdWFrMTdBOEZQRzdvWlVhb3dkRmpuYVlKR1VMSXlNZ2dvREh5TFVlUlh3aGtQdUxKX1hSYW1iaFoyTHBiZ3IzY0czT2hZbWRhdV9QaXZlV0tSS0lLNG03LTBYY2ktSmxsQzYxM1BvNEtCR0VTU1BPSjBaRTJOM0VZcnExVlZiV2xlcERFQ2N1eWE5dzB3YlV2R1JpNWVkb1BlQVV4UkZKRm1MaTJHNS1oOEVsSUp4WmNZSXJoaG1henU1VFF1Sk9yM1BjYW5R?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_虛擬貨幣洗錢",
+          "label": "虛擬貨幣洗錢",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "政院通過洗錢防制法修正草案 增虛",
+          "title": "政院通過洗錢防制法修正草案 增虛擬資產與第三方支付規範 - 公視新聞",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kZUEtTWZFYlBUMldOSVU1VFNwdXI4Tndtd0pQRVZiXzI3bW9tUkc0djRPQktDaHAxM1E2TUtwUnNIQ240N1JxdEwzR1huYXM?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "洗錢防制法翻修 罰則加重 - 經",
+          "title": "洗錢防制法翻修 罰則加重 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FaVJfTldUczNjemNQTmdCOXlDVjJQYXFUemcwMGRQVDZSdmt6TzBpVjd3SjZBT09nUXBTbFRlek5ydDJUZHEyaTJUYVl0QVM4eVhUc0pMSm9aQdIBX0FVX3lxTFBJalAwempZV2VvUkpydERYcmxwai1JZWM0bTRBSmtZcVl2Y3o3M09NM213S0kxMS00VHVRX29ObEE1by13a2hzQk90aFFZS2l0RXcyMC1TSnNNeEg3NHFZ?oc=5",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i1",
+          "to": "c_詐欺銀行"
+        },
+        {
+          "from": "i1",
+          "to": "c_掏空公司"
+        },
+        {
+          "from": "i2",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i4",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i7",
+          "to": "c_操縱股價"
+        },
+        {
+          "from": "i8",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i9",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i9",
+          "to": "c_虛擬貨幣洗錢"
+        },
+        {
+          "from": "i10",
+          "to": "c_洗錢"
+        },
+        {
+          "from": "i10",
+          "to": "c_虛擬貨幣洗錢"
+        },
+        {
+          "from": "i11",
+          "to": "c_洗錢"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tw-ip",
+    "name": "台灣智財（著作權／商標／專利）",
+    "desc": "三大領域各自蒐集（判決・侵權・修法）",
+    "area": "台灣",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "© 著作權",
+        "items": [
+          {
+            "title": "AI訓練「合理使用」？Sony、Warner接棒提告Anthropic，AI著作權訴訟戰火延燒 - TNL The News Lens 關鍵評論網",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbWk5QTJZTGVpZWNWcFRfTk9SNTN0WHh4QWRHemVrcU1ZUU93RWQ4Z1lGRlBLVW1FMUpYV0Zfc1REQXBXVFdUTzNnWlJ6OEh3TTRPdg?oc=5",
+            "date": "2026-09-02",
+            "meta": "TNL The News Lens 關鍵評論網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-02"
+          },
+          {
+            "title": "美司法部提交支持OpenAI意見書，在紐時著作權訴訟中主張「AI學習屬合理使用」 - BigGo 財經",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lTXg1WXoyVjkweGNzckE1M2tUWGJSeWNzZERiamxTRllNaFFIbng1R2hPd2NlQ3k3THRZSEJ2a3hsNENEM0xkWWJkLV9xREE0QlkxZzlYcEJiODFNYUJrS1N1WEdwQnhCRnowX2ZuNzVOUWR6MTc2MlRB?oc=5",
+            "date": "2026-09-01",
+            "meta": "BigGo 財經",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-01"
+          },
+          {
+            "title": "MIT 研究：AI 模型越大越難溯源訓練資料，版權訴訟恐更難解 - TechNews 科技新報",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMVdhR0twampxZ0RiM2V1WWtHMTZVTE50a3RyRjc0Q25QNi1UN0k5Ql85SWVlTS1Kd2hrblZISlZSR2oxTjdRbGNndnVYQWdDM3M2SDZUajl2WEdrdy1tNG9TN0NqbUtXand6LTlQWmkxcjRBWFhYS19TSWUtN3RxbDhxT1E?oc=5",
+            "date": "2026-08-20",
+            "meta": "TechNews 科技新報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-20"
+          },
+          {
+            "title": "科技產業資訊室(iKnow) - 陳家駿、許正乾 - 科技產業資訊室",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDd3ZtTWdDV0xqMVRsUEVZMjlMSG1EV2J0aE10a29QLUd6WjV3WFhzSDJRRXRoYURlUWMySHJ4d3VLb0NNVkFISkN3YzJYYnBOd1RBNWxtOHBzdw?oc=5",
+            "date": "2026-08-18",
+            "meta": "科技產業資訊室",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-08-18"
+          },
+          {
+            "title": "Anthropic 以史上最高15 億美元和解著作權訴訟：但作者與出版社不覺得贏了| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblpiOGRUNE9jY2hxZVpWSU0tQTJpSmhoUnlkb2p6cWNSVFpnY3VObHZtUzZBcjEzSlMxWW83V2V2ZVVHQUxpNW1LWTFUdDBFOHltZXpZY3d3aTVBemQzZFQ1VGtkdGFSTHMxMDgxdjM2S1BtQ1lCdGE5N2taSW9VUkl4eDB5djR5SGlYaDktS24yLVdsMXdua2J0VkZIM3pySlVKRk5UMUtlZk0?oc=5",
+            "date": "2026-07-21",
+            "meta": "動區動趨",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-21"
+          },
+          {
+            "title": "【北美智權報408期】以多案例介紹原住民文創著作權侵權事件 | 2026 年 7 月 16 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UZVJ3a3o0SEpZcW8zVEpvSWNrOUg2YlFaXy13R3pkay1VdXdaWnFscHpKTHhMQ2pWeWc0LXJTWE9naVcxd2FlZg?oc=5",
+            "date": "2026-07-16",
+            "meta": "北美智權",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-16"
+          }
+        ]
+      },
+      {
+        "label": "™ 商標",
+        "items": [
+          {
+            "title": "國際體壇動態精選 詹姆斯提告侵權、梅西率隊力拚衛冕 | 民視新聞網 - LINE TODAY",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5TEdXY3hvQW1laVM0dTZXZmRCMVhOMWZUSGQxT3J1YkE3Ym1RQjQxSTR1SGZTbWJNSFRNeFFXdU5XSC15ZnJvdElaeXY5OFM4blFLSEh3?oc=5",
+            "date": "2026-11-18",
+            "meta": "LINE TODAY",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "LeBron James 控告 AI 運動博彩分析應用程式涉嫌冒用代言人身分 - Business Insider Taiwan",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WbmJLS2JfSnNKbUxDU0FJMk4wb0t2bzBPUGRDNzIycG90MGhBaDd0UXdRdWdTRzNyMWZXa29Kc2dYLW5Yal9lelh4MEhzS3BUNXhLY0JR?oc=5",
+            "date": "2026-11-17",
+            "meta": "Business Insider Taiwan",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "遭AI冒名打賭博廣告 LeBron James怒告APP侵權 - 民視運動網",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12VTdPb3JVRW94SW5nTm5qUGNxaUlPSmpqZExqWWJhRUd1enNreGJuZ1FSNHROWGRfZ3cwMjRkVGxtVXpaM0luMDZpVWJfS0VEekZLbjZfTU1wdGxINlNWMEg1SQ?oc=5",
+            "date": "2026-11-17",
+            "meta": "民視運動網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "【北美智權報】破解數位時代商標侵權陷阱，台灣商標協會大師講堂11/20解析平台法律責任| 2026 年 11 月 10 日 - 北美智權",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIMHd0c3dFYTF6T2syX2cwOFZmckFnUmlvM0c0dlJFTHNOckJDY3lhVHJUZkVGZUlodmVISE10b094QlBFcHZlcw?oc=5",
+            "date": "2026-11-10",
+            "meta": "北美智權",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-10"
+          },
+          {
+            "title": "Louis Vuitton商標訴訟勝訴卻引爆中國消費者反彈，中國銷售驟減30% - BigGo 財經",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90MXIxNE1VUTA1NWVqeGRvRkw2TmpobXNOVnVQRm1jSEY0OERRUHdoZkVfcG1IbGRoUjBCZl9xVmJMX0dXSmd0UlBJOERRVlBWelg5TklGWW82YmljUEVRVTVkNTZGMmJDOXNZR2JtUVlQdWtzNDZ4Snln?oc=5",
+            "date": "2026-09-10",
+            "meta": "BigGo 財經",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-10"
+          },
+          {
+            "title": "商標侵權 珠寶Tiffany提告陸企衛生棉Alffany - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWFBrNGJ1VXVKN1YwSDhGel9XVHlKWjFmaXR6TXU4elNFdFdHNGQyWF9SV1hGdmxEVnBuNkk4ZFRUay04OWxnXzl4OFFrYmdI?oc=5",
+            "date": "2026-07-19",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-19"
+          }
+        ]
+      },
+      {
+        "label": "⚙ 專利",
+        "items": [
+          {
+            "title": "【即時新聞】蘋果(AAPL)最新遭新創指控專利侵權！求償1.6億美元恐面臨印度銷售禁令 - CMoney投資網誌",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW9JVEVsZkk4RFM2WDdHZWxzNHU2ellWU0t4WXlEM1lrOVFGaDR1TmszOXN2T3BGdWNsU3ZYeFN6S3pLNmswVUhQQ21sV2twdFZISHcxRlRXdGV3bjU5WVZyTlNEeEx5enpUQnd4cmdxZjl5Z1BYdHZtUGVkaG1oekkyWC13SDR0cGF5UjJqYTk?oc=5",
+            "date": "2026-11-21",
+            "meta": "CMoney投資網誌",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-21"
+          },
+          {
+            "title": "美國創企GG在印度起訴蘋果 指控NameDrop功能侵權 - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuZG9RelNQQTMxRWYzM3haSW52V3VsVTRmT3hnVGllajNueWw0RXZST0o3djJTelFDX21ETXBoNnBfbzVnVEM5NFpwdTFkbXJvRW50TlRjY3FKSjRsaUNBcmV5TzYwRHIxY1E?oc=5",
+            "date": "2026-11-21",
+            "meta": "TradingView",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-21"
+          },
+          {
+            "title": "iKnow - 科技產業資訊室",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yZUN3a3cxM3hYMkNneGUybkhpVW9SeGpLcFcxWGVkSFZ5YjgtT1FuTHdsWVgzM0VuRHAzTU5XSDAyMDR5Mzc5UzhiNlJ4cG52X09QY21mbGljdw?oc=5",
+            "date": "2026-11-19",
+            "meta": "科技產業資訊室",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-19"
+          },
+          {
+            "title": "美337查台廠專利侵權台達電喊有信心經部：必要時協助- 產業 - 工商時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3UUk5SWVfbWRweFVJaktYTkZjT3pGbTlmdkJWRzZYdlpuc0JhR09yckJ1SXI2QzdqYzNMVFNDYURKaUNCclZfOE85Z19xaEJIOXgyNTZfNk90S1dUdFQ4?oc=5",
+            "date": "2026-10-10",
+            "meta": "工商時報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-10"
+          },
+          {
+            "title": "台積電捲美國專利侵權風波 經濟部力挺：依法合規 - Yahoo股市",
+            "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOVG1ZSmVreHd4dURmcF94T3N6RnlVWGpUamM5NzdPb0k3VnlmalpTZkJvRlZoWjRmWl80SWNzdG9SdGZMVy1LcmhEWjhTNXdMWnVrZ3FzaFJpUW9FZnFOUHYxUXVxd0NXRVZiQWdsOUtuS0dwd0g3QnNMak1zakhsVldSR2hLd1NRaGoyRDJzUzdNVDV3MVZST3k5V0JYaTR6OTFSd05wZkNNRGc3cDJDNlRYNXU1eFZHM2RpeWZQakNsdS1ndW9TeFhmQ0lXUXJTSEdjRU5KM2otSVZCdERteGl6V1Q2aWpoSUpIbHdMQ29qRm9IbUhBeERDRlBGNjNpZ1k0NExWZU9DbldndWJZcXRCei1RT09UQk1jTHBKWFpnd2pFWE4tQjFOMjdzT3ljR1lzN3VtWXBFSjJiU3hBQ3dEbnRwRURqUEgxMlE0ekdkeHhiMmRrcjhMbkpXZjdubGFQNw?oc=5",
+            "date": "2026-06-10",
+            "meta": "Yahoo股市",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-06-10"
+          },
+          {
+            "title": "專利侵權戰延燒 汎銓再回應光焱質疑 - 經濟日報",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Vld3cDEycGRiZzVodE1leC1pbXlXWU1RcjlTVS1WVW5sRjdIZExNMTloX3dxOGp0M2pxMzhMbUtlTHBtMHJ3cDFnSzVPY2I3QkloaDZ2U2Rxd9IBX0FVX3lxTFBpQWZQWmNOaGlDRnVBTERFc2c3eUZ3X0tTdlV6eF9oNmNJajRYOXFDOEpnZmtoQ1pGTl9NR3BtTGFhQnFjRXVRYUNpMUVWRENpX0ZHYnpSMDhtRTltR2ZJ?oc=5",
+            "date": "2026-03-26",
+            "meta": "經濟日報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-03-26"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "AI訓練「合理使用」？Sony、",
+          "title": "AI訓練「合理使用」？Sony、Warner接棒提告Anthropic，AI著作權訴訟戰火延燒 - TNL The News Lens 關鍵評論網",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUbWk5QTJZTGVpZWNWcFRfTk9SNTN0WHh4QWRHemVrcU1ZUU93RWQ4Z1lGRlBLVW1FMUpYV0Zfc1REQXBXVFdUTzNnWlJ6OEh3TTRPdg?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "美司法部提交支持OpenAI意見",
+          "title": "美司法部提交支持OpenAI意見書，在紐時著作權訴訟中主張「AI學習屬合理使用」 - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lTXg1WXoyVjkweGNzckE1M2tUWGJSeWNzZERiamxTRllNaFFIbng1R2hPd2NlQ3k3THRZSEJ2a3hsNENEM0xkWWJkLV9xREE0QlkxZzlYcEJiODFNYUJrS1N1WEdwQnhCRnowX2ZuNzVOUWR6MTc2MlRB?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i2",
+          "label": "MIT 研究：AI 模型越大越難",
+          "title": "MIT 研究：AI 模型越大越難溯源訓練資料，版權訴訟恐更難解 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMVdhR0twampxZ0RiM2V1WWtHMTZVTE50a3RyRjc0Q25QNi1UN0k5Ql85SWVlTS1Kd2hrblZISlZSR2oxTjdRbGNndnVYQWdDM3M2SDZUajl2WEdrdy1tNG9TN0NqbUtXand6LTlQWmkxcjRBWFhYS19TSWUtN3RxbDhxT1E?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "Anthropic 以史上最高1",
+          "title": "Anthropic 以史上最高15 億美元和解著作權訴訟：但作者與出版社不覺得贏了| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblpiOGRUNE9jY2hxZVpWSU0tQTJpSmhoUnlkb2p6cWNSVFpnY3VObHZtUzZBcjEzSlMxWW83V2V2ZVVHQUxpNW1LWTFUdDBFOHltZXpZY3d3aTVBemQzZFQ1VGtkdGFSTHMxMDgxdjM2S1BtQ1lCdGE5N2taSW9VUkl4eDB5djR5SGlYaDktS24yLVdsMXdua2J0VkZIM3pySlVKRk5UMUtlZk0?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "【北美智權報408期】以多案例介",
+          "title": "【北美智權報408期】以多案例介紹原住民文創著作權侵權事件 | 2026 年 7 月 16 日 - 北美智權",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UZVJ3a3o0SEpZcW8zVEpvSWNrOUg2YlFaXy13R3pkay1VdXdaWnFscHpKTHhMQ2pWeWc0LXJTWE9naVcxd2FlZg?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_侵權",
+          "label": "侵權",
+          "group": "concept"
+        },
+        {
+          "id": "i6",
+          "label": "國際體壇動態精選 詹姆斯提告侵權",
+          "title": "國際體壇動態精選 詹姆斯提告侵權、梅西率隊力拚衛冕 | 民視新聞網 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5TEdXY3hvQW1laVM0dTZXZmRCMVhOMWZUSGQxT3J1YkE3Ym1RQjQxSTR1SGZTbWJNSFRNeFFXdU5XSC15ZnJvdElaeXY5OFM4blFLSEh3?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "遭AI冒名打賭博廣告 LeBro",
+          "title": "遭AI冒名打賭博廣告 LeBron James怒告APP侵權 - 民視運動網",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12VTdPb3JVRW94SW5nTm5qUGNxaUlPSmpqZExqWWJhRUd1enNreGJuZ1FSNHROWGRfZ3cwMjRkVGxtVXpaM0luMDZpVWJfS0VEekZLbjZfTU1wdGxINlNWMEg1SQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i9",
+          "label": "【北美智權報】破解數位時代商標侵",
+          "title": "【北美智權報】破解數位時代商標侵權陷阱，台灣商標協會大師講堂11/20解析平台法律責任| 2026 年 11 月 10 日 - 北美智權",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIMHd0c3dFYTF6T2syX2cwOFZmckFnUmlvM0c0dlJFTHNOckJDY3lhVHJUZkVGZUlodmVISE10b094QlBFcHZlcw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_商標",
+          "label": "商標",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "Louis Vuitton商標訴",
+          "title": "Louis Vuitton商標訴訟勝訴卻引爆中國消費者反彈，中國銷售驟減30% - BigGo 財經",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90MXIxNE1VUTA1NWVqeGRvRkw2TmpobXNOVnVQRm1jSEY0OERRUHdoZkVfcG1IbGRoUjBCZl9xVmJMX0dXSmd0UlBJOERRVlBWelg5TklGWW82YmljUEVRVTVkNTZGMmJDOXNZR2JtUVlQdWtzNDZ4Snln?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "商標侵權 珠寶Tiffany提告",
+          "title": "商標侵權 珠寶Tiffany提告陸企衛生棉Alffany - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fWFBrNGJ1VXVKN1YwSDhGel9XVHlKWjFmaXR6TXU4elNFdFdHNGQyWF9SV1hGdmxEVnBuNkk4ZFRUay04OWxnXzl4OFFrYmdI?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "【即時新聞】蘋果(AAPL)最新",
+          "title": "【即時新聞】蘋果(AAPL)最新遭新創指控專利侵權！求償1.6億美元恐面臨印度銷售禁令 - CMoney投資網誌",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbW9JVEVsZkk4RFM2WDdHZWxzNHU2ellWU0t4WXlEM1lrOVFGaDR1TmszOXN2T3BGdWNsU3ZYeFN6S3pLNmswVUhQQ21sV2twdFZISHcxRlRXdGV3bjU5WVZyTlNEeEx5enpUQnd4cmdxZjl5Z1BYdHZtUGVkaG1oekkyWC13SDR0cGF5UjJqYTk?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "i13",
+          "label": "美國創企GG在印度起訴蘋果 指控",
+          "title": "美國創企GG在印度起訴蘋果 指控NameDrop功能侵權 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuZG9RelNQQTMxRWYzM3haSW52V3VsVTRmT3hnVGllajNueWw0RXZST0o3djJTelFDX21ETXBoNnBfbzVnVEM5NFpwdTFkbXJvRW50TlRjY3FKSjRsaUNBcmV5TzYwRHIxY1E?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "美337查台廠專利侵權台達電喊有",
+          "title": "美337查台廠專利侵權台達電喊有信心經部：必要時協助- 產業 - 工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3UUk5SWVfbWRweFVJaktYTkZjT3pGbTlmdkJWRzZYdlpuc0JhR09yckJ1SXI2QzdqYzNMVFNDYURKaUNCclZfOE85Z19xaEJIOXgyNTZfNk90S1dUdFQ4?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "台積電捲美國專利侵權風波 經濟部",
+          "title": "台積電捲美國專利侵權風波 經濟部力挺：依法合規 - Yahoo股市",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOVG1ZSmVreHd4dURmcF94T3N6RnlVWGpUamM5NzdPb0k3VnlmalpTZkJvRlZoWjRmWl80SWNzdG9SdGZMVy1LcmhEWjhTNXdMWnVrZ3FzaFJpUW9FZnFOUHYxUXVxd0NXRVZiQWdsOUtuS0dwd0g3QnNMak1zakhsVldSR2hLd1NRaGoyRDJzUzdNVDV3MVZST3k5V0JYaTR6OTFSd05wZkNNRGc3cDJDNlRYNXU1eFZHM2RpeWZQakNsdS1ndW9TeFhmQ0lXUXJTSEdjRU5KM2otSVZCdERteGl6V1Q2aWpoSUpIbHdMQ29qRm9IbUhBeERDRlBGNjNpZ1k0NExWZU9DbldndWJZcXRCei1RT09UQk1jTHBKWFpnd2pFWE4tQjFOMjdzT3ljR1lzN3VtWXBFSjJiU3hBQ3dEbnRwRURqUEgxMlE0ekdkeHhiMmRrcjhMbkpXZjdubGFQNw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i17",
+          "label": "專利侵權戰延燒 汎銓再回應光焱質",
+          "title": "專利侵權戰延燒 汎銓再回應光焱質疑 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05Vld3cDEycGRiZzVodE1leC1pbXlXWU1RcjlTVS1WVW5sRjdIZExNMTloX3dxOGp0M2pxMzhMbUtlTHBtMHJ3cDFnSzVPY2I3QkloaDZ2U2Rxd9IBX0FVX3lxTFBpQWZQWmNOaGlDRnVBTERFc2c3eUZ3X0tTdlV6eF9oNmNJajRYOXFDOEpnZmtoQ1pGTl9NR3BtTGFhQnFjRXVRYUNpMUVWRENpX0ZHYnpSMDhtRTltR2ZJ?oc=5",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i0",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i1",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i1",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i2",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i4",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i5",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i5",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i6",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i8",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i9",
+          "to": "c_商標"
+        },
+        {
+          "from": "i9",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i10",
+          "to": "c_商標"
+        },
+        {
+          "from": "i10",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i11",
+          "to": "c_商標"
+        },
+        {
+          "from": "i11",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i12",
+          "to": "c_專利"
+        },
+        {
+          "from": "i12",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i13",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i15",
+          "to": "c_專利"
+        },
+        {
+          "from": "i15",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i16",
+          "to": "c_專利"
+        },
+        {
+          "from": "i16",
+          "to": "c_侵權"
+        },
+        {
+          "from": "i17",
+          "to": "c_專利"
+        },
+        {
+          "from": "i17",
+          "to": "c_侵權"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ai-ip",
+    "name": "AI 智財（著作權／商標／專利）",
+    "desc": "生成式 AI 對三大智財領域的衝擊（國際＋台灣）",
+    "area": "國際",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "© AI 著作權",
+        "items": [
+          {
+            "title": "AI Copyright Rulings Put Data Governance on the Institutional Agenda - PYMNTS.com",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnFvVXpTRjBLQURTZFRXWnlqYk5FbWZjTUNqRHdPWllDSWd2VU5NVXg4alRBTjNuUmQ2bkc1aUU4d0MwX2J0LUlJUXdlMEdYOWFOUTNYVjlfWnVYMmM3VTFhVE5DUVhwbUlJSF9fZGlhTFMydHZKdzdtQ3dpdXg2RGpLSzhBcEVrZ3g4UjY3M2YwYkV4cV94TWh3T2g3bXY0N0NLMTVqSW10bGE0LVpnVy1qWTdOQWpwS3dkYUphYkViTGRv?oc=5",
+            "date": "2026-11-20",
+            "meta": "PYMNTS.com",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "AI Copyright Decisions Raise Broader Questions About Institutional Governance - JD Supra",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUNGSzRVSDEzV2k1UE9WUVpYNHVrYk5YbkdTb2ltWnJ4dHVWWEF2ckVDeFRXUTRPSGJMajkzZmVWZHN6VHdicGhIX2hYTWZLbEp5QUdYZlN4MlF6X080YmE3NE5FTFY3TU5LYmpvWHBNekRCQUpVVUpOeFNISmswZ2ZmUC1JQQ?oc=5",
+            "date": "2026-11-20",
+            "meta": "JD Supra",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Wizards of the Coast shares AI copyright settlement money with D&D's authors - Wargamer",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94dW81d09BSWhaRjZyN1lDWHhobmNOT2lqenZoY19xdHpwNmVaQ0lZQlZkOE1RcEh3MmlRV3IzeUJyaVdVd3VLUjZXeElqZHhMZllic0VIUjdXZDdMWkE?oc=5",
+            "date": "2026-11-20",
+            "meta": "Wargamer",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Americans don’t have to choose between our AI future and ripping off copyright owners - Fox News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVVzZFhfckNkSWhReWkwTjJGU3JBWWlCZDFQaE14anBGd0E5VGEzWWYwYUU3a2YzWUxLUlNUMktwRmZCSFJwVmI5cXhiSXlGUkNEZmVCMjE1VmJ3Szc5elV6Rm1HY0o5Nk1hOF9ONjFBc0FxMU1fdWhmQmhaLXJsMjB5ZTM4QmFQbmZsMjBRSmhfcXhnNm1JUE1talRCRi1tRWfSAacBQVVfeXFMTmlsa2J2Y0x1S2pxc0RjRlVhcnAtcGlvTDc5SDdLcGlhZkV3bmhZTkVWVVN4bzNZbG5VWmV4ZTRfQ3BrWXBaWEJ5bk9mSVBGbFdocVNxNVNjOUdlU2h3dkhfUE1iTkJBcV84RWF3QS1TQkVJSXdXT1RzY0wxRGh2OGh1MkVJQ0RjTFQzWDdMX0tFTWRyTENzZ0ZNWE5UWjk3d3ZVaHhvb0E?oc=5",
+            "date": "2026-11-20",
+            "meta": "Fox News",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Congress Faces Decisions on AI Training and Copyright Law - Legis1",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9menlxMEpMT1ZmOUtBX0ZvOEZYZk5xVmRnOHlScmpIcUhUOTFzbVRuYlpzQkFpUzhHVDBwdUhtVzZ2MTFVZE9uelo0RXBaOXdFYnpJODhtbWNlSEFWYnNwMEgzSDJuOENyVHFRc015allDVm82RWl4ZA?oc=5",
+            "date": "2026-11-18",
+            "meta": "Legis1",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone - Electronic Frontier Foundation",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0tT1RhcVpfUTlSNEZOaWZUR1owRkNIQzExTnpzTk9lV0E3dWpYZmEtVjQ2WFhkQUY3bmswbFJ2SnNIdnFZbWUzZm13YzM2bGJ2TDNQbmY0X1V3aW51NFVhUmdWSlBGN3dtVXVYMkJTOVdvZk5YWk9EN1VYbXVXUDVNMDZXZzZCaGNtMUtSd1dKb1pKSHNic1ZtZw?oc=5",
+            "date": "2026-10-30",
+            "meta": "Electronic Frontier Foundation",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-30"
+          },
+          {
+            "title": "AI訓練侵害著作權爭議，為什麼美國只打民事官司、不告刑事？ - TNL The News Lens 關鍵評論網",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QNVlNaUg2Um1iZTk2dFVOWEZ4VTFFRG0xdDRELS15RDAyeE56dmRpQ0pXeWRiU3lQQWFQMW5UU00tdG5qWFhpZkFqQ0NKaXZHTVc2Zw?oc=5",
+            "date": "2026-10-07",
+            "meta": "TNL The News Lens 關鍵評論網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-07"
+          },
+          {
+            "title": "林禹萱觀點 ：生成式AI的著作權挑戰─Sony Music控告Anthropic 侵權案解析 - 風傳媒",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aUTBYazlOSE9VdHR0aTNwYU9FQ3VhSnM3YU03WUQ5NnhLa25xVjc2YjVvZXYzSXhzNVU4U2NBcnJQcUl0ZW9qZnZCMUFpZw?oc=5",
+            "date": "2026-09-10",
+            "meta": "風傳媒",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-10"
+          }
+        ]
+      },
+      {
+        "label": "™ AI 商標",
+        "items": [
+          {
+            "title": "LeBron James sues sports betting app over AI likeness, trademark infringement - Courthouse News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmlFT2JRS2pwTGJ1bmV6Mnh6aDNaa3ZvY2Z6ZzZ5Y2VDU3FSRm5WTmJZdUFJNFlpZE5IaTNpNEZkbnhMRFdFUFBkT3U1eU9ncWU3dWlOWUpjVWhCamF1cmFmQW95SnkweE85YnR0eXZ2RzFXcWpWZS1pVG0yYlk0MUxlcUdicUdZSXh1NVZCdlFMSm05WWFVNm9zRFBJYUtDLUM4b1JZTm9yZEk?oc=5",
+            "date": "2026-11-18",
+            "meta": "Courthouse News",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "LeBron’s AI Suit May Set Precedent in Futuristic NIL Disputes - Sportico.com",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjljTk02X3ZsRjd6WFVZT0N1RmJRd0tBckZRaHhzVG4yb2RUaUl5MVBMWnJrbDB5NjNHcXM3amUtS2xIMG5saVVrZ3NnUW10UTF4eUxsemtSQUxoSXRaTDM0NUVKYU4zSkV1Ty1KSkhJRVRTdmxkZzBlX1g3c09tNm04Q0lLZmR1TkxFaHdSb2c0bHREYlZmMHVabUdlXzA?oc=5",
+            "date": "2026-11-18",
+            "meta": "Sportico.com",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "LeBron James sues creators of 'Bron AI,' a sports-betting research app, over AI-generated ad - PhillyVoice",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUVlUzZBczZmWjd0NXF6dWR6cVJYd0lMNVVNeXl6emJRSW9qb05xeW5kQTV5bDBCcm1MNnotWEx2VlEzYVNNSnhGX3VHY2Jsa2pDNFJQUUFRR3BiQjhfUHk4VkZ1dnU0MzdiWERNNThWTTFyMmVJWUFsUmtQQTF3eDM2WGFfYVBTdVE?oc=5",
+            "date": "2026-11-18",
+            "meta": "PhillyVoice",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "NBA／詹皇告運動博彩App盜用綽號和AI分身控侵害商標權| NBA | 運動 - UDN",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mOThveF9WVEJoUHRMc2FPRjUzRjMzWEdEd0l2dGFhQkVrZjRJb0FxY3F4QlBXbjhJQU9pdklnSWZJWXZfNEF3TlNuU0czV2tJ?oc=5",
+            "date": "2026-11-18",
+            "meta": "UDN",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "LeBron James sues 'Bron' sports betting app, alleging trademark infringement - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTFzNU52b0VucEpjV2Vib2xZdnlRVF9ITkNIOElpTTB4d3JlN29LWHN0d1RaYUxnRzhWal80bHJ1RVlqVXByOTNjZldES1JwZng2dVZRdDhxbUItWFlxbzlaTHVZRzllRldHdTlTMXFRZS1ZNnJZenl4cU9kRWFRWG1BZDh3SnNOWWV5QWpENnFlOVkwZFAxbHhXR054QzJHUnNVbDdVanIzSzNxOGZpWWVOaFNJRU9qTWt5VW11Z25qWWFN?oc=5",
+            "date": "2026-11-17",
+            "meta": "Reuters",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "Adobe blocked from using 'Foundry' name for AI tools during trademark dispute - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnBkYWdjejg4cFQ0VVNERHk4Q1N0dTlURFE4M3NzckxMcXBHSEdIeXN6eFJ4TXp6dFZPY01ZaFlHYm1QdTJ2MUNEZ0Z6RllOWmhzdmxfbW1INUdibXNtV2QxM2xzX0dNOGVhNzNaQlBUTFBRWWs1RFBKLUFpbnhkV25OMl9IOXBpYmJsZGVjQ1lNRFNTUnA1R2p0WlFUcXhrLVNYNVZPT3JSTXVKVExPUXJXOGxJNUZqOTFoRjEwSQ?oc=5",
+            "date": "2026-11-16",
+            "meta": "Reuters",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16"
+          },
+          {
+            "title": "Elice Group完成模組化AI資料中心「PMDC」商標註冊 - BigGo",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OZnpMRkF3Q2thV3BqTDY4UWo4R1VYVW5TRXVPRlJ6am9iU0l0bDZoU3JiNXQ3a3hmMVhPVnpMbWJiNVU0V3diX1IwWkFMRFVFTE5QNWlsWEFWUW5sYUpMeTV6QXJnaFMxZFFTdlUxeF9uMGtCaEJvYUdn?oc=5",
+            "date": "2026-10-07",
+            "meta": "BigGo",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-07"
+          },
+          {
+            "title": "梅洛尼申請為「聲音」註冊商標 能擋住 AI 深偽技術嗎？ - Yellow.com",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRcXRVLW10X2hYQ1UwMkFyQUh5dXlWYm1VMlNqRUc5Q1R3QmRwUUVUMFpDc01PSW9raEpQelF3N2FWaUNLRDdxMmNfM3VGWk40cWp0ai1OZDhIamxtT3gtZjBqNzk0Q2JtbWFsalVLWHl3ZnNJYkNRUXl3?oc=5",
+            "date": "2026-10-05",
+            "meta": "Yellow.com",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-05"
+          }
+        ]
+      },
+      {
+        "label": "⚙ AI 專利",
+        "items": [
+          {
+            "title": "〈晶呈法說〉晶呈展2項光纖專利新技術布局市場 不受AI需求疑放緩減少擴產 - 鉅亨網",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YckNSTmJPOE9LQjdWcm1LWWk1djYtOFRGSGpPbXAxcWh2SmhndWx4dEpSdG5nM3YzcFdOYVI0R0NfRXlTNTYxYWpmekFYWWs?oc=5",
+            "date": "2026-11-20",
+            "meta": "鉅亨網",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "全球專利申請量創歷史新高 聯合國報告指中國成主要推手 | 民視新聞網 - LINE TODAY",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mMVJ6MDRZaGxnamVYVEFCLUt0TG1ueGQ4M1ZtY2lSaVJFMlJFWUVqbEdrZ05ZS0RhNG9PVlJrS2tOc2lOOEU3Z3FkVWhOcGF0UnNaWExn?oc=5",
+            "date": "2026-11-18",
+            "meta": "LINE TODAY",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "美國擴大 AI 晶片管制 陸方：人工智慧不應成為某國專利 - 經濟日報",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMm9XRkxidnZadVZ4djJ6NW0xMFo3OWtsb1lRcG9VeWlTUk4zVnV2Q1RaZkxOYVFTTFdtSENSNGFTM0RIS2FueU9sQzdHWnhSUVAweFdZVkJHd9IBX0FVX3lxTE81YWtrdWNSYzZ2cjlheGY1ZjhLTWRFQVYyZkJXRHhjM3AxeDQ5YUtYYVpfd0oxWjNMVzRnbXNXbVpfMUVJWE53RnNMWVRGYllocGE2SFNhYkE5U1dmMERB?oc=5",
+            "date": "2026-11-17",
+            "meta": "經濟日報",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "There and Back Again: Patent Office Reverts to PTAB Control over IPR Petitions",
+            "url": "https://patentdocs.org/2026/11/16/there-and-back-again-patent-office-reverts-to-ptab-control-over-ipr-petitions/",
+            "date": "2026-11-17",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – A little more than a year after dramatically changing the infrastructure of how petitions to the Patent Trial and Appeal Board were assessed and approved (see “Revision to Rules of Practice Before th",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "微軟 AI 專利可即時修正直播發言，同步調整人物嘴型 - TechNews 科技新報",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenl2ODFINVllbzVoYUljVVRMZ0hSWE1Bc3JIa204OUlZbWVVSnZWX2JhNXJzVU1NRms4ZWJ4aFpuTVRlcFV3TWszSHVMcE1Fd19qRGV2cDA4SXhROGJpWDkyVXF0NnZ2aU85MXZiejJPajRLRzQ3c3ZtS25DV2lEb2tIRWFqTG51R194ZzJENDJnUkx4VU9qNmtUclRSMmNReVhIYzhn?oc=5",
+            "date": "2026-11-12",
+            "meta": "TechNews 科技新報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-12"
+          },
+          {
+            "title": "Syngenta Crop Protection AG v. UPL Ltd. (Fed. Cir. 2026)",
+            "url": "https://patentdocs.org/2026/11/10/syngenta-crop-protection-ag-v-upl-ltd-fed-cir-2026/",
+            "date": "2026-11-11",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – The province of the post-grant review (PGR) provisions of the Leahy-Smith America Invents Act under 35 U.S.C. §§ 321–329 permits a challenger to assert invalidity for anticipation under 35 U.S.C. § 1",
+            "is_new": false,
+            "_sort": "2026-11-11"
+          },
+          {
+            "title": "產險損防科技化 攻AI、專利 - 工商時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zSDc0aXJXREhrcnFtcTUtd2k3X2JrcVE2Vk1PMVFpSFR2TUhkYlpnMXY4bWxCdDYtLTNaYkpocUxPZERNQWl2MmtSSHdaV0dfOEZoT0VaSkNRZThoYnE0?oc=5",
+            "date": "2026-11-09",
+            "meta": "工商時報",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-09"
+          },
+          {
+            "title": "The Mental Process Exception to Patentability is Absurd, but Here’s a Quick Fix",
+            "url": "https://patentdocs.org/2026/10/28/the-mental-process-exception-to-patentability-is-absurd-but-heres-a-quick-fix/",
+            "date": "2026-10-29",
+            "meta": "Patent Docs",
+            "summary": "By Michael Borella – Grab a pencil. Now train a large language model. Not a big one, mind you. Let’s go small, something in the range of a few billion parameters, trained on a modest corpus of a trillion or so tokens. Co",
+            "is_new": false,
+            "_sort": "2026-10-29"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "AI Copyright Rul",
+          "title": "AI Copyright Rulings Put Data Governance on the Institutional Agenda - PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnFvVXpTRjBLQURTZFRXWnlqYk5FbWZjTUNqRHdPWllDSWd2VU5NVXg4alRBTjNuUmQ2bkc1aUU4d0MwX2J0LUlJUXdlMEdYOWFOUTNYVjlfWnVYMmM3VTFhVE5DUVhwbUlJSF9fZGlhTFMydHZKdzdtQ3dpdXg2RGpLSzhBcEVrZ3g4UjY3M2YwYkV4cV94TWh3T2g3bXY0N0NLMTVqSW10bGE0LVpnVy1qWTdOQWpwS3dkYUphYkViTGRv?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "AI Copyright Dec",
+          "title": "AI Copyright Decisions Raise Broader Questions About Institutional Governance - JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUNGSzRVSDEzV2k1UE9WUVpYNHVrYk5YbkdTb2ltWnJ4dHVWWEF2ckVDeFRXUTRPSGJMajkzZmVWZHN6VHdicGhIX2hYTWZLbEp5QUdYZlN4MlF6X080YmE3NE5FTFY3TU5LYmpvWHBNekRCQUpVVUpOeFNISmswZ2ZmUC1JQQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i2",
+          "label": "Wizards of the C",
+          "title": "Wizards of the Coast shares AI copyright settlement money with D&D's authors - Wargamer",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94dW81d09BSWhaRjZyN1lDWHhobmNOT2lqenZoY19xdHpwNmVaQ0lZQlZkOE1RcEh3MmlRV3IzeUJyaVdVd3VLUjZXeElqZHhMZllic0VIUjdXZDdMWkE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Americans don’t ",
+          "title": "Americans don’t have to choose between our AI future and ripping off copyright owners - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVVzZFhfckNkSWhReWkwTjJGU3JBWWlCZDFQaE14anBGd0E5VGEzWWYwYUU3a2YzWUxLUlNUMktwRmZCSFJwVmI5cXhiSXlGUkNEZmVCMjE1VmJ3Szc5elV6Rm1HY0o5Nk1hOF9ONjFBc0FxMU1fdWhmQmhaLXJsMjB5ZTM4QmFQbmZsMjBRSmhfcXhnNm1JUE1talRCRi1tRWfSAacBQVVfeXFMTmlsa2J2Y0x1S2pxc0RjRlVhcnAtcGlvTDc5SDdLcGlhZkV3bmhZTkVWVVN4bzNZbG5VWmV4ZTRfQ3BrWXBaWEJ5bk9mSVBGbFdocVNxNVNjOUdlU2h3dkhfUE1iTkJBcV84RWF3QS1TQkVJSXdXT1RzY0wxRGh2OGh1MkVJQ0RjTFQzWDdMX0tFTWRyTENzZ0ZNWE5UWjk3d3ZVaHhvb0E?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "Congress Faces D",
+          "title": "Congress Faces Decisions on AI Training and Copyright Law - Legis1",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9menlxMEpMT1ZmOUtBX0ZvOEZYZk5xVmRnOHlScmpIcUhUOTFzbVRuYlpzQkFpUzhHVDBwdUhtVzZ2MTFVZE9uelo0RXBaOXdFYnpJODhtbWNlSEFWYnNwMEgzSDJuOENyVHFRc015allDVm82RWl4ZA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "Rewriting Copyri",
+          "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone - Electronic Frontier Foundation",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTC0tT1RhcVpfUTlSNEZOaWZUR1owRkNIQzExTnpzTk9lV0E3dWpYZmEtVjQ2WFhkQUY3bmswbFJ2SnNIdnFZbWUzZm13YzM2bGJ2TDNQbmY0X1V3aW51NFVhUmdWSlBGN3dtVXVYMkJTOVdvZk5YWk9EN1VYbXVXUDVNMDZXZzZCaGNtMUtSd1dKb1pKSHNic1ZtZw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_生成式AI",
+          "label": "生成式AI",
+          "group": "concept"
+        },
+        {
+          "id": "i6",
+          "label": "AI訓練侵害著作權爭議，為什麼美",
+          "title": "AI訓練侵害著作權爭議，為什麼美國只打民事官司、不告刑事？ - TNL The News Lens 關鍵評論網",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QNVlNaUg2Um1iZTk2dFVOWEZ4VTFFRG0xdDRELS15RDAyeE56dmRpQ0pXeWRiU3lQQWFQMW5UU00tdG5qWFhpZkFqQ0NKaXZHTVc2Zw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "林禹萱觀點 ：生成式AI的著作權",
+          "title": "林禹萱觀點 ：生成式AI的著作權挑戰─Sony Music控告Anthropic 侵權案解析 - 風傳媒",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aUTBYazlOSE9VdHR0aTNwYU9FQ3VhSnM3YU03WUQ5NnhLa25xVjc2YjVvZXYzSXhzNVU4U2NBcnJQcUl0ZW9qZnZCMUFpZw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "LeBron James sue",
+          "title": "LeBron James sues sports betting app over AI likeness, trademark infringement - Courthouse News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmlFT2JRS2pwTGJ1bmV6Mnh6aDNaa3ZvY2Z6ZzZ5Y2VDU3FSRm5WTmJZdUFJNFlpZE5IaTNpNEZkbnhMRFdFUFBkT3U1eU9ncWU3dWlOWUpjVWhCamF1cmFmQW95SnkweE85YnR0eXZ2RzFXcWpWZS1pVG0yYlk0MUxlcUdicUdZSXh1NVZCdlFMSm05WWFVNm9zRFBJYUtDLUM4b1JZTm9yZEk?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_商標",
+          "label": "商標",
+          "group": "concept"
+        },
+        {
+          "id": "i11",
+          "label": "NBA／詹皇告運動博彩App盜用",
+          "title": "NBA／詹皇告運動博彩App盜用綽號和AI分身控侵害商標權| NBA | 運動 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mOThveF9WVEJoUHRMc2FPRjUzRjMzWEdEd0l2dGFhQkVrZjRJb0FxY3F4QlBXbjhJQU9pdklnSWZJWXZfNEF3TlNuU0czV2tJ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "LeBron James sue",
+          "title": "LeBron James sues 'Bron' sports betting app, alleging trademark infringement - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUTFzNU52b0VucEpjV2Vib2xZdnlRVF9ITkNIOElpTTB4d3JlN29LWHN0d1RaYUxnRzhWal80bHJ1RVlqVXByOTNjZldES1JwZng2dVZRdDhxbUItWFlxbzlaTHVZRzllRldHdTlTMXFRZS1ZNnJZenl4cU9kRWFRWG1BZDh3SnNOWWV5QWpENnFlOVkwZFAxbHhXR054QzJHUnNVbDdVanIzSzNxOGZpWWVOaFNJRU9qTWt5VW11Z25qWWFN?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "Adobe blocked fr",
+          "title": "Adobe blocked from using 'Foundry' name for AI tools during trademark dispute - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnBkYWdjejg4cFQ0VVNERHk4Q1N0dTlURFE4M3NzckxMcXBHSEdIeXN6eFJ4TXp6dFZPY01ZaFlHYm1QdTJ2MUNEZ0Z6RllOWmhzdmxfbW1INUdibXNtV2QxM2xzX0dNOGVhNzNaQlBUTFBRWWs1RFBKLUFpbnhkV25OMl9IOXBpYmJsZGVjQ1lNRFNTUnA1R2p0WlFUcXhrLVNYNVZPT3JSTXVKVExPUXJXOGxJNUZqOTFoRjEwSQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i14",
+          "label": "Elice Group完成模組化",
+          "title": "Elice Group完成模組化AI資料中心「PMDC」商標註冊 - BigGo",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OZnpMRkF3Q2thV3BqTDY4UWo4R1VYVW5TRXVPRlJ6am9iU0l0bDZoU3JiNXQ3a3hmMVhPVnpMbWJiNVU0V3diX1IwWkFMRFVFTE5QNWlsWEFWUW5sYUpMeTV6QXJnaFMxZFFTdlUxeF9uMGtCaEJvYUdn?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "梅洛尼申請為「聲音」註冊商標 能",
+          "title": "梅洛尼申請為「聲音」註冊商標 能擋住 AI 深偽技術嗎？ - Yellow.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRcXRVLW10X2hYQ1UwMkFyQUh5dXlWYm1VMlNqRUc5Q1R3QmRwUUVUMFpDc01PSW9raEpQelF3N2FWaUNLRDdxMmNfM3VGWk40cWp0ai1OZDhIamxtT3gtZjBqNzk0Q2JtbWFsalVLWHl3ZnNJYkNRUXl3?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "〈晶呈法說〉晶呈展2項光纖專利新",
+          "title": "〈晶呈法說〉晶呈展2項光纖專利新技術布局市場 不受AI需求疑放緩減少擴產 - 鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YckNSTmJPOE9LQjdWcm1LWWk1djYtOFRGSGpPbXAxcWh2SmhndWx4dEpSdG5nM3YzcFdOYVI0R0NfRXlTNTYxYWpmekFYWWs?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "i17",
+          "label": "全球專利申請量創歷史新高 聯合國",
+          "title": "全球專利申請量創歷史新高 聯合國報告指中國成主要推手 | 民視新聞網 - LINE TODAY",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mMVJ6MDRZaGxnamVYVEFCLUt0TG1ueGQ4M1ZtY2lSaVJFMlJFWUVqbEdrZ05ZS0RhNG9PVlJrS2tOc2lOOEU3Z3FkVWhOcGF0UnNaWExn?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i18",
+          "label": "美國擴大 AI 晶片管制 陸方：",
+          "title": "美國擴大 AI 晶片管制 陸方：人工智慧不應成為某國專利 - 經濟日報",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMm9XRkxidnZadVZ4djJ6NW0xMFo3OWtsb1lRcG9VeWlTUk4zVnV2Q1RaZkxOYVFTTFdtSENSNGFTM0RIS2FueU9sQzdHWnhSUVAweFdZVkJHd9IBX0FVX3lxTE81YWtrdWNSYzZ2cjlheGY1ZjhLTWRFQVYyZkJXRHhjM3AxeDQ5YUtYYVpfd0oxWjNMVzRnbXNXbVpfMUVJWE53RnNMWVRGYllocGE2SFNhYkE5U1dmMERB?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i19",
+          "label": "There and Back A",
+          "title": "There and Back Again: Patent Office Reverts to PTAB Control over IPR Petitions",
+          "url": "https://patentdocs.org/2026/11/16/there-and-back-again-patent-office-reverts-to-ptab-control-over-ipr-petitions/",
+          "group": "item"
+        },
+        {
+          "id": "i20",
+          "label": "微軟 AI 專利可即時修正直播發",
+          "title": "微軟 AI 專利可即時修正直播發言，同步調整人物嘴型 - TechNews 科技新報",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenl2ODFINVllbzVoYUljVVRMZ0hSWE1Bc3JIa204OUlZbWVVSnZWX2JhNXJzVU1NRms4ZWJ4aFpuTVRlcFV3TWszSHVMcE1Fd19qRGV2cDA4SXhROGJpWDkyVXF0NnZ2aU85MXZiejJPajRLRzQ3c3ZtS25DV2lEb2tIRWFqTG51R194ZzJENDJnUkx4VU9qNmtUclRSMmNReVhIYzhn?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i22",
+          "label": "產險損防科技化 攻AI、專利 -",
+          "title": "產險損防科技化 攻AI、專利 - 工商時報",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zSDc0aXJXREhrcnFtcTUtd2k3X2JrcVE2Vk1PMVFpSFR2TUhkYlpnMXY4bWxCdDYtLTNaYkpocUxPZERNQWl2MmtSSHdaV0dfOEZoT0VaSkNRZThoYnE0?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i23",
+          "label": "The Mental Proce",
+          "title": "The Mental Process Exception to Patentability is Absurd, but Here’s a Quick Fix",
+          "url": "https://patentdocs.org/2026/10/28/the-mental-process-exception-to-patentability-is-absurd-but-heres-a-quick-fix/",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i0",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i1",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i2",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i3",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i5",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i5",
+          "to": "c_生成式AI"
+        },
+        {
+          "from": "i6",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i7",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i7",
+          "to": "c_生成式AI"
+        },
+        {
+          "from": "i8",
+          "to": "c_商標"
+        },
+        {
+          "from": "i8",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i11",
+          "to": "c_商標"
+        },
+        {
+          "from": "i12",
+          "to": "c_商標"
+        },
+        {
+          "from": "i12",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i13",
+          "to": "c_商標"
+        },
+        {
+          "from": "i14",
+          "to": "c_商標"
+        },
+        {
+          "from": "i15",
+          "to": "c_商標"
+        },
+        {
+          "from": "i16",
+          "to": "c_專利"
+        },
+        {
+          "from": "i17",
+          "to": "c_專利"
+        },
+        {
+          "from": "i18",
+          "to": "c_專利"
+        },
+        {
+          "from": "i19",
+          "to": "c_專利"
+        },
+        {
+          "from": "i20",
+          "to": "c_專利"
+        },
+        {
+          "from": "i22",
+          "to": "c_專利"
+        },
+        {
+          "from": "i23",
+          "to": "c_專利"
+        }
+      ]
+    }
+  },
+  {
+    "id": "music-ip",
+    "name": "音樂智財與投資",
+    "desc": "音樂 NFT・版稅・數位音樂授權・IP 金融（論文核心）",
+    "area": "國際",
+    "group": null,
+    "columns": [
+      {
+        "label": "📰 新聞（中・英）",
+        "items": [
+          {
+            "title": "Meta Must Face Trimmed Reels Music Copyright, Defamation Claims - Bloomberg Law News",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEdZYnVES3dWNVlhczJxaGdKRE8wRVRvNzFtZHRzakdxSF84TG92eElmU1ZMems5TkN5ZmJGd2syWkcwZ0FaQ2dRWVMwQTdmT1dwUGFHc3I4dWJvQlRDN0xudTRfb182RVllZ3dlTXRZTVpsMWxpLW5qejluTExoakJGWmVpVldoRC1HYmNYQllLSy1fYWREQjBENHJERnJp?oc=5",
+            "date": "2026-11-20",
+            "meta": "Bloomberg Law News",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Carlyle and KKR pour $475M into music royalties platform that bought Katy Perry's catalog - The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEdWc05mcEFiLVktYkNhWnRqenpjU3Zwb3JucGlkOEFNVFUzejBTWmtId3V1UmpLMkR6T210algwdldCam5TMG4xTEpKa3BILWpDMXN5a29ISk5ZdzBaX2pXbkJQeWJVS1hPMG5pekxHdlB1ZnB5MDMwTl94dnRiWlpEZ2ZxendNNHBvdA?oc=5",
+            "date": "2026-11-20",
+            "meta": "The Business Journals",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "綠營控唱蘇打綠侵權 蔣萬安競辦：已向中華音樂著作權協會取得授權 - Yahoo新聞",
+            "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNZGNQVnJ5VkFIZ3ljc2tvYU9LZmpmLW9QZ19oTXJMZEEzV3J6NzhDUzlQVExSNmlWS01seVN0MEZ1M2RsVTFZWlRFSXZjWjZ2anBOS2lZQXBpQnAxRTR4bWxpX1JTS1h6NWdkdmVRTjNIazlqSGYxVGZQdG9Sdm1zQ0RfSHdZWUswc0hfT3FHZ01ZN3g0dHJ0VVA2ZWRHZDFmbFNDMDlYWkVkZkxuTC1pNjZUVGQwbFhGaHJSZ3FjdHBqaTQyQ1pYcWpIYUNoSnFQczRRU2tWdFhlYnd4WHd5WElsSUZmUEVGVmtyMWUyTWY3Z3RnVTB1M2NVY3dwbGM3eWJjVWtzbDRNaTVhWWw4MXI3SmZpMlRGRUpYQ2JrcnVOX2Y3SjByNEJaWW9aZHJZcGt5eXdVYnU2akI0c2xaTTl4UHZFVDJhRTV1M3lYQVVtWGxQUjZUYl9IRFhYYzZQQ3ltbk1Eb3pnWXF4VWwzcmRoYWkwZXlaZTlQUzV6QjJ1Y0tVTnlYUWxwYUU1VkhuczdCb0JfTDgyNjhGZnBzbGdUSGFYTmxUcDBpOC1vQU1lQQ?oc=5",
+            "date": "2026-11-16",
+            "meta": "Yahoo新聞",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16"
+          },
+          {
+            "title": "GTA 6 Streamer Mode: Music Copyright on Twitch and YouTube - MNEEMO",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXg5WjJ2RmN0b25tTW80MUp2amlDNU5QMndQeFU4cnFxaGs5WU11TkJxZ1VoUWoydHUwR0hNRFhxc2ZfdnZ0cmJpak5qU2U0MEJQY19uSXNzU3FmRTd2Sks5LVZKSm9UM3NVeWpELUFEWkVoZlBPRjNZTmVOYzRQSQ?oc=5",
+            "date": "2026-11-14",
+            "meta": "MNEEMO",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-14"
+          },
+          {
+            "title": "女團拚9年首登紅白！製作人指原莉乃淚崩報喜 親自作詞版稅驚人 - ETtoday星光雲| ETtoday新聞雲",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tUXotRUowcWUwS1U5Rzc2bV8ycVh4ejBSbjBERmdMc2U0OTJfcXk2Uk5SekMtbGFpTGE5T0psSVRMQjlNXzQ5MU5vVEYwUdIBTEFVX3lxTFBOWnZST21KVml0RFNISUpINVFyWXhTQ2hrSm12TC15S0c3QnFqUjE1Wkx4UDBrcTFXeG9jcVpRRnZEWjhHTk9mczRlZUw?oc=5",
+            "date": "2026-11-14",
+            "meta": "ETtoday星光雲| ETtoday新聞雲",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-14"
+          },
+          {
+            "title": "獨家》蕭煌奇靠聽股票 坐擁6間房 認最大投資是做音樂 版稅可養子孫 - 中時新聞網",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3TmZNS1dLdG16c1hfNkE4em5McURuZUhEaU9PeFZPSFkzNk4wZE1tcnk3TU1RdTdLOFVfZFVOMVNWazBEM0w3dm5kcjVUclRQZWYzblU2YWtJNFdQdXJGNEhLN3Q5QmJlUTVNUm93?oc=5",
+            "date": "2026-11-01",
+            "meta": "中時新聞網",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-01"
+          },
+          {
+            "title": "SESAC Lobbies On Radio Royalties As Music Copyright Bills Stack - Legis1",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZVEtHZmJyaVNBc2oyTk03dWJhVTdGTmhNeHJmT3FJdW9sQ1VPdVd2d3lnSmxvYTlvM2t0c0dFN0RGdE5qSGF0Tjd0OWZjRk1wemdMV09kYXBjSmxzc1hKUnNWVHpGV2dEdXJYSEUtc183a2c?oc=5",
+            "date": "2026-10-29",
+            "meta": "Legis1",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-29"
+          },
+          {
+            "title": "U.S. Department of War: Research Security at U.S. Universities",
+            "url": "http://www.ip.finance/2026/10/us-department-of-war-research-security.html",
+            "date": "2026-10-19",
+            "meta": "IP Finance",
+            "summary": "On October 19, 2026, the U.S. Department of War issued a press release titled, “Department of War Announces Research Mitigation Results from Academic Institutions.” The Press Release states: The Department of War announc",
+            "is_new": false,
+            "_sort": "2026-10-19"
+          }
+        ]
+      },
+      {
+        "label": "📚 學術論文（NFT・版權・智能合約）",
+        "items": [
+          {
+            "title": "Blockchain-Based Ecosystems for Digital Art: A Survey of NFT Technologies, Adoption Barriers, and Implementation Challenges",
+            "url": "https://doi.org/10.1145/3861038",
+            "date": "2026-11-04",
+            "meta": "OpenAlex · Ruiqiang Li, Brian Yecies, Qin Wang · ACM Computing Surveys",
+            "summary": "This paper examines the transformative impact of blockchain technology and non-fungible tokens on the visual arts sector. We explore how NFT innovations are reshaping digital art creation, distribution, and monetization",
+            "is_new": false,
+            "_sort": "2026-11-04"
+          },
+          {
+            "title": "Legal Validity of NFT Transactions Involving Cinematographic Films: Copyright Assignment, Licensing and Infringement under the Indian Copyright Act, 1957",
+            "url": "https://doi.org/10.63108/ijlmh.13119",
+            "date": "2026-10-29",
+            "meta": "OpenAlex · Ardra Ann Mathew, V Anesha · International Journal of Law Management & Humanities",
+            "summary": "Ownership of non-fungible tokens (NFTs) associated with cinematograph films is advertised, whereas Indian copyright law makes any transfer of a right in a film by way of assignment or licence possible only if it complies",
+            "is_new": false,
+            "_sort": "2026-10-29"
+          },
+          {
+            "title": "Implementation of Blockchain Policy to Strengthen the Creative Economy Ecosystem at the Ministry of Creative Economy",
+            "url": "https://doi.org/10.61194/ijss.v7i4.2733",
+            "date": "2026-10-08",
+            "meta": "OpenAlex · Dessy Ruhati, Triyuni Soemartono, Anwar Sanusi · Ilomata International Journal of Social Science",
+            "summary": "Protecting and utilizing intellectual property (IP) are strategic aspects of the creative economy, yet the sector faces challenges in transparency, data security, and governance efficiency. Blockchain technology—characte",
+            "is_new": false,
+            "_sort": "2026-10-08"
+          },
+          {
+            "title": "Digital Rights Management and AI Licensing in the Creative Industries: Mapping the Emerging Digital Licensing Ecosystem",
+            "url": "https://doi.org/10.17863/cam.134189",
+            "date": "2026-09-09",
+            "meta": "OpenAlex · Nick Wellen, Jan-Gero Alexander Hannemann, Frank Tietze · Apollo (University of Cambridge)",
+            "summary": "Generative AI is shifting digital rights management from access control to managing an ongoing rights relationship across training, inference, and output. Addressing linked challenges in provenance, identification, attri",
+            "is_new": false,
+            "_sort": "2026-09-09"
+          },
+          {
+            "title": "Legal Analysis of DLT as Infrastructure for Copyright Remuneration in GenAI Training",
+            "url": "https://etd.adm.unipi.it/theses/available/etd-08112026-092255/",
+            "date": "2026-09-09",
+            "meta": "OpenAlex · Marianna Zaccaro · Electronic Theses and Dissertations Repository (University of Pisa)",
+            "summary": "The rapid development of Generative Artificial Intelligence (GenAI) has gradually intensified the debate around the lawful use of copyrighted works during the training phase of AI models. GenAI works by processing a larg",
+            "is_new": false,
+            "_sort": "2026-09-09"
+          },
+          {
+            "title": "TRACING THE RELEVANCE OF BLOCKCHAIN IN THE FIELD OF COPYRIGHT: BY ANALYTICALLY EXAMINING THE JOURNEY OF CONCEPT OF COPYRIGHT LAW, ROLE OF BLOCKCHAIN IN REGULATING MUSIC INDUSTRY, LICENSING, OUTPUT DEVELOPED USING ARTIFICIAL INTELLIGENCE, OWNERSHIP CLAIMS, DIGITAL RIGHTS MANAGEMENT SYSTEMS - INTERNATIONALLY AND NATIONALLY, PROBLEMS FACED DURING ENFORCEMENT AND ITS IMPRESSION ON SOCIAL JUSTICE IN INDIA",
+            "url": "https://doi.org/10.70183/lijdlr.2026.v04.315",
+            "date": "2026-09-01",
+            "meta": "OpenAlex · Vanshika Moriani · LawFoyer International Journal of Doctrinal Legal Research.",
+            "summary": "The intellectual property sector is undergoing through significant changes due to the rapid growth in the technology.This paper traces the history of the intellectual property with national and international frameworks f",
+            "is_new": false,
+            "_sort": "2026-09-01"
+          },
+          {
+            "title": "Can AI Make Art? And If So, Who Owns It? Novel Theoretical Frameworks for Understanding Artificial Intelligence, Creativity, and Ownership in the Digital Age",
+            "url": "https://doi.org/10.5281/zenodo.21874679",
+            "date": "2026-08-10",
+            "meta": "OpenAlex · Kwan Hong TAN · PhilPapers (PhilPapers Foundation)",
+            "summary": "The emergence of artificial intelligence as a creative force has fundamentally challenged traditional conceptions of authorship, creativity, and intellectual property ownership. This analysis presents six novel theoretic",
+            "is_new": false,
+            "_sort": "2026-08-10"
+          },
+          {
+            "title": "NFTS AND DIGITAL ASSETS AS OBJECTS OF INTELLECTUAL PROPERTY: A COMPARATIVE INTERNATIONAL LEGAL ANALYSIS OF RUSSIA, UZBEKISTAN, AND THE UNITED STATES",
+            "url": "https://journal.antispublisher.id/index.php/EJCBLT/article/view/1880",
+            "date": "2026-07-25",
+            "meta": "OpenAlex · Sardorbek A. Kenjaboev, Tatyana V. Vasilyeva · Journal of Contemporary Business Law & Technology Cyber Law Blockchain and Legal Innovations",
+            "summary": "Objective: This article presents a comparative legal analysis of NFT regulation in the Russian Federation, the Republic of Uzbekistan, and the United States of America, three jurisdictions that have adopted markedly diff",
+            "is_new": false,
+            "_sort": "2026-07-25"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 美國判決",
+        "items": []
+      }
+    ],
+    "charts": {
+      "index_table": [
+        {
+          "ticker": "RSVR",
+          "name": "Reservoir Media",
+          "last": 10.12,
+          "chg_1y": 38.6
+        },
+        {
+          "ticker": "WMG",
+          "name": "Warner Music",
+          "last": 32.72,
+          "chg_1y": 6.6
+        },
+        {
+          "ticker": "UMG.AS",
+          "name": "Universal Music",
+          "last": 17.0,
+          "chg_1y": -24.8
+        },
+        {
+          "ticker": "SPOT",
+          "name": "Spotify",
+          "last": 577.03,
+          "chg_1y": -1.1
+        },
+        {
+          "ticker": "INDEX",
+          "name": "音樂 IP 金融指數",
+          "last": null,
+          "chg_1y": 4.8
+        }
+      ]
+    },
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "Meta Must Face T",
+          "title": "Meta Must Face Trimmed Reels Music Copyright, Defamation Claims - Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEdZYnVES3dWNVlhczJxaGdKRE8wRVRvNzFtZHRzakdxSF84TG92eElmU1ZMems5TkN5ZmJGd2syWkcwZ0FaQ2dRWVMwQTdmT1dwUGFHc3I4dWJvQlRDN0xudTRfb182RVllZ3dlTXRZTVpsMWxpLW5qejluTExoakJGWmVpVldoRC1HYmNYQllLSy1fYWREQjBENHJERnJp?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "Carlyle and KKR ",
+          "title": "Carlyle and KKR pour $475M into music royalties platform that bought Katy Perry's catalog - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEdWc05mcEFiLVktYkNhWnRqenpjU3Zwb3JucGlkOEFNVFUzejBTWmtId3V1UmpLMkR6T210algwdldCam5TMG4xTEpKa3BILWpDMXN5a29ISk5ZdzBaX2pXbkJQeWJVS1hPMG5pekxHdlB1ZnB5MDMwTl94dnRiWlpEZ2ZxendNNHBvdA?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_版稅",
+          "label": "版稅",
+          "group": "concept"
+        },
+        {
+          "id": "c_投資/基金",
+          "label": "投資/基金",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "綠營控唱蘇打綠侵權 蔣萬安競辦：",
+          "title": "綠營控唱蘇打綠侵權 蔣萬安競辦：已向中華音樂著作權協會取得授權 - Yahoo新聞",
+          "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNZGNQVnJ5VkFIZ3ljc2tvYU9LZmpmLW9QZ19oTXJMZEEzV3J6NzhDUzlQVExSNmlWS01seVN0MEZ1M2RsVTFZWlRFSXZjWjZ2anBOS2lZQXBpQnAxRTR4bWxpX1JTS1h6NWdkdmVRTjNIazlqSGYxVGZQdG9Sdm1zQ0RfSHdZWUswc0hfT3FHZ01ZN3g0dHJ0VVA2ZWRHZDFmbFNDMDlYWkVkZkxuTC1pNjZUVGQwbFhGaHJSZ3FjdHBqaTQyQ1pYcWpIYUNoSnFQczRRU2tWdFhlYnd4WHd5WElsSUZmUEVGVmtyMWUyTWY3Z3RnVTB1M2NVY3dwbGM3eWJjVWtzbDRNaTVhWWw4MXI3SmZpMlRGRUpYQ2JrcnVOX2Y3SjByNEJaWW9aZHJZcGt5eXdVYnU2akI0c2xaTTl4UHZFVDJhRTV1M3lYQVVtWGxQUjZUYl9IRFhYYzZQQ3ltbk1Eb3pnWXF4VWwzcmRoYWkwZXlaZTlQUzV6QjJ1Y0tVTnlYUWxwYUU1VkhuczdCb0JfTDgyNjhGZnBzbGdUSGFYTmxUcDBpOC1vQU1lQQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_授權",
+          "label": "授權",
+          "group": "concept"
+        },
+        {
+          "id": "i3",
+          "label": "GTA 6 Streamer M",
+          "title": "GTA 6 Streamer Mode: Music Copyright on Twitch and YouTube - MNEEMO",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXg5WjJ2RmN0b25tTW80MUp2amlDNU5QMndQeFU4cnFxaGs5WU11TkJxZ1VoUWoydHUwR0hNRFhxc2ZfdnZ0cmJpak5qU2U0MEJQY19uSXNzU3FmRTd2Sks5LVZKSm9UM3NVeWpELUFEWkVoZlBPRjNZTmVOYzRQSQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "女團拚9年首登紅白！製作人指原莉",
+          "title": "女團拚9年首登紅白！製作人指原莉乃淚崩報喜 親自作詞版稅驚人 - ETtoday星光雲| ETtoday新聞雲",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tUXotRUowcWUwS1U5Rzc2bV8ycVh4ejBSbjBERmdMc2U0OTJfcXk2Uk5SekMtbGFpTGE5T0psSVRMQjlNXzQ5MU5vVEYwUdIBTEFVX3lxTFBOWnZST21KVml0RFNISUpINVFyWXhTQ2hrSm12TC15S0c3QnFqUjE1Wkx4UDBrcTFXeG9jcVpRRnZEWjhHTk9mczRlZUw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "獨家》蕭煌奇靠聽股票 坐擁6間房",
+          "title": "獨家》蕭煌奇靠聽股票 坐擁6間房 認最大投資是做音樂 版稅可養子孫 - 中時新聞網",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3TmZNS1dLdG16c1hfNkE4em5McURuZUhEaU9PeFZPSFkzNk4wZE1tcnk3TU1RdTdLOFVfZFVOMVNWazBEM0w3dm5kcjVUclRQZWYzblU2YWtJNFdQdXJGNEhLN3Q5QmJlUTVNUm93?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "SESAC Lobbies On",
+          "title": "SESAC Lobbies On Radio Royalties As Music Copyright Bills Stack - Legis1",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZVEtHZmJyaVNBc2oyTk03dWJhVTdGTmhNeHJmT3FJdW9sQ1VPdVd2d3lnSmxvYTlvM2t0c0dFN0RGdE5qSGF0Tjd0OWZjRk1wemdMV09kYXBjSmxzc1hKUnNWVHpGV2dEdXJYSEUtc183a2c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "Blockchain-Based",
+          "title": "Blockchain-Based Ecosystems for Digital Art: A Survey of NFT Technologies, Adoption Barriers, and Implementation Challenges",
+          "url": "https://doi.org/10.1145/3861038",
+          "group": "item"
+        },
+        {
+          "id": "c_NFT",
+          "label": "NFT",
+          "group": "concept"
+        },
+        {
+          "id": "c_區塊鏈",
+          "label": "區塊鏈",
+          "group": "concept"
+        },
+        {
+          "id": "i9",
+          "label": "Legal Validity o",
+          "title": "Legal Validity of NFT Transactions Involving Cinematographic Films: Copyright Assignment, Licensing and Infringement under the Indian Copyright Act, 1957",
+          "url": "https://doi.org/10.63108/ijlmh.13119",
+          "group": "item"
+        },
+        {
+          "id": "i10",
+          "label": "Implementation o",
+          "title": "Implementation of Blockchain Policy to Strengthen the Creative Economy Ecosystem at the Ministry of Creative Economy",
+          "url": "https://doi.org/10.61194/ijss.v7i4.2733",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "Digital Rights M",
+          "title": "Digital Rights Management and AI Licensing in the Creative Industries: Mapping the Emerging Digital Licensing Ecosystem",
+          "url": "https://doi.org/10.17863/cam.134189",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "Legal Analysis o",
+          "title": "Legal Analysis of DLT as Infrastructure for Copyright Remuneration in GenAI Training",
+          "url": "https://etd.adm.unipi.it/theses/available/etd-08112026-092255/",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "TRACING THE RELE",
+          "title": "TRACING THE RELEVANCE OF BLOCKCHAIN IN THE FIELD OF COPYRIGHT: BY ANALYTICALLY EXAMINING THE JOURNEY OF CONCEPT OF COPYRIGHT LAW, ROLE OF BLOCKCHAIN IN REGULATING MUSIC INDUSTRY, LICENSING, OUTPUT DEVELOPED USING ARTIFICIAL INTELLIGENCE, OWNERSHIP CLAIMS, DIGITAL RIGHTS MANAGEMENT SYSTEMS - INTERNATIONALLY AND NATIONALLY, PROBLEMS FACED DURING ENFORCEMENT AND ITS IMPRESSION ON SOCIAL JUSTICE IN INDIA",
+          "url": "https://doi.org/10.70183/lijdlr.2026.v04.315",
+          "group": "item"
+        },
+        {
+          "id": "i14",
+          "label": "Can AI Make Art?",
+          "title": "Can AI Make Art? And If So, Who Owns It? Novel Theoretical Frameworks for Understanding Artificial Intelligence, Creativity, and Ownership in the Digital Age",
+          "url": "https://doi.org/10.5281/zenodo.21874679",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "NFTS AND DIGITAL",
+          "title": "NFTS AND DIGITAL ASSETS AS OBJECTS OF INTELLECTUAL PROPERTY: A COMPARATIVE INTERNATIONAL LEGAL ANALYSIS OF RUSSIA, UZBEKISTAN, AND THE UNITED STATES",
+          "url": "https://journal.antispublisher.id/index.php/EJCBLT/article/view/1880",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i1",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i1",
+          "to": "c_投資/基金"
+        },
+        {
+          "from": "i2",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i2",
+          "to": "c_授權"
+        },
+        {
+          "from": "i3",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i4",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i5",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i5",
+          "to": "c_投資/基金"
+        },
+        {
+          "from": "i6",
+          "to": "c_版稅"
+        },
+        {
+          "from": "i6",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i8",
+          "to": "c_NFT"
+        },
+        {
+          "from": "i8",
+          "to": "c_區塊鏈"
+        },
+        {
+          "from": "i9",
+          "to": "c_NFT"
+        },
+        {
+          "from": "i9",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i9",
+          "to": "c_授權"
+        },
+        {
+          "from": "i10",
+          "to": "c_區塊鏈"
+        },
+        {
+          "from": "i11",
+          "to": "c_授權"
+        },
+        {
+          "from": "i12",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i13",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i13",
+          "to": "c_區塊鏈"
+        },
+        {
+          "from": "i13",
+          "to": "c_授權"
+        },
+        {
+          "from": "i14",
+          "to": "c_投資/基金"
+        },
+        {
+          "from": "i15",
+          "to": "c_NFT"
+        }
+      ]
+    }
+  },
+  {
+    "id": "blockchain-gov",
+    "name": "區塊鏈演算法治理",
+    "desc": "DAO・on-chain governance・智能合約治理（論文範圍）",
+    "area": "國際",
+    "group": null,
+    "columns": [
+      {
+        "label": "📰 新聞（中・英）",
+        "items": [
+          {
+            "title": "Cardano開發路線圖已完成！ADA跌至0.15美元，創辦人否認保證幣價上漲 - 加密城市CryptoCity",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUl3ZHQ3X2xMVlZBckEyYlVCTVZhR2p3TTVoWXh2REUzWE1qdFd1Yy1sSnhJeUs0U3ZuVFlCdHZ2NlNIQlBydXotMjNLZGZ2eVU1V2dxdFdwNzdBREdTQUhyYlBRVHJyV3Z0dkhMS1M1MEhwSTVXR2EtMzlJQTNEVEV4V2w4aHduMy1XSHhMS0Q?oc=5",
+            "date": "2026-11-16",
+            "meta": "加密城市CryptoCity",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-16"
+          },
+          {
+            "title": "Broadridge To Bring On-Chain Governance to NYSE Tokenized Platform - CoinMarketCap",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTY5dEs2T0hUd0cyN2lERnJpV3NidkZ2dk5SUnZHOGlpd18wUi0tZ3RLR0JwYmFrLVFMMjgyQy1teXRzbFNta0JCb1gwOXFtTWttWFp2ZkRMZ2p6V19EcE96Vmw4eG5SempSX2lnOTVvTnBxVlBnMEljd0tNaVY0V0Y0ZFhlUVpqdVNmNnp2Z0RuS2s?oc=5",
+            "date": "2026-11-15",
+            "meta": "CoinMarketCap",
+            "summary": "",
+            "is_new": true,
+            "_sort": "2026-11-15"
+          },
+          {
+            "title": "AI、區塊鏈加速金融創新 董事會應以治理與三道防線兼顧效率與穩健 - 資誠聯合會計師事務所PwC Taiwan",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcWxUYlVLQ21rLVRGdUlYWWZJdUtKcmJPRzN4MmxudG5JZUY4ZFY3SXVjZ05ZRWZoZjlucGdYS3R6djM0WUFkd085Y0tUMGlhUW9vX0g3QkxJdmR4dDFwcUE0RVVmUXJTbG9wUU8tZw?oc=5",
+            "date": "2026-11-06",
+            "meta": "資誠聯合會計師事務所PwC Taiwan",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-11-06"
+          },
+          {
+            "title": "Court Holds All DAO Governance Token Holders Can Be Held Responsible For The Actions And Inactions Of The DAO - Legal 500",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM215WHJNalRBZXZVaG9lNWJGa2RDWjNmcUxKcVA5VnY0a1NMQVFWdWR0cy1nWTI1bkNpLTFNc1V3OVduMllIOEpzNzJULWRmdGRrOWVaVm5GNEgtWnZTdFBnbldsTUtBVXEwSGlpUzUwWnN0VEgyWkRXdnZlZEdPUm92ellSaXhsU1d2UFhrZ1N6U1U3VVFEa3FnaHkzc2RONUw2MXQzZjdBaWQ1dkhzWjB5YXRDdDlFMnZselczaGN6aURjSndmcVJYRlZUeG44TE9PeU5HQlNKaEs4SmU1bFRBc3BNb1U4VHJFV2pWN1U1bkJHSVFVakRVdVZFQlJIU0E?oc=5",
+            "date": "2026-10-30",
+            "meta": "Legal 500",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-30"
+          },
+          {
+            "title": "Jupiter's JUP Token Slides 4.24% to $0.26996 as Solana DeFi Selloff, Frozen DAO Governance Weigh on Price - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15a19jVl9BbjhIdWJMZ0pSUXZzelZEbUFsYmd3elVvaGw3R1FrZ21fWkFRQmFMeG5FWlhCaHdOcGpOY282Q21yOXFPTUhETGpwVXFjR25STHhiZ19kSUtDYlVwT3dUQ0E3azREUmZBcTBtWmFMSkE?oc=5",
+            "date": "2026-10-30",
+            "meta": "BigGo Finance",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-10-30"
+          },
+          {
+            "title": "Quack AI Merges Artificial Intelligence with Blockchain Governance - OneBullEx",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVBmdWVpSjFDM3FraGxUazNSSU1JNFBVbHNvbzV4OEpPY3RHQ0xmTEFKM2ZWVF9PX3hLbUlNdmkyWW9xTVR2bllRMklkSDhQMWF1QWdWc29obGhBaDZ3QUVJV3JicS1qY21CbTZ5ZVVTeWNTLVZ3VXkzZmpUc2xPSlN6Sk5wXzBybEYwNEozSGhNUQ?oc=5",
+            "date": "2026-09-28",
+            "meta": "OneBullEx",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-28"
+          },
+          {
+            "title": "FinTechOn 座談：穩定幣跨境治理，六地監管籲跨境合作 - 鏈新聞 ABMedia",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MDBvOHgwODBnNjJqNTdoU3BwWGMwUVI4SzMycGtjS0kwb2tubXBsNWlXaDJqTmVoV3g4dTNzSng3RDE0VzBkTnhGVzBfeHh2TGY2YnRseFk3X0VULUNvMzVGZ091ekxJV2c?oc=5",
+            "date": "2026-09-02",
+            "meta": "鏈新聞 ABMedia",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-09-02"
+          },
+          {
+            "title": "Bonk的 DAO 治理攻擊：神秘人花440 萬「合法」搬走2000 萬鎂| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHJaSmdsOWRZWGZNZ0ctR1VBeWlpY1VFcTdqZGpENWtzNkVjYy1KZnZDc2oxaDNkRVZPYWJZRjFydXlWRkd5dXhKWUhaQ1pxeU5nQ3NOWlktc3Z4bm1vRDN2OWM3TDZQUE5NUEJ2VWdpTllsbHNMS0RyZ2Vpa0x2NlBUSHg4OURGVVNVN0swQU9WelJYNEU4MjBiVXNBY1NKbUE?oc=5",
+            "date": "2026-07-08",
+            "meta": "動區動趨",
+            "summary": "",
+            "is_new": false,
+            "_sort": "2026-07-08"
+          }
+        ]
+      },
+      {
+        "label": "📚 學術論文",
+        "items": [
+          {
+            "title": "Cost, Power, and Participation in Decentralized Governance",
+            "url": "https://aisel.aisnet.org/icis2026/fintech/fintech/9",
+            "date": "2026-12-14",
+            "meta": "OpenAlex · Wei Wang, Dominik Gutt, Ting Li · AIS Electronic Library (AISeL)",
+            "summary": "How does reducing the cost of governance participation shape activity in decentralized platforms? We examine this question in decentralized autonomous organizations (DAOs), whose decentralized governance intends to encou",
+            "is_new": true,
+            "_sort": "2026-12-14"
+          },
+          {
+            "title": "Is Decentralizing Democratizing? Self-Organization and Unintended Centralization in Decentralized Social Media",
+            "url": "https://aisel.aisnet.org/icis2026/social/social/12",
+            "date": "2026-12-14",
+            "meta": "OpenAlex · Xiaoxiao Wang, Xue Bai, Subodha Kumar · AIS Electronic Library (AISeL)",
+            "summary": "Decentralized social media platforms promise to redistribute control over content curation from centralized algorithms to ordinary users, but whether this redistribution is genuinely democratizing user influence and broa",
+            "is_new": true,
+            "_sort": "2026-12-14"
+          },
+          {
+            "title": "Law as a Game: Shaping Human Behavior in Virtual Worlds Through Gamified Regulatory Logic",
+            "url": "https://doi.org/10.5204/lthj.4614",
+            "date": "2026-11-17",
+            "meta": "OpenAlex · David Torabi · Law Technology and Humans",
+            "summary": "This article introduces gamified regulation as a legitimate mode of governance for immersive virtual reality (VR) worlds commonly described as the Metaverse. It begins with the observation that such environments are onto",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions",
+            "url": "https://doi.org/10.48550/arxiv.2611.23201",
+            "date": "2026-11-17",
+            "meta": "OpenAlex · Christian Plöschberger, Irene Buller, Mark C. Ballandies · arXiv (Cornell University)",
+            "summary": "As financial institutions increasingly interact with blockchain ecosystems through decentralized finance, stablecoins, tokenized assets, and distributed ledger infrastructure, they come to depend on systems governed whol",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "Mind the Gap: Detecting Description-Execution Mismatch Attacks in DAO Governance",
+            "url": "https://doi.org/10.1145/3830454.3846550",
+            "date": "2026-11-14",
+            "meta": "OpenAlex · Bowen Cai, Nanzi Yang, Weiheng Bai · ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+            "summary": "Decentralized autonomous organizations (DAOs) make protocol changes through the proposal-based process: (1) Initiators submit a proposal; (2) DAO members vote for it based on the proposal description, and if it passes, (",
+            "is_new": true,
+            "_sort": "2026-11-14"
+          },
+          {
+            "title": "INSURANCE COMPANY AS A SOFTWARE SOLUTION",
+            "url": "https://doi.org/10.22190/fueo260422009d",
+            "date": "2026-11-14",
+            "meta": "OpenAlex · Desislav Danov · Facta Universitatis Series Economics and Organization",
+            "summary": "Digital transformation within the insurance industry often follows predictable pathways that mirror established business model blueprints. Most innovation efforts target specific segments of the insurance value chain. Co",
+            "is_new": true,
+            "_sort": "2026-11-14"
+          },
+          {
+            "title": "Generative AI for Fraud Detection: From Theory to Enterprise Deployment",
+            "url": "https://doi.org/10.1201/9781003658368",
+            "date": "2026-11-13",
+            "meta": "OpenAlex · Amit Kumar Tyagi, Shrikant Tiwari · CRC Press eBooks",
+            "summary": "With the growth of complex frauds, cyber threats, and financial crimes, standard detection approaches typically fall short. Generative AI, with its capacity to synthesize synthetic data, analyze anomalies, and improve pr",
+            "is_new": false,
+            "_sort": "2026-11-13"
+          },
+          {
+            "title": "Signal Conversion Efficiency: Generative AI, Human Judgment, and Capital Formation in Token-Based Crowdfunding",
+            "url": "https://doi.org/10.21203/rs.3.rs-11595914/v1",
+            "date": "2026-11-13",
+            "meta": "OpenAlex · Paul Momtaz, Johan Wiklund, Ye Yuan · Research Square",
+            "summary": "Information asymmetries between entrepreneurs and financiers shape the efficiency of entrepreneurial finance markets. Drawing on the distinction between information-endowment asymmetry (unequal access to signals) and inf",
+            "is_new": false,
+            "_sort": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 美國判決",
+        "items": []
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i1",
+          "label": "Broadridge To Br",
+          "title": "Broadridge To Bring On-Chain Governance to NYSE Tokenized Platform - CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTY5dEs2T0hUd0cyN2lERnJpV3NidkZ2dk5SUnZHOGlpd18wUi0tZ3RLR0JwYmFrLVFMMjgyQy1teXRzbFNta0JCb1gwOXFtTWttWFp2ZkRMZ2p6V19EcE96Vmw4eG5SempSX2lnOTVvTnBxVlBnMEljd0tNaVY0V0Y0ZFhlUVpqdVNmNnp2Z0RuS2s?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_治理",
+          "label": "治理",
+          "group": "concept"
+        },
+        {
+          "id": "c_鏈上",
+          "label": "鏈上",
+          "group": "concept"
+        },
+        {
+          "id": "c_代幣",
+          "label": "代幣",
+          "group": "concept"
+        },
+        {
+          "id": "i2",
+          "label": "AI、區塊鏈加速金融創新 董事會",
+          "title": "AI、區塊鏈加速金融創新 董事會應以治理與三道防線兼顧效率與穩健 - 資誠聯合會計師事務所PwC Taiwan",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcWxUYlVLQ21rLVRGdUlYWWZJdUtKcmJPRzN4MmxudG5JZUY4ZFY3SXVjZ05ZRWZoZjlucGdYS3R6djM0WUFkd085Y0tUMGlhUW9vX0g3QkxJdmR4dDFwcUE0RVVmUXJTbG9wUU8tZw?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Court Holds All ",
+          "title": "Court Holds All DAO Governance Token Holders Can Be Held Responsible For The Actions And Inactions Of The DAO - Legal 500",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNM215WHJNalRBZXZVaG9lNWJGa2RDWjNmcUxKcVA5VnY0a1NMQVFWdWR0cy1nWTI1bkNpLTFNc1V3OVduMllIOEpzNzJULWRmdGRrOWVaVm5GNEgtWnZTdFBnbldsTUtBVXEwSGlpUzUwWnN0VEgyWkRXdnZlZEdPUm92ellSaXhsU1d2UFhrZ1N6U1U3VVFEa3FnaHkzc2RONUw2MXQzZjdBaWQ1dkhzWjB5YXRDdDlFMnZselczaGN6aURjSndmcVJYRlZUeG44TE9PeU5HQlNKaEs4SmU1bFRBc3BNb1U4VHJFV2pWN1U1bkJHSVFVakRVdVZFQlJIU0E?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_DAO",
+          "label": "DAO",
+          "group": "concept"
+        },
+        {
+          "id": "i4",
+          "label": "Jupiter's JUP To",
+          "title": "Jupiter's JUP Token Slides 4.24% to $0.26996 as Solana DeFi Selloff, Frozen DAO Governance Weigh on Price - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15a19jVl9BbjhIdWJMZ0pSUXZzelZEbUFsYmd3elVvaGw3R1FrZ21fWkFRQmFMeG5FWlhCaHdOcGpOY282Q21yOXFPTUhETGpwVXFjR25STHhiZ19kSUtDYlVwT3dUQ0E3azREUmZBcTBtWmFMSkE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "Quack AI Merges ",
+          "title": "Quack AI Merges Artificial Intelligence with Blockchain Governance - OneBullEx",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVBmdWVpSjFDM3FraGxUazNSSU1JNFBVbHNvbzV4OEpPY3RHQ0xmTEFKM2ZWVF9PX3hLbUlNdmkyWW9xTVR2bllRMklkSDhQMWF1QWdWc29obGhBaDZ3QUVJV3JicS1qY21CbTZ5ZVVTeWNTLVZ3VXkzZmpUc2xPSlN6Sk5wXzBybEYwNEozSGhNUQ?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "FinTechOn 座談：穩定幣",
+          "title": "FinTechOn 座談：穩定幣跨境治理，六地監管籲跨境合作 - 鏈新聞 ABMedia",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MDBvOHgwODBnNjJqNTdoU3BwWGMwUVI4SzMycGtjS0kwb2tubXBsNWlXaDJqTmVoV3g4dTNzSng3RDE0VzBkTnhGVzBfeHh2TGY2YnRseFk3X0VULUNvMzVGZ091ekxJV2c?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "c_監管/制裁",
+          "label": "監管/制裁",
+          "group": "concept"
+        },
+        {
+          "id": "i7",
+          "label": "Bonk的 DAO 治理攻擊：神",
+          "title": "Bonk的 DAO 治理攻擊：神秘人花440 萬「合法」搬走2000 萬鎂| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHJaSmdsOWRZWGZNZ0ctR1VBeWlpY1VFcTdqZGpENWtzNkVjYy1KZnZDc2oxaDNkRVZPYWJZRjFydXlWRkd5dXhKWUhaQ1pxeU5nQ3NOWlktc3Z4bm1vRDN2OWM3TDZQUE5NUEJ2VWdpTllsbHNMS0RyZ2Vpa0x2NlBUSHg4OURGVVNVN0swQU9WelJYNEU4MjBiVXNBY1NKbUE?oc=5",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "Cost, Power, and",
+          "title": "Cost, Power, and Participation in Decentralized Governance",
+          "url": "https://aisel.aisnet.org/icis2026/fintech/fintech/9",
+          "group": "item"
+        },
+        {
+          "id": "i10",
+          "label": "Law as a Game: S",
+          "title": "Law as a Game: Shaping Human Behavior in Virtual Worlds Through Gamified Regulatory Logic",
+          "url": "https://doi.org/10.5204/lthj.4614",
+          "group": "item"
+        },
+        {
+          "id": "i11",
+          "label": "Governance Risks",
+          "title": "Governance Risks in Decentralized Autonomous Organizations (DAOs): Implications for Traditional Financial Institutions",
+          "url": "https://doi.org/10.48550/arxiv.2611.23201",
+          "group": "item"
+        },
+        {
+          "id": "i12",
+          "label": "Mind the Gap: De",
+          "title": "Mind the Gap: Detecting Description-Execution Mismatch Attacks in DAO Governance",
+          "url": "https://doi.org/10.1145/3830454.3846550",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "Signal Conversio",
+          "title": "Signal Conversion Efficiency: Generative AI, Human Judgment, and Capital Formation in Token-Based Crowdfunding",
+          "url": "https://doi.org/10.21203/rs.3.rs-11595914/v1",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i1",
+          "to": "c_治理"
+        },
+        {
+          "from": "i1",
+          "to": "c_鏈上"
+        },
+        {
+          "from": "i1",
+          "to": "c_代幣"
+        },
+        {
+          "from": "i2",
+          "to": "c_治理"
+        },
+        {
+          "from": "i3",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i3",
+          "to": "c_治理"
+        },
+        {
+          "from": "i3",
+          "to": "c_代幣"
+        },
+        {
+          "from": "i4",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i4",
+          "to": "c_治理"
+        },
+        {
+          "from": "i4",
+          "to": "c_代幣"
+        },
+        {
+          "from": "i5",
+          "to": "c_治理"
+        },
+        {
+          "from": "i6",
+          "to": "c_治理"
+        },
+        {
+          "from": "i6",
+          "to": "c_監管/制裁"
+        },
+        {
+          "from": "i7",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i7",
+          "to": "c_治理"
+        },
+        {
+          "from": "i8",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i8",
+          "to": "c_治理"
+        },
+        {
+          "from": "i10",
+          "to": "c_治理"
+        },
+        {
+          "from": "i10",
+          "to": "c_監管/制裁"
+        },
+        {
+          "from": "i11",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i11",
+          "to": "c_治理"
+        },
+        {
+          "from": "i11",
+          "to": "c_代幣"
+        },
+        {
+          "from": "i12",
+          "to": "c_DAO"
+        },
+        {
+          "from": "i12",
+          "to": "c_治理"
+        },
+        {
+          "from": "i15",
+          "to": "c_代幣"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ip-authority",
+    "name": "國際智財・專利 權威來源",
+    "desc": "專利實務、訴訟救濟、中國IP（你指定的權威 feeds）",
+    "area": "國際",
+    "group": "ip",
+    "columns": [
+      {
+        "label": "📄 專利實務",
+        "items": [
+          {
+            "title": "Summary Judgment Without Claim Construction",
+            "url": "https://patentlyo.com/patent/2026/11/summary-judgment-without-claim-construction.html",
+            "date": "2026-11-20",
+            "meta": "Patently-O",
+            "summary": "Federal Circuit vacates non-infringement ruling on Hydrafacial's '052 patent: court must construe 'manifold' first. 75% of revenue is serums. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "明確的專利範圍是需要明確的指示 - Cocona, Inc. v. VF Outdoor, LLC (Fed. Cir. 2026)",
+            "url": "http://enpan.blogspot.com/2026/11/cocona-inc-v-vf-outdoor-llc-fed-cir-2026.html",
+            "date": "2026-11-20",
+            "meta": "enpan Patent",
+            "summary": "案件資訊：原告/上訴人/專利權人：COCONA, INC.被告/被上訴人：VF OUTDOOR, LLC, COLUMBIA SPORTSWEAR COMPANY系爭專利：US8,945,287判決日期：November 17, 2026本案源起專利權人Cocona對VF Outdoor公司提出專利侵權告訴（系爭專利'287），地方法院判定系爭專利範圍不明確因此無效，原告Cocona提起上訴。系爭專利'287關於一種活性顆粒增強透氣膜，",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Texas Patent Filings: Back to the Eastern District",
+            "url": "https://patentlyo.com/patent/2026/11/texas-patent-filings-back-to-the-eastern-district.html",
+            "date": "2026-11-19",
+            "meta": "Patently-O",
+            "summary": "Patent forum and judge shopping in Texas: E.D. Texas now gets about 140 patent cases a month, five times W.D. Texas, as Waco's docket fell 96%. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-11-19"
+          },
+          {
+            "title": "Indefiniteness: Claiming a Measurement Without the Test Method",
+            "url": "https://patentlyo.com/patent/2026/11/indefiniteness-claiming-a-measurement-without-the-test-method.html",
+            "date": "2026-11-18",
+            "meta": "Patently-O",
+            "summary": "Federal Circuit: claims reciting a vapor transmission range of 600 to 11,000 g/m2/day are indefinite where the patent lists three test methods. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-11-18"
+          },
+          {
+            "title": "There and Back Again: Patent Office Reverts to PTAB Control over IPR Petitions",
+            "url": "https://patentdocs.org/2026/11/16/there-and-back-again-patent-office-reverts-to-ptab-control-over-ipr-petitions/",
+            "date": "2026-11-17",
+            "meta": "Patent Docs",
+            "summary": "By Kevin E. Noonan – A little more than a year after dramatically changing the infrastructure of how petitions to the Patent Trial and Appeal Board were assessed and approved (see “Revision to Rules of Practice Before th",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "法院/CAFC的管轄權 - Traxcell Technologies, LLC v. Cellco Partnership (Fed. Cir. 2026)",
+            "url": "http://enpan.blogspot.com/2026/11/cafc-traxcell-technologies-llc-v-cellco.html",
+            "date": "2026-11-17",
+            "meta": "enpan Patent",
+            "summary": "本案算是一篇知識課，關於CAFC的管轄權，從CAFC法院網站可以看到其管轄範圍：案件資訊：原告/上訴人/專利權人：TRAXCELL TECHNOLOGIES, LLC被告/被上訴人：CELLCO PARTNERSHIP, DBA VERIZON WIRELESS (\"Verizon\")系爭專利：US8,977,284, US9,510,320, US9,642,024, US9,549,388判決日期：November 16, 2026",
+            "is_new": true,
+            "_sort": "2026-11-17"
+          },
+          {
+            "title": "Rule 60(d) Independent Actions and the Conversion of Merits Into Jurisdiction",
+            "url": "https://patentlyo.com/patent/2026/11/rule-60d-independent-actions-and-the-conversion-of-merits-into-jurisdiction.html",
+            "date": "2026-11-16",
+            "meta": "Patently-O",
+            "summary": "How the Federal Circuit turned the Beggerly merits standard for Rule 60(d) independent actions into a limit on subject matter jurisdiction. Continue reading this post on Patently-O.",
+            "is_new": true,
+            "_sort": "2026-11-16"
+          },
+          {
+            "title": "Federal Circuit Reversal Rates by Tribunal: District Courts vs. the PTAB",
+            "url": "https://patentlyo.com/patent/2026/11/federal-circuit-reversal-rates-by-tribunal-district-courts-vs-the-ptab.html",
+            "date": "2026-11-16",
+            "meta": "Patently-O",
+            "summary": "Since 2021 the Federal Circuit changed 33% of district court patent judgments but only 19% of PTAB trial decisions; the two rates were equal in 2021, and the gap since comes from the district court side. Continue reading",
+            "is_new": true,
+            "_sort": "2026-11-16"
+          }
+        ]
+      },
+      {
+        "label": "⚖️ 訴訟・救濟",
+        "items": [
+          {
+            "title": "Other Barks & Bites for Friday, November 20: AG Medina Says Personal Data is Payment for Social Media Use; U.S. Copyright Office Reduces Certain Fee Increases; and WIPO IP Indicators Report Says AI May Be Influencing Filings",
+            "url": "https://ipwatchdog.com/2026/11/20/bites-barks-us-copyright-office-reduces-certain-fee-increases-and-wipo-ip-indicators-report-says-ai-ma/",
+            "date": "2026-11-20",
+            "meta": "IPWatchdog",
+            "summary": "This week in Other Barks & Bites: the U.S. Copyright Office issues its final rule on agency fees reducing proposed fee increases for certain group registrations and paper notices of termination; Anthropic stock falls 10%",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "USPTO Director revives TikTok IPR thanks in part to Trump executive order; memo returning merits decisions to PTAB comes into effect",
+            "url": "https://ipfray.com/uspto-director-revives-tiktok-ipr-thanks-to-trump-executive-order-memo-returning-merits-decisions-to-ptab-comes-into-effect/",
+            "date": "2026-11-20",
+            "meta": "ip fray",
+            "summary": "The PTAB will, once again, determine whether or not to institute IPR and PGR proceedings based on merits-based considerations.",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
+            "url": "https://ipfray.com/a-year-after-issuing-mediation-guidelines-chinas-top-court-reveals-how-it-brokered-a-global-ccc-v-oppo-royalty-deal-to-end-multijurisdictional-litigation/",
+            "date": "2026-11-20",
+            "meta": "ip fray",
+            "summary": "A year after issuing mediation guidelines, China’s top court revealed how the panel’s proposed royalty in mediation helped OPPO and Crystal Clear Codec reach a global settlement covering Chinese, German and UPC litigatio",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "SharkNinja wins UPC injunction against Groupe SEB’s Freezi machines ahead of Black Friday",
+            "url": "https://ipfray.com/sharkninja-wins-upc-injunction-against-groupe-sebs-freezi-machines-ahead-of-black-friday/",
+            "date": "2026-11-20",
+            "meta": "ip fray",
+            "summary": "The UPC’s Düsseldorf Local Division granted SharkNinja a preliminary injunction against Groupe SEB’s Freezi frozen drink makers, ordering a product recall ahead of Black Friday and Christmas while clarifying the requirem",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "Munich’s notoriously slow appeals court lifts Halozyme’s PI against Merck over Keytruda SC (subcutaneous immunotherapy)",
+            "url": "https://ipfray.com/munichs-notoriously-slow-appeals-court-lifts-halozymes-pi-against-merck-over-keytruda-sc-subcutaneous-immunotherapy/",
+            "date": "2026-11-20",
+            "meta": "ip fray",
+            "summary": "It took almost a year for Merck to get this preliminary injunction lifted. And the written reasons have yet to be handed down. Meanwhile, Halozyme is pursuing this matter in main proceedings.",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "GenSquare sues Meta twice in Rio de Janeiro over HEVC patents: glasses and social media platforms targeted, early expert exam requested",
+            "url": "https://ipfray.com/gensquare-sues-meta-twice-in-rio-de-janeiro-over-hevc-patents-glasses-and-social-media-platforms-targeted-early-expert-exam-requested/",
+            "date": "2026-11-20",
+            "meta": "ip fray",
+            "summary": "GenSquare sued Meta in Rio de Janeiro over HEVC patents, one case against smart glasses and headsets, the other against Instagram, Facebook, Threads, and WhatsApp, seeking early court-appointed expert reports.",
+            "is_new": true,
+            "_sort": "2026-11-20"
+          },
+          {
+            "title": "CAFC Affirms Dismissals of Patent Infringement Lawsuits Against Apple, Amazon Web Services and Netflix",
+            "url": "https://ipwatchdog.com/2026/11/19/cafc-affirms-dismissals-patent-infringement-lawsuits-against-apple-amazon-web-services-and-netflix/",
+            "date": "2026-11-19",
+            "meta": "IPWatchdog",
+            "summary": "The U.S. Court of Appeals for the Federal Circuit (CAFC), in two rulings issued today in Touchmusic Entertainment LLC v. Netflix, Inc. and Touchmusic Entertainment LLC v. Apple Inc. and Amazon Web Services, Inc., affirme",
+            "is_new": true,
+            "_sort": "2026-11-19"
+          },
+          {
+            "title": "PERA: Where Patent Law and Healthcare Issues Collide",
+            "url": "https://ipwatchdog.com/2026/11/19/pera-where-patent-law-and-healthcare-issues-collide/",
+            "date": "2026-11-19",
+            "meta": "IPWatchdog",
+            "summary": "U.S. Supreme Court opinions in Mayo Collaborative Services v. Prometheus Laboratories, Inc., Association for Molecular Pathology v. Myriad Genetics, Inc., and Alice Corporation Pty. Ltd. V. CLS Bank International et al.,",
+            "is_new": true,
+            "_sort": "2026-11-19"
+          }
+        ]
+      },
+      {
+        "label": "🌏 中國IP・綜合",
+        "items": [
+          {
+            "title": "Amicus Brief in Takeda Patent Term Extension Case",
+            "url": "https://chinaipr.com/2026/11/13/amicus-brief-in-takeda-patent-term-extension-case/",
+            "date": "2026-11-13",
+            "meta": "China IPR",
+            "summary": "David Kappos, Judge Randall Rader, Professor Eric Priest, and I submitted an amicus brief to the Beijing Intellectual Property Court in a patent term extension (PTE) case involving Takeda. The submission addresses confli",
+            "is_new": false,
+            "_sort": "2026-11-13"
+          },
+          {
+            "title": "New Article on China’s Pharmaceutical IP Reforms",
+            "url": "https://chinaipr.com/2026/09/17/new-article-on-chinas-pharmaceutical-ip-reforms/",
+            "date": "2026-09-17",
+            "meta": "China IPR",
+            "summary": "My new article “Process Tracing China’s Pharmaceutical IP Reforms: Foreign Pressure, Domestic Innovation, and Institutional Change” is now available on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7472640.",
+            "is_new": false,
+            "_sort": "2026-09-17"
+          },
+          {
+            "title": "Chen Fuli Appointed Party Secretary of CNIPA",
+            "url": "https://chinaipr.com/2026/09/11/chen-fuli-appointed-party-secretary-of-cnipa/",
+            "date": "2026-09-11",
+            "meta": "China IPR",
+            "summary": "Chen Fuli’s appointment as Party Secretary of CNIPA brings an experienced trade lawyer, diplomat and legislator into the agency’s top leadership as Shen Changyu prepares to move to WIPO. Chen previously served as China’s",
+            "is_new": false,
+            "_sort": "2026-09-11"
+          },
+          {
+            "title": "Critical Minerals, Technology, and the Future of U.S.-China Competition",
+            "url": "https://chinaipr.com/2026/09/06/critical-minerals-technology-and-the-future-of-u-s-china-competition/",
+            "date": "2026-09-07",
+            "meta": "China IPR",
+            "summary": "Join us on September 10 for a free, virtual Asia Society Northern California program, “Critical Minerals, Technology, and the Future of U.S.-China Competition,” featuring Walter Copan, Gloria Xiong, and Cory Combs. We wi",
+            "is_new": false,
+            "_sort": "2026-09-07"
+          },
+          {
+            "title": "Following My Father One Hundred Years Later",
+            "url": "https://chinaipr.com/2026/08/22/following-my-father-one-hundred-years-later/",
+            "date": "2026-08-22",
+            "meta": "China IPR",
+            "summary": "On the 100th anniversary of my father Ronald Cohen’s birth, I look back at two public-health innovations he helped develop: a blocked-flue safety control designed to prevent carbon monoxide poisoning in New York City ten",
+            "is_new": false,
+            "_sort": "2026-08-22"
+          },
+          {
+            "title": "Notice concerning Further Strengthening Management over Cultural and Artistic Programmes and Their Personnel",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/09/02/notice-concerning-further-strengthening-management-over-cultural-and-artistic-programmes-and-their-personnel/",
+            "date": "2021-09-02",
+            "meta": "China Copyright & Media",
+            "summary": "National Radio and Television Administration General Office Guang Dian Ban Fa (2021) 267 All provincial, autonomous region and municipal radio and television bureaus, the Xinjiang Production-Construction Corps Culture, S",
+            "is_new": false,
+            "_sort": "2021-09-02"
+          },
+          {
+            "title": "Notice concerning Further Strengthening Control over the “Fan Circle” Mess",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/08/25/notice-concerning-further-strengthening-control-over-the-fan-circle-mess/",
+            "date": "2021-08-25",
+            "meta": "China Copyright & Media",
+            "summary": "All provincial, autonomous region and municipal Party Committee cybersecurity and informatization offices, the Xinjiang Production-Construction Corps Party Committee Cybersecurity and Informatization Office” Since the “C",
+            "is_new": false,
+            "_sort": "2021-08-25"
+          },
+          {
+            "title": "Chinese Banking and Insurance Supervisory Commission Notice concerning Further Standardizing Commercial Banks’Internet Lending Operations",
+            "url": "https://chinacopyrightandmedia.wordpress.com/2021/02/19/chinese-banking-and-insurance-supervisory-commission-notice-concerning-further-standardizing-commercial-banksinternet-lending-operations/",
+            "date": "2021-02-19",
+            "meta": "China Copyright & Media",
+            "summary": "YBJBF No. (2021)24 All banking supervisory bureaus, all large-scale banks, shareholding-type banks and foreign invested banks: In order to promote commercial banks to effectively implement the “Provisional Rules for the",
+            "is_new": false,
+            "_sort": "2021-02-19"
+          }
+        ]
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "i0",
+          "label": "Summary Judgment",
+          "title": "Summary Judgment Without Claim Construction",
+          "url": "https://patentlyo.com/patent/2026/11/summary-judgment-without-claim-construction.html",
+          "group": "item"
+        },
+        {
+          "id": "c_專利",
+          "label": "專利",
+          "group": "concept"
+        },
+        {
+          "id": "c_訴訟",
+          "label": "訴訟",
+          "group": "concept"
+        },
+        {
+          "id": "i1",
+          "label": "明確的專利範圍是需要明確的指示 ",
+          "title": "明確的專利範圍是需要明確的指示 - Cocona, Inc. v. VF Outdoor, LLC (Fed. Cir. 2026)",
+          "url": "http://enpan.blogspot.com/2026/11/cocona-inc-v-vf-outdoor-llc-fed-cir-2026.html",
+          "group": "item"
+        },
+        {
+          "id": "i2",
+          "label": "Texas Patent Fil",
+          "title": "Texas Patent Filings: Back to the Eastern District",
+          "url": "https://patentlyo.com/patent/2026/11/texas-patent-filings-back-to-the-eastern-district.html",
+          "group": "item"
+        },
+        {
+          "id": "i3",
+          "label": "Indefiniteness: ",
+          "title": "Indefiniteness: Claiming a Measurement Without the Test Method",
+          "url": "https://patentlyo.com/patent/2026/11/indefiniteness-claiming-a-measurement-without-the-test-method.html",
+          "group": "item"
+        },
+        {
+          "id": "i4",
+          "label": "There and Back A",
+          "title": "There and Back Again: Patent Office Reverts to PTAB Control over IPR Petitions",
+          "url": "https://patentdocs.org/2026/11/16/there-and-back-again-patent-office-reverts-to-ptab-control-over-ipr-petitions/",
+          "group": "item"
+        },
+        {
+          "id": "i5",
+          "label": "法院/CAFC的管轄權 - Tr",
+          "title": "法院/CAFC的管轄權 - Traxcell Technologies, LLC v. Cellco Partnership (Fed. Cir. 2026)",
+          "url": "http://enpan.blogspot.com/2026/11/cafc-traxcell-technologies-llc-v-cellco.html",
+          "group": "item"
+        },
+        {
+          "id": "i6",
+          "label": "Rule 60(d) Indep",
+          "title": "Rule 60(d) Independent Actions and the Conversion of Merits Into Jurisdiction",
+          "url": "https://patentlyo.com/patent/2026/11/rule-60d-independent-actions-and-the-conversion-of-merits-into-jurisdiction.html",
+          "group": "item"
+        },
+        {
+          "id": "i7",
+          "label": "Federal Circuit ",
+          "title": "Federal Circuit Reversal Rates by Tribunal: District Courts vs. the PTAB",
+          "url": "https://patentlyo.com/patent/2026/11/federal-circuit-reversal-rates-by-tribunal-district-courts-vs-the-ptab.html",
+          "group": "item"
+        },
+        {
+          "id": "i8",
+          "label": "Other Barks & Bi",
+          "title": "Other Barks & Bites for Friday, November 20: AG Medina Says Personal Data is Payment for Social Media Use; U.S. Copyright Office Reduces Certain Fee Increases; and WIPO IP Indicators Report Says AI May Be Influencing Filings",
+          "url": "https://ipwatchdog.com/2026/11/20/bites-barks-us-copyright-office-reduces-certain-fee-increases-and-wipo-ip-indicators-report-says-ai-ma/",
+          "group": "item"
+        },
+        {
+          "id": "c_著作權",
+          "label": "著作權",
+          "group": "concept"
+        },
+        {
+          "id": "i9",
+          "label": "USPTO Director r",
+          "title": "USPTO Director revives TikTok IPR thanks in part to Trump executive order; memo returning merits decisions to PTAB comes into effect",
+          "url": "https://ipfray.com/uspto-director-revives-tiktok-ipr-thanks-to-trump-executive-order-memo-returning-merits-decisions-to-ptab-comes-into-effect/",
+          "group": "item"
+        },
+        {
+          "id": "c_USPTO",
+          "label": "USPTO",
+          "group": "concept"
+        },
+        {
+          "id": "i10",
+          "label": "A year after iss",
+          "title": "A year after issuing mediation guidelines, China’s top court reveals how it brokered a global CCC v. OPPO royalty deal to end multijurisdictional litigation",
+          "url": "https://ipfray.com/a-year-after-issuing-mediation-guidelines-chinas-top-court-reveals-how-it-brokered-a-global-ccc-v-oppo-royalty-deal-to-end-multijurisdictional-litigation/",
+          "group": "item"
+        },
+        {
+          "id": "c_中國",
+          "label": "中國",
+          "group": "concept"
+        },
+        {
+          "id": "i12",
+          "label": "Munich’s notorio",
+          "title": "Munich’s notoriously slow appeals court lifts Halozyme’s PI against Merck over Keytruda SC (subcutaneous immunotherapy)",
+          "url": "https://ipfray.com/munichs-notoriously-slow-appeals-court-lifts-halozymes-pi-against-merck-over-keytruda-sc-subcutaneous-immunotherapy/",
+          "group": "item"
+        },
+        {
+          "id": "i13",
+          "label": "GenSquare sues M",
+          "title": "GenSquare sues Meta twice in Rio de Janeiro over HEVC patents: glasses and social media platforms targeted, early expert exam requested",
+          "url": "https://ipfray.com/gensquare-sues-meta-twice-in-rio-de-janeiro-over-hevc-patents-glasses-and-social-media-platforms-targeted-early-expert-exam-requested/",
+          "group": "item"
+        },
+        {
+          "id": "i14",
+          "label": "CAFC Affirms Dis",
+          "title": "CAFC Affirms Dismissals of Patent Infringement Lawsuits Against Apple, Amazon Web Services and Netflix",
+          "url": "https://ipwatchdog.com/2026/11/19/cafc-affirms-dismissals-patent-infringement-lawsuits-against-apple-amazon-web-services-and-netflix/",
+          "group": "item"
+        },
+        {
+          "id": "i15",
+          "label": "PERA: Where Pate",
+          "title": "PERA: Where Patent Law and Healthcare Issues Collide",
+          "url": "https://ipwatchdog.com/2026/11/19/pera-where-patent-law-and-healthcare-issues-collide/",
+          "group": "item"
+        },
+        {
+          "id": "i16",
+          "label": "Amicus Brief in ",
+          "title": "Amicus Brief in Takeda Patent Term Extension Case",
+          "url": "https://chinaipr.com/2026/11/13/amicus-brief-in-takeda-patent-term-extension-case/",
+          "group": "item"
+        },
+        {
+          "id": "i17",
+          "label": "New Article on C",
+          "title": "New Article on China’s Pharmaceutical IP Reforms",
+          "url": "https://chinaipr.com/2026/09/17/new-article-on-chinas-pharmaceutical-ip-reforms/",
+          "group": "item"
+        },
+        {
+          "id": "i18",
+          "label": "Chen Fuli Appoin",
+          "title": "Chen Fuli Appointed Party Secretary of CNIPA",
+          "url": "https://chinaipr.com/2026/09/11/chen-fuli-appointed-party-secretary-of-cnipa/",
+          "group": "item"
+        },
+        {
+          "id": "i19",
+          "label": "Critical Mineral",
+          "title": "Critical Minerals, Technology, and the Future of U.S.-China Competition",
+          "url": "https://chinaipr.com/2026/09/06/critical-minerals-technology-and-the-future-of-u-s-china-competition/",
+          "group": "item"
+        },
+        {
+          "id": "i23",
+          "label": "Chinese Banking ",
+          "title": "Chinese Banking and Insurance Supervisory Commission Notice concerning Further Standardizing Commercial Banks’Internet Lending Operations",
+          "url": "https://chinacopyrightandmedia.wordpress.com/2021/02/19/chinese-banking-and-insurance-supervisory-commission-notice-concerning-further-standardizing-commercial-banksinternet-lending-operations/",
+          "group": "item"
+        }
+      ],
+      "edges": [
+        {
+          "from": "i0",
+          "to": "c_專利"
+        },
+        {
+          "from": "i0",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i1",
+          "to": "c_專利"
+        },
+        {
+          "from": "i2",
+          "to": "c_專利"
+        },
+        {
+          "from": "i3",
+          "to": "c_專利"
+        },
+        {
+          "from": "i4",
+          "to": "c_專利"
+        },
+        {
+          "from": "i4",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i5",
+          "to": "c_專利"
+        },
+        {
+          "from": "i6",
+          "to": "c_專利"
+        },
+        {
+          "from": "i7",
+          "to": "c_專利"
+        },
+        {
+          "from": "i7",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i8",
+          "to": "c_著作權"
+        },
+        {
+          "from": "i9",
+          "to": "c_USPTO"
+        },
+        {
+          "from": "i10",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i10",
+          "to": "c_中國"
+        },
+        {
+          "from": "i12",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i13",
+          "to": "c_專利"
+        },
+        {
+          "from": "i13",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i14",
+          "to": "c_專利"
+        },
+        {
+          "from": "i14",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i15",
+          "to": "c_專利"
+        },
+        {
+          "from": "i15",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i16",
+          "to": "c_專利"
+        },
+        {
+          "from": "i16",
+          "to": "c_訴訟"
+        },
+        {
+          "from": "i17",
+          "to": "c_中國"
+        },
+        {
+          "from": "i18",
+          "to": "c_中國"
+        },
+        {
+          "from": "i19",
+          "to": "c_中國"
+        },
+        {
+          "from": "i23",
+          "to": "c_中國"
+        }
+      ]
+    }
+  }
+]
